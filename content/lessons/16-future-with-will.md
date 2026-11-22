@@ -1,63 +1,109 @@
 # Future with Will
 
-Will adalah modal untuk membicarakan masa depan, terutama prediksi, janji, dan keputusan spontan saat berbicara. Rumusnya will + bentuk dasar untuk semua subject; tidak ada tambahan -s. “Future tense” sering dipakai sebagai istilah pengajaran, tetapi will hanyalah salah satu dari beberapa cara menyatakan masa depan dalam bahasa Inggris.
+Bahasa Inggris punya beberapa cara membicarakan masa depan. **Will** adalah yang paling fleksibel, tetapi bukan pilihan untuk semua situasi.
 
-> **Inti aturan:** Use will + base verb for a prediction, promise, or decision made at the moment of speaking.
+Lesson ini membahas kapan will tepat dipakai. Lesson 17 membandingkannya dengan going to dan present continuous.
 
-## A. Will sebagai salah satu cara berbicara tentang masa depan
+> **Kunci:** **will + V1** untuk keputusan **spontan**, **prediksi** berdasarkan pendapat, **janji**, **tawaran**, dan **permintaan**.
 
-Will adalah modal yang dapat digunakan untuk prediksi, keputusan spontan, janji, atau tawaran. I think it will rain tomorrow menyatakan prediksi; I will help you with that bag dapat menjadi keputusan atau tawaran saat berbicara. Bahasa Inggris memiliki beberapa cara menyatakan masa depan, sehingga will bukan pilihan wajib setiap kali kalimat mengandung tomorrow.
+## A. Bentuk
 
-Will diikuti bentuk dasar untuk semua subject: I will go, she will go, they will go. Tidak ada tambahan -s setelah will. Bentuk singkat I’ll dan won’t umum dalam percakapan, tetapi bentuk lengkap memudahkan saat mempelajari pola.
+:::breakdown
+I | S
+will call | V
+you | O
+tomorrow | A (time)
+= Saya akan meneleponmu besok.
+:::
 
-> **I think it will rain tomorrow.**
-> Think memberi konteks prediksi; will rain adalah modal + bentuk dasar.
+| | Semua subject |
+| --- | --- |
+| Positif | She **will come**. / She**'ll come**. |
+| Negatif | She **will not come**. / She **won't come**. |
+| Pertanyaan | **Will** she **come**? |
 
-## B. Makna bergantung konteks
+Will **tidak berubah** untuk subject apa pun, dan selalu diikuti **V1**.
 
-Bandingkan I will call you later (janji atau keputusan) dengan I am calling you at six (pengaturan yang telah dibuat). Keduanya merujuk masa depan, tetapi menunjukkan sudut pandang berbeda. Will juga muncul dalam permintaan atau kesediaan: Will you help me? Jawabannya tidak selalu sekadar ramalan tentang masa depan.
+❌ She will comes.
+✅ She will come.
 
-Negatif will not/won’t dapat menyatakan penolakan atau prediksi negatif tergantung konteks. The door won’t open mungkin berarti pintu menolak terbuka; It won’t rain mungkin prediksi. Baca keseluruhan situasi sebelum memberi label.
+## B. Kapan dipakai
 
-> **I will help you with that bag.**
-> Will + help, bukan will helps; penutur menawarkan bantuan.
+| Fungsi | Contoh |
+| --- | --- |
+| Keputusan spontan (saat bicara) | It's cold. I**'ll close** the window. |
+| Prediksi (pendapat/keyakinan) | I think it **will rain** tomorrow. |
+| Janji | I**'ll help** you with your homework. |
+| Tawaran | I**'ll carry** that bag for you. |
+| Permintaan | **Will** you **open** the door, please? |
+| Penolakan (won't) | The car **won't start**. *(mobilnya tidak mau menyala)* |
+| Fakta masa depan | The meeting **will be** on the 5th floor. |
 
-## C. Membuat kalimat yang tepat
+## C. Keputusan spontan vs rencana
 
-Tentukan apakah kamu sedang memprediksi, menjanjikan, menawarkan, atau memutuskan sesuatu saat itu. Jika will cocok, gunakan will + V1. Untuk pertanyaan pindahkan will ke depan subject: Will she come? Untuk negatif letakkan not setelah will: She will not come.
+Ini perbedaan yang paling sering diuji.
 
-Jika sebuah rencana sudah dibuat sebelumnya, going to atau present continuous mungkin menyampaikan maksud lebih jelas. Perbandingan ini dibahas pada pelajaran berikutnya. Fokus utama di sini ialah fungsi will dan bentuk verba sesudahnya.
-
-- Prediksi: It will rain.
-- Keputusan/tawaran: I will help.
-- Pertanyaan: Will you join us?
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| Situasi | Bentuk | Contoh |
 | --- | --- | --- |
-| Prediksi | S + will + V1 | I think it will rain tomorrow. |
-| Keputusan spontan | S + will + V1 | The bag is heavy. I will help you. |
-| Negatif/tanya | will not/won’t + V1; Will + S + V1? | She won’t wait. Will you join us? |
+| Diputuskan **saat bicara** | will | "We're out of milk." — "I**'ll buy** some." |
+| Sudah direncanakan **sebelumnya** | going to | I**'m going to buy** milk after work. |
 
-## Membedah dua contoh
+❌ "The phone is ringing." — "I'm going to answer it."
+✅ "The phone is ringing." — "I'll answer it."
 
-> **I think it will rain tomorrow.**
-> I think mengisyaratkan prediksi, bukan fakta pasti; will diikuti rain.
+## D. Prediksi dengan will
 
-> **I will help you with that bag.**
-> I will help dapat berupa tawaran atau keputusan yang dibuat saat melihat tas berat.
+Will sering muncul bersama kata yang menunjukkan pendapat:
 
-## Kesalahan umum
+**I think, I'm sure, I expect, probably, definitely, perhaps, maybe**
 
-**Perbaiki:** I will helps you with that bag.
+- I **think** she**'ll pass** the exam.
+- He**'ll probably** be late. *(probably setelah will)*
+- She **probably won't** come. *(probably sebelum won't)*
 
-**Gunakan:** I will help you with that bag.
+Untuk prediksi dengan **bukti yang terlihat sekarang**, pakai going to (Lesson 17).
 
-Will adalah modal dan sudah tetap untuk semua subject. Jangan tambah -s pada help.
+## E. Shall
+
+**Shall** dipakai dengan **I / we** untuk menawarkan atau meminta saran.
+
+- **Shall** I open the window? *(tawaran)*
+- **Shall** we go now? *(ajakan)*
+- What **shall** we do? *(minta saran)*
+
+## F. Will tidak dipakai setelah when/if
+
+Dalam klausa waktu dan syarat tentang masa depan, gunakan **present simple**, bukan will.
+
+❌ I'll call you when I will arrive.
+✅ I'll call you when I arrive.
+
+❌ If it will rain, we'll stay home.
+✅ If it rains, we'll stay home.
+
+(Dibahas lebih dalam di Lesson 29.)
+
+## G. Common Mistakes
+
+### 1. Will + to
+❌ I will to go.
+✅ I will go.
+
+### 2. Will + verb berubah
+❌ He will visits us.
+✅ He will visit us.
+
+### 3. Will untuk rencana yang sudah diatur
+❌ I will meet my dentist tomorrow at 10. *(janji sudah dibuat)*
+✅ I'm meeting my dentist tomorrow at 10.
+
+### 4. Will setelah when/if
+❌ When she will come, we'll start.
+✅ When she comes, we'll start.
 
 ## Ringkasan
 
-Jika rencana sudah dibuat sebelumnya, pertimbangkan going to; jika baru memutuskan sekarang atau memberi prediksi, will sering paling alami.
+- **will + V1**, sama untuk semua subject; negatif **won't**.
+- Untuk keputusan **spontan**, prediksi pendapat, janji, tawaran.
+- Rencana yang sudah ada → **going to** / present continuous.
+- Setelah **when/if** → present simple, bukan will.

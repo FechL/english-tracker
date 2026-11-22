@@ -1,63 +1,96 @@
 # Present Perfect
 
-Present perfect menghubungkan masa lalu dengan sekarang: pengalaman hingga kini, hasil yang masih relevan, atau keadaan yang dimulai dulu dan berlanjut. Bentuknya have/has + past participle (V3). Waktu lampau yang sudah selesai seperti yesterday atau in 2022 biasanya meminta past simple, bukan present perfect. “Today” bisa belum selesai, sehingga pilihannya bergantung konteks.
+Present perfect sering membingungkan karena tidak ada padanan langsung di bahasa Indonesia.
 
-> **Inti aturan:** Use have/has + past participle for life experience or a past action with a present result. Do not pair it with a finished time such as yesterday.
+Intinya sederhana: present perfect **menghubungkan masa lalu dengan sekarang**. Kapan tepatnya terjadi tidak penting; yang penting **hasil atau relevansinya sekarang**.
 
-## A. Menghubungkan masa lalu dengan sekarang
+> **Kunci:** **have/has + V3**. Dipakai untuk pengalaman, hasil yang terasa sekarang, dan keadaan yang masih berlanjut. Tidak dipakai dengan waktu lampau yang spesifik.
 
-Present perfect berbentuk have/has + past participle (V3). Bentuk ini dapat menceritakan pengalaman hingga kini, hasil yang relevan saat ini, atau keadaan yang bermula dahulu dan masih berlanjut. I have finished my homework menyoroti hasil sekarang: tugas sudah selesai. She has visited Singapore twice menyatakan pengalaman sampai saat ini tanpa menyebut kapan tepatnya.
+## A. Bentuk
 
-Kita juga dapat mengatakan She has lived here since 2020 jika ia masih tinggal di sini. Since memberi titik awal; for memberi durasi. Pemilihan ini bergantung pada makna, bukan sekadar apakah verb tampak “lampau”.
+:::breakdown
+She | S
+has visited | V (has + V3)
+Japan | O
+twice | A
+= Dia sudah dua kali ke Jepang (sampai sekarang).
+:::
 
-> **I have finished my homework.**
-> Have + finished (V3) menghubungkan pekerjaan yang selesai dengan keadaan sekarang.
-
-## B. Waktu selesai dan waktu yang masih terbuka
-
-Present perfect biasanya tidak digabung dengan keterangan waktu lampau yang sudah selesai seperti yesterday atau in 2022: I have finished my homework yesterday tidak sesuai dalam penggunaan standar. Jika waktunya dinyatakan selesai, gunakan past simple: I finished my homework yesterday. Sebaliknya, today atau this week mungkin masih berlangsung, sehingga present perfect dapat cocok dalam konteks tertentu.
-
-Pertanyaan Have you ever visited Singapore? bertanya tentang pengalaman sampai sekarang. Jika lawan bicara lalu menanyakan kapan, jawabannya dapat berpindah ke past simple: Yes, I visited in 2022. Dua tense itu bekerja bersama untuk memberikan informasi yang berbeda.
-
-> **She has visited Singapore twice.**
-> Twice menghitung pengalaman hingga saat ini tanpa menempatkannya pada tanggal lampau tertentu.
-
-## C. Bentuk dan pemeriksaan
-
-Pilih have untuk I/you/we/they dan has untuk he/she/it. Setelahnya, pakai V3: gone, seen, written, finished. Jangan tertukar antara V2 dan V3 pada irregular verbs, misalnya saw versus seen. Negatifnya She has not seen it; pertanyaannya Has she seen it?
-
-Sebelum memakai present perfect, tanyakan hubungan kejadian dengan sekarang. Jika tujuannya semata melaporkan kejadian pada waktu selesai, past simple biasanya lebih tepat. Jika yang penting adalah pengalaman atau hasil kini, present perfect dapat membawa makna itu.
-
-- Pengalaman: I have seen that film.
-- Hasil: I have finished.
-- Durasi: She has lived here since 2020.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| | I / you / we / they | he / she / it |
 | --- | --- | --- |
-| Pengalaman | have/has + V3 | She has visited Singapore twice. |
-| Hasil sekarang | have/has + V3 | I have finished my homework. |
-| Durasi hingga kini | have/has + V3 + for/since | She has lived here since 2020. |
+| Positif | I **have finished**. / I**'ve finished**. | She **has finished**. / She**'s finished**. |
+| Negatif | I **haven't finished**. | She **hasn't finished**. |
+| Pertanyaan | **Have** you **finished**? | **Has** she **finished**? |
 
-## Membedah dua contoh
+V3 (past participle): regular = **-ed** (worked); irregular perlu dihafal (gone, seen, written, eaten, done, been).
 
-> **I have finished my homework.**
-> Have finished berfokus pada hasil sekarang: tugasnya sudah selesai.
+## B. Tiga fungsi utama
 
-> **She has visited Singapore twice.**
-> Has visited menyatakan pengalaman hingga sekarang tanpa menentukan kapan tepatnya dua kunjungan itu terjadi.
+### 1. Pengalaman hidup (sampai sekarang)
+- I**'ve been** to Singapore.
+- **Have** you **ever eaten** durian?
+- She**'s never seen** snow.
 
-## Kesalahan umum
+### 2. Hasil yang terasa sekarang
+- I**'ve lost** my keys. *(sekarang tidak punya kunci)*
+- He**'s broken** his leg. *(kakinya masih patah)*
+- They**'ve finished** the project. *(proyeknya sudah selesai)*
 
-**Perbaiki:** I have finished my homework yesterday.
+### 3. Keadaan yang dimulai dulu dan masih berlanjut
+- I**'ve lived** here **for** ten years. *(masih tinggal di sini)*
+- She**'s worked** at this company **since** 2020.
 
-**Gunakan:** I finished my homework yesterday.
+## C. For vs Since
 
-Yesterday adalah periode lampau yang sudah selesai. Gunakan past simple finished jika waktu itu disebut.
+| Kata | Diikuti | Contoh |
+| --- | --- | --- |
+| for | **Durasi** (berapa lama) | for three years, for two hours, for a long time |
+| since | **Titik awal** (sejak kapan) | since 2020, since Monday, since I was a child |
+
+❌ I've known her since five years.
+✅ I've known her for five years.
+
+## D. Kata penanda
+
+| Kata | Posisi & makna | Contoh |
+| --- | --- | --- |
+| ever | Pertanyaan: pernah? | Have you **ever** tried it? |
+| never | Tidak pernah | I've **never** tried it. |
+| already | Sudah (lebih cepat dari dugaan) | She's **already** left. |
+| yet | Negatif/pertanyaan, di akhir | Have you finished **yet**? / I haven't finished **yet**. |
+| just | Baru saja | I've **just** arrived. |
+| so far / recently | Sampai sekarang / baru-baru ini | We've had no problems **so far**. |
+
+## E. Been vs Gone
+
+| Bentuk | Makna |
+| --- | --- |
+| She**'s been** to Paris. | Pernah ke Paris (sudah kembali) |
+| She**'s gone** to Paris. | Pergi ke Paris (masih di sana) |
+
+## F. Common Mistakes
+
+### 1. Dengan waktu lampau spesifik
+❌ I have finished my homework yesterday.
+✅ I finished my homework yesterday.
+
+**Yesterday, last week, in 2022, ago** → past simple (Lesson 19).
+
+### 2. Has/have + V2
+❌ She has went home.
+✅ She has gone home.
+
+### 3. Present simple untuk durasi yang berlanjut
+❌ I live here since 2018.
+✅ I've lived here since 2018.
+
+### 4. Since + durasi
+❌ He has worked here since three months.
+✅ He has worked here for three months.
 
 ## Ringkasan
 
-Jika yang penting kapan peristiwa selesai, pilih past simple. Jika yang penting pengalaman, hasil kini, atau durasi hingga kini, pilih present perfect.
+- **have/has + V3**: menghubungkan masa lalu dengan **sekarang**.
+- Untuk **pengalaman**, **hasil sekarang**, dan **keadaan yang berlanjut**.
+- **for** + durasi; **since** + titik awal.
+- Ada waktu lampau spesifik (yesterday, ago) → past simple.

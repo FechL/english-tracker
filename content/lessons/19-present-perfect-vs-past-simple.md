@@ -1,63 +1,98 @@
 # Present Perfect vs Past Simple
 
-Perbedaan utama present perfect dan past simple adalah hubungan waktunya dengan saat ini. “I have seen it” memberi informasi pengalaman tanpa waktu selesai yang spesifik; “I saw it in 2022” menempatkan kejadian pada tahun lampau yang selesai. Dalam percakapan, penutur bisa berpindah dari present perfect ke past simple ketika mulai membahas detail waktunya.
+Keduanya membicarakan kejadian di masa lalu. Bedanya ada pada **fokus**: apakah kamu melihat ke **waktu kejadian**, atau ke **hubungannya dengan sekarang**.
 
-> **Inti aturan:** Present perfect leaves the time open or relevant now; past simple places the event in a finished period.
+> **Kunci:** Waktu lampau **spesifik/selesai** → past simple. Waktu **tidak disebut** atau periode **belum selesai** → present perfect.
 
-## A. Pertanyaan yang dijawab kedua tense
+## A. Perbandingan langsung
 
-Present perfect sering menjawab apakah sesuatu pernah terjadi atau apa hasilnya saat ini. Past simple sering menjawab kapan kejadian itu terjadi dalam masa lampau yang selesai. I have seen that film menyampaikan pengalaman. I saw it in 2022 menempatkan pengalaman itu pada tahun tertentu. Perbedaan ini bukan sekadar bentuk have versus V2; ia mengatur fokus informasi.
-
-Kedua tense dapat muncul berurutan: I have seen that film, but I saw it in 2022. Kalimat pertama memperkenalkan pengalaman, kalimat kedua memberikan detail waktu. Ini pola percakapan yang alami.
-
-> **I have seen that film, but I saw it in 2022.**
-> Have seen = pengalaman hingga kini; saw = peristiwa pada tahun lampau yang selesai.
-
-## B. Penanda waktu sebagai petunjuk, bukan mesin otomatis
-
-Yesterday, last year, dan in 2022 menunjuk periode lampau yang selesai sehingga biasanya berpasangan dengan past simple. Ever, never, already, yet, for, dan since sering muncul dengan present perfect, tetapi maknanya tetap harus dipahami. For dapat muncul dengan past simple jika durasinya sudah selesai: I lived there for three years, but I moved away.
-
-She has lived here since 2020 menyatakan situasi yang masih relevan atau berlanjut. She lived here from 2020 to 2022 menyatakan periode yang selesai. Keterangan waktu membantu membedakan kedua makna itu.
-
-> **She has lived here since 2020.**
-> Since memberi titik awal; present perfect menunjukkan hubungan dengan sekarang.
-
-## C. Memperbaiki kalimat yang salah
-
-Bentuk I have seen that film in 2022 menggabungkan present perfect dengan waktu lampau selesai. Jika 2022 penting, tulis I saw that film in 2022. Jika waktunya tidak penting, cukup I have seen that film. Pilih salah satu fokus informasi, lalu cocokkan tense-nya.
-
-Baca kembali pertanyaan yang ingin dijawab. “Pernah?” biasanya membuka present perfect; “Kapan?” biasanya mengarah ke past simple. Pertanyaan ini lebih berguna daripada menghafal daftar kata penanda tanpa memahami konteks.
-
-- Have you seen it? — pengalaman.
-- When did you see it? — waktu kejadian.
-- I saw it in 2022. — waktu selesai.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| | Past Simple | Present Perfect |
 | --- | --- | --- |
-| Waktu terbuka/hasil kini | have/has + V3 | I have seen that film. |
-| Waktu selesai | V2 + finished-time phrase | I saw it in 2022. |
-| Durasi masih berjalan | have/has + V3 + since/for | She has lived here since 2020. |
+| Bentuk | V2 | have/has + V3 |
+| Fokus | **Kapan** terjadi | **Hasil/pengalaman** sampai sekarang |
+| Waktu | Selesai: yesterday, in 2020, ago | Tidak disebut / belum selesai: ever, yet, today, this week |
+| Contoh | I **lost** my keys yesterday. | I**'ve lost** my keys. *(sekarang masih hilang)* |
 
-## Membedah dua contoh
+:::breakdown
+I | S
+'ve visited | V (present perfect)
+Bali | O
+three times | A
+= Pengalaman sampai sekarang, kapan tidak penting.
+:::
 
-> **I have seen that film, but I saw it in 2022.**
-> Have seen memperkenalkan pengalaman; saw it in 2022 kemudian menjelaskan peristiwa tertentu.
+:::breakdown
+I | S
+visited | V (past simple)
+Bali | O
+in 2022 | A (time)
+= Waktu spesifik yang sudah selesai.
+:::
 
-> **She has lived here since 2020.**
-> Has lived ... since 2020 berarti masa tinggalnya bermula pada 2020 dan masih berlaku sekarang.
+## B. Kata kunci waktu
 
-## Kesalahan umum
+| Past Simple | Present Perfect |
+| --- | --- |
+| yesterday | ever / never |
+| last week / month / year | already / yet / just |
+| ... ago | so far / up to now |
+| in 2019 / on Monday | recently / lately |
+| when I was a child | for / since (masih berlanjut) |
+| What time / When ...? | How long ...? |
 
-**Perbaiki:** I have seen that film in 2022.
+## C. Periode selesai vs belum selesai
 
-**Gunakan:** I saw that film in 2022.
+Kata yang sama bisa memilih tense berbeda tergantung **apakah periodenya sudah berakhir**.
 
-In 2022 menyebut waktu lampau yang sudah selesai. Present perfect biasanya tidak dipakai bersama keterangan waktu seperti itu.
+| Periode masih berjalan → present perfect | Periode sudah berakhir → past simple |
+| --- | --- |
+| I**'ve drunk** three coffees **today**. *(hari belum selesai)* | I **drank** three coffees **yesterday**. |
+| She**'s called** me twice **this morning**. *(masih pagi)* | She **called** me twice **this morning**. *(sekarang sudah sore)* |
+| He**'s written** five books. *(masih hidup, masih bisa menulis)* | Chairil Anwar **wrote** many poems. *(sudah wafat)* |
+
+## D. Pola percakapan: perfect → past
+
+Percakapan sering **dibuka dengan present perfect**, lalu **detailnya pakai past simple**.
+
+- A: **Have** you ever **been** to Lombok?
+- B: Yes, I **have**. I **went** there last year.
+- A: Really? What **did** you **do** there?
+- B: I **climbed** Mount Rinjani.
+
+Begitu waktu atau detail spesifik muncul, pindah ke past simple.
+
+## E. For: masih berlanjut atau sudah berakhir?
+
+| Kalimat | Makna |
+| --- | --- |
+| I**'ve lived** in Jogja for five years. | Masih tinggal di Jogja sekarang |
+| I **lived** in Jogja for five years. | Dulu, sekarang sudah tidak |
+
+## F. Common Mistakes
+
+### 1. Present perfect + waktu spesifik
+❌ She has graduated in 2021.
+✅ She graduated in 2021.
+
+### 2. Present perfect + ago
+❌ I've met him two weeks ago.
+✅ I met him two weeks ago.
+
+### 3. When + present perfect
+❌ When have you arrived?
+✅ When did you arrive?
+
+Pertanyaan **when** hampir selalu meminta waktu spesifik → past simple.
+
+### 4. Past simple untuk hasil yang masih terasa (tanpa waktu)
+❌ Look! Someone broke the window. *(kurang tepat dalam British English)*
+✅ Look! Someone has broken the window.
+
+Catatan: American English lebih longgar dan sering memakai past simple di sini, terutama dengan just/already/yet.
 
 ## Ringkasan
 
-Coba tambahkan “kapan tepatnya?”. Jika jawaban menyebut yesterday, last week, atau tahun selesai, past simple adalah pilihan umum.
+- Ada waktu **spesifik yang selesai** (yesterday, ago, in 2020, when?) → **past simple**.
+- Tanpa waktu, pengalaman, hasil sekarang, periode belum selesai → **present perfect**.
+- Percakapan: buka dengan perfect, detail dengan past.
+- for + present perfect = masih berlanjut; for + past simple = sudah berakhir.

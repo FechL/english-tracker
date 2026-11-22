@@ -1,65 +1,97 @@
 # Must, Have To & Should
 
-Must dan have to menyatakan kewajiban/keharusan, sedangkan should menyatakan saran. Dalam banyak konteks, must terasa lebih kuat atau berasal dari penutur; have to sering terkait aturan atau keadaan. Perbedaan paling penting ada pada negasinya: must not/mustn’t berarti dilarang; do not have to berarti tidak wajib. Should not adalah saran agar tidak melakukan sesuatu.
+Ketiganya menyatakan **keharusan**, tetapi dengan kekuatan dan sumber yang berbeda.
 
-> **Inti aturan:** Must and have to express necessity; should gives advice. Must not means prohibition, while do not have to means lack of necessity.
+Kesalahan terbesar justru ada pada bentuk **negatifnya**: mustn't dan don't have to punya makna yang sangat berbeda.
 
-## A. Kewajiban, aturan, dan saran
+> **Kunci:** **must** = keharusan dari pembicara. **have to** = keharusan dari luar (aturan, keadaan). **should** = saran.
 
-Must dan have to sering menyatakan keharusan, sedangkan should biasanya menyatakan saran. You must wear a seat belt terdengar sebagai keharusan kuat; You have to wear a seat belt dapat menyebut aturan atau keadaan yang mewajibkan. Dalam banyak konteks keduanya dapat saling menggantikan, sehingga jangan menafsirkan perbedaan sumber kewajiban sebagai hukum mutlak.
+## A. Perbandingan
 
-You should review the examples memberi saran, bukan aturan wajib. Setelah must dan should, gunakan bentuk dasar: must wear, should review. Have to memiliki to sebagai bagian konstruksinya: have to wear.
+| Bentuk | Kekuatan | Sumber | Contoh |
+| --- | --- | --- | --- |
+| must | Kuat | Pembicara sendiri / sangat penting | I **must** call my mother. |
+| have to | Kuat | Aturan, hukum, situasi | I **have to** wear a uniform at work. |
+| should / ought to | Lemah | Saran, pendapat | You **should** see a doctor. |
 
-> **You should review the examples.**
-> Should + review, bukan should to review.
+:::breakdown
+Students | S
+have to wear | V
+a uniform | O
+= Keharusan dari aturan sekolah.
+:::
 
-## B. Negasi yang mengubah makna
+Dalam praktik, **have to** jauh lebih sering dipakai daripada must dalam percakapan sehari-hari. **Must** sering muncul di tulisan resmi dan tanda: Visitors **must** register at reception.
 
-Perbedaan paling penting adalah must not versus do not have to. You must not enter berarti kamu dilarang masuk. You do not have to enter berarti masuk tidak wajib; kamu boleh memilih. Should not berarti sebaiknya tidak melakukan sesuatu. Ketiga bentuk itu tidak dapat ditukar tanpa mengubah makna.
+## B. Bentuk
 
-Untuk masa lampau, had to menyatakan keharusan yang terjadi dahulu: I had to leave early. Must tidak memiliki bentuk lampau biasa yang sama. Pertanyaan Have you to...? jarang dalam banyak varietas modern; Do you have to leave? adalah pilihan aman dalam percakapan umum.
+| | must | have to | should |
+| --- | --- | --- | --- |
+| Positif | She **must** go. | She **has to** go. | She **should** go. |
+| Negatif | She **mustn't** go. | She **doesn't have to** go. | She **shouldn't** go. |
+| Pertanyaan | **Must** she go? *(jarang)* | **Does** she **have to** go? | **Should** she go? |
+| Lampau | — *(pakai had to)* | She **had to** go. | She **should have gone**. |
+| Masa depan | — | She**'ll have to** go. | — |
 
-> **You do not have to come early.**
-> Tidak wajib datang lebih awal; bukan larangan untuk datang lebih awal.
+Have to adalah verb biasa: butuh **do/does/did** untuk negatif dan pertanyaan.
 
-## C. Menentukan intensitas pesan
+## C. Negatif: perbedaan paling penting
 
-Saat menulis instruksi, tentukan apakah hal itu wajib, dilarang, hanya disarankan, atau tidak wajib. Pilihan modal akan mengubah sikap penutur terhadap tindakan. Baca ulang kalimat negatif dengan cermat karena satu kata not dapat menghasilkan arti yang sangat berbeda.
-
-Untuk latihan, buat satu situasi dan empat kalimat: You must wear a helmet; You must not ride without one; You should check the helmet; You do not have to buy a new one. Dengan konteks yang sama, fungsi tiap bentuk menjadi jelas.
-
-- Must: wajib.
-- Must not: dilarang.
-- Should: disarankan.
-- Do not have to: tidak wajib.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| Bentuk | Makna | Contoh |
 | --- | --- | --- |
-| Wajib | must/have to + V1 | You must wear a seat belt. |
-| Saran | should + V1 | You should review the examples. |
-| Dilarang | must not + V1 | You must not smoke here. |
-| Tidak wajib | do not have to + V1 | You do not have to come early. |
+| mustn't | **Dilarang** | You **mustn't** smoke here. *(tidak boleh)* |
+| don't have to | **Tidak perlu** (boleh kalau mau) | You **don't have to** come. *(tidak wajib)* |
+| shouldn't | **Sebaiknya jangan** | You **shouldn't** eat so much sugar. |
 
-## Membedah dua contoh
+❌ It's Sunday. You mustn't go to school.
+✅ It's Sunday. You don't have to go to school.
 
-> **You must wear a seat belt.**
-> Must menunjukkan kewajiban; wear tetap bentuk dasar.
+## D. Should untuk saran
 
-> **You should review the examples.**
-> Should menyarankan cara belajar yang baik tanpa menyatakan kewajiban resmi.
+| Pola | Contoh |
+| --- | --- |
+| should + V1 | You **should** sleep earlier. |
+| I think you should... | **I think** you **should** apologize. |
+| I don't think you should... | **I don't think** you **should** go. *(lebih alami daripada "I think you shouldn't")* |
+| should have + V3 | You **should have** told me. *(menyesal/mengkritik masa lalu)* |
 
-## Kesalahan umum
+**Ought to** = should, sedikit lebih formal: You **ought to** rest.
 
-**Perbaiki:** You should to review the examples.
+## E. Must untuk deduksi
 
-**Gunakan:** You should review the examples.
+Must juga bisa berarti **"pasti"** (kesimpulan logis), bukan keharusan.
 
-Should adalah modal yang langsung diikuti bentuk dasar review. Jangan tambahkan to.
+- She's been working all day. She **must** be tired. *(pasti lelah)*
+- You **must** be joking!
+
+Lawan katanya **can't** (pasti tidak), bukan mustn't:
+
+❌ He mustn't be at home. The lights are off.
+✅ He can't be at home. The lights are off.
+
+(Dibahas lebih lanjut di Lesson 23.)
+
+## F. Common Mistakes
+
+### 1. Must + to
+❌ You must to finish this.
+✅ You must finish this.
+
+### 2. Lampau dari must
+❌ Yesterday I must work late.
+✅ Yesterday I had to work late.
+
+### 3. Mustn't untuk "tidak perlu"
+❌ You mustn't pay. It's free.
+✅ You don't have to pay. It's free.
+
+### 4. Have to tanpa do
+❌ I haven't to work tomorrow.
+✅ I don't have to work tomorrow.
 
 ## Ringkasan
 
-Untuk negasi, tanyakan apakah maksudnya “terlarang” atau “opsional”. Pilihan mustn’t dan don’t have to dapat mengubah makna secara drastis.
+- **must** = harus (dari diri/sangat penting); **have to** = harus (aturan/keadaan).
+- **mustn't** = dilarang; **don't have to** = tidak perlu.
+- **should** = saran; **should have + V3** = penyesalan.
+- Lampau → **had to**; masa depan → **will have to**.

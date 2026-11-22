@@ -1,63 +1,103 @@
 # Prepositions of Time & Place
 
-Preposition menghubungkan noun/pronoun dengan waktu, tempat, atau relasi lain. Untuk waktu, at sering menunjuk titik jam, on hari/tanggal, dan in bulan/tahun/periode. Untuk tempat, at menunjuk lokasi sebagai titik, on permukaan, dan in area atau ruang. Ini kerangka awal; banyak ungkapan tetap dan perbedaan makna yang tidak dapat ditebak hanya dari terjemahan Indonesia “di”.
+Bahasa Indonesia sering cukup dengan "di" atau "pada". Bahasa Inggris membaginya menjadi **at, on, in** berdasarkan seberapa **spesifik** waktu atau tempatnya.
 
-> **Inti aturan:** Use at for precise times/points, on for days/surfaces, and in for months, years, and enclosed areas. Idioms require practice.
+> **Kunci:** Bayangkan segitiga terbalik: **in** (luas/umum) → **on** (sedang) → **at** (titik spesifik).
 
-## A. Waktu: at, on, dan in
+## A. At, on, in untuk waktu
 
-At sering dipakai untuk waktu spesifik seperti at 9 dan at noon. On dipakai untuk hari atau tanggal: on Monday, on 22 November. In dipakai untuk bulan, tahun, musim, atau periode lebih panjang: in June, in 2026, in the morning. The class starts at 9 on Monday menggabungkan waktu jam dan hari dengan preposition berbeda.
-
-Aturan ini memberi titik awal, tetapi ekspresi tetap memiliki kebiasaan sendiri: at night, in the morning, on Monday morning. Perhatikan frasa lengkap, bukan hanya kata waktu yang berdiri sendiri.
-
-> **The class starts at 9 on Monday.**
-> At untuk pukul tertentu; on untuk hari.
-
-## B. Tempat: titik, permukaan, dan ruang
-
-At sering melihat lokasi sebagai titik atau tempat kegiatan: at the station, at school. On sering dipakai untuk permukaan: on the table, on the wall. In sering melihat sesuatu berada di dalam ruang atau wilayah: in the room, in Jakarta. She lives in Jakarta memakai in karena kota dipandang sebagai wilayah tempat tinggal.
-
-Makna preposition dapat berubah sesuai cara penutur memandang lokasi. At the school dapat menekankan lokasi/gedung, sedangkan in the school dapat menekankan bagian dalam gedung. Karena itu, jangan menyederhanakan semua pilihan menjadi ukuran fisik kecil atau besar.
-
-> **She lives in Jakarta.**
-> In dipakai untuk kota sebagai wilayah.
-
-## C. Belajar sebagai kolokasi
-
-Catat preposition bersama frasa yang lazim: at 9, on Monday, in Jakarta, on the table. Buat kalimat utuh agar makna tempat atau waktunya jelas. Jika sebuah frasa terdengar janggal, periksa contoh kamus karena beberapa kombinasi tidak dapat ditebak dari terjemahan Indonesia.
-
-Bentuk The class starts in 9 salah untuk jam tertentu; ganti in menjadi at. Sesudahnya, baca seluruh kalimat untuk memastikan preposition lain, seperti on Monday, juga sesuai.
-
-- At 9: jam.
-- On Monday: hari.
-- In Jakarta: wilayah/kota.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| Preposition | Untuk | Contoh |
 | --- | --- | --- |
-| Waktu | at + jam; on + hari; in + bulan/tahun | at 9, on Monday, in November |
-| Tempat | at + titik; on + permukaan; in + area | at the station, on the table, in Jakarta |
-| Rentang | from ... to ... / since / for | from 9 to 10; since Monday; for two days |
+| **in** | Periode panjang: bulan, tahun, musim, abad, bagian hari | in May, in 2025, in summer, in the morning |
+| **on** | Hari & tanggal | on Monday, on 17 August, on my birthday, on Monday morning |
+| **at** | Jam & titik waktu | at 7 p.m., at noon, at night, at the weekend (UK), at the moment |
 
-## Membedah dua contoh
+:::breakdown
+The meeting | S
+is | V
+on Friday | A (time: hari)
+at 9 a.m. | A (time: jam)
+:::
 
-> **The class starts at 9 on Monday.**
-> At 9 menunjuk waktu tepat; on Monday menunjuk hari.
+### Tanpa preposition
+Jangan pakai at/on/in sebelum **this, next, last, every, today, tomorrow, yesterday**.
 
-> **She lives in Jakarta.**
-> In Jakarta memperlakukan kota sebagai area tempat tinggal.
+❌ I'll see you on next Monday.
+✅ I'll see you next Monday.
 
-## Kesalahan umum
+❌ We met in last year.
+✅ We met last year.
 
-**Perbaiki:** The class starts in 9 on Monday.
+## B. At, on, in untuk tempat
 
-**Gunakan:** The class starts at 9 on Monday.
+| Preposition | Untuk | Contoh |
+| --- | --- | --- |
+| **in** | **Di dalam** ruang/area tertutup; kota, negara | in the room, in a box, in Jakarta, in Indonesia |
+| **on** | **Di atas permukaan**; jalan, lantai, transportasi umum | on the table, on the wall, on the 3rd floor, on the bus |
+| **at** | **Titik/lokasi** spesifik; alamat, acara | at the door, at home, at work, at Jl. Sudirman 10, at a party |
 
-Untuk jam tepat, gunakan at 9, bukan in 9. Kata in sesuai untuk periode seperti in November atau in 2026.
+:::breakdown
+She | S
+is waiting | V
+at the bus stop | A (place: titik)
+:::
+
+## C. Pasangan yang sering membingungkan
+
+| Pasangan | Penjelasan |
+| --- | --- |
+| **in** the car / **on** the bus | Kendaraan kecil (tidak bisa berdiri) → in; transportasi umum/besar → on |
+| **at** school / **in** the school | at = aktivitas belajar; in = di dalam gedung |
+| **in** the corner (ruangan) / **at** the corner (jalan) | Sudut dalam vs persimpangan |
+| **in** time / **on** time | in time = tidak terlambat (cukup waktu); on time = tepat waktu sesuai jadwal |
+| **in** the morning / **at** night | Bagian hari → in, kecuali night → at |
+
+## D. Preposition gerak
+
+| Preposition | Makna | Contoh |
+| --- | --- | --- |
+| to | Menuju | I go **to** work by bus. |
+| into | Masuk ke dalam | She walked **into** the room. |
+| from ... to | Dari ... ke | **from** Jakarta **to** Bandung |
+| through | Melewati (dalam) | We drove **through** the tunnel. |
+| across | Menyeberang | Walk **across** the street. |
+| along | Menyusuri | They walked **along** the beach. |
+
+Tidak pakai **to** sebelum **home**, **here**, **there**:
+
+❌ I went to home.
+✅ I went home.
+
+## E. Preposition tempat lain
+
+**next to / beside** (di sebelah), **between** (di antara dua), **among** (di antara banyak), **opposite** (di seberang), **behind** (di belakang), **in front of** (di depan), **above / over** (di atas, tidak menyentuh), **under / below** (di bawah).
+
+- The bank is **opposite** the post office.
+- The café is **between** the bank **and** the pharmacy.
+
+## F. Common Mistakes
+
+### 1. In untuk hari
+❌ I was born in Monday.
+✅ I was born on Monday.
+
+### 2. On untuk bulan/tahun
+❌ She graduated on 2023.
+✅ She graduated in 2023.
+
+### 3. Preposition sebelum next/last/this
+❌ See you at this weekend.
+✅ See you this weekend.
+
+### 4. Arrive to
+❌ We arrived to Jakarta at night.
+✅ We arrived in Jakarta at night. / We arrived at the airport.
+
+**arrive in** + kota/negara; **arrive at** + tempat spesifik.
 
 ## Ringkasan
 
-Sebelum memilih preposition, tentukan apakah informasi itu titik waktu, hari, periode, titik lokasi, permukaan, atau area.
+- Waktu: **in** bulan/tahun, **on** hari/tanggal, **at** jam.
+- Tempat: **in** di dalam/kota, **on** permukaan/transportasi umum, **at** titik.
+- Tanpa preposition sebelum **this/next/last/every** dan **home**.
+- **arrive in** kota, **arrive at** tempat.

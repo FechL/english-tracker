@@ -1,63 +1,113 @@
 # Present Simple vs Continuous
 
-Present simple dan present continuous sering muncul bersama untuk membedakan pola biasa dengan pengecualian saat ini. Usually walk menjelaskan rutinitas; am taking menjelaskan pilihan sementara hari ini. Beberapa verba dapat berubah makna menurut bentuknya: I think berarti “saya berpendapat”, sedangkan I am thinking about it berarti “sedang mempertimbangkannya”.
+Dua tense ini sama-sama "present", tetapi maknanya berbeda.
 
-> **Inti aturan:** Use present simple for habits and general truths; use present continuous for actions happening now or temporary changes.
+Kesalahan paling umum: memakai present continuous untuk kebiasaan, atau present simple untuk hal yang sedang terjadi.
 
-## A. Dua sudut pandang terhadap waktu kini
+> **Kunci:** **Permanen / rutin** → present simple. **Sedang / sementara** → present continuous.
 
-Present simple memandang situasi sebagai kebiasaan, fakta, atau keadaan yang relatif stabil. Present continuous menyoroti aktivitas yang sedang berlangsung atau situasi sementara. I usually walk, but today I am taking the bus memperlihatkan keduanya dalam satu kalimat: usually walk adalah kebiasaan, am taking adalah pengecualian hari ini.
+## A. Perbandingan langsung
 
-Perbedaan ini tidak selalu berarti permanen versus sementara secara mutlak. She works in a bank dapat berarti pekerjaan saat ini, yang suatu hari bisa berubah. She is working from home this week menekankan pengaturan sementara. Pilih bentuk berdasarkan sudut pandang yang ingin disampaikan.
-
-> **She works in a bank and is working from home this week.**
-> Works menggambarkan pekerjaan biasanya; is working menggambarkan lokasi kerja sementara minggu ini.
-
-## B. Stative verbs dan perubahan makna
-
-Verb seperti know, like, believe, need, dan own biasanya menunjukkan keadaan, bukan proses yang terlihat berlangsung. Karena itu, I know the answer lebih lazim daripada I am knowing the answer. Namun verb tertentu bisa berubah makna: I think she is right menyatakan pendapat; I am thinking about the problem menyatakan kegiatan berpikir yang sedang berlangsung.
-
-Lihat pula have: I have a car menyatakan kepemilikan, sedangkan I am having lunch menyatakan aktivitas makan. Jadi daftar “stative verb” berguna sebagai panduan, tetapi makna spesifik dalam kalimat tetap perlu diperiksa.
-
-> **I usually walk, but today I am taking the bus.**
-> Usually memberi sinyal rutinitas; today dan konteks pengecualian mendukung continuous.
-
-## C. Cara membuat keputusan
-
-Tulis pertanyaan sederhana: apakah ini kebiasaan/fakta, atau kejadian yang sedang berlangsung/bersifat sementara? Jika ada dua konteks, gunakan dua bentuk sebagaimana contoh. Setelah memilih, cek susunan: present simple he/she/it biasanya memakai -s; present continuous selalu memerlukan be + -ing.
-
-Jangan memakai am/is/are di depan verba dasar tanpa -ing untuk makna continuous. I am usually walk tidak benar. Jika ingin rutinitas, gunakan I usually walk; jika sedang berjalan sekarang, gunakan I am walking.
-
-- I work here: keadaan pekerjaan sekarang.
-- I am working here this month: penekanan sementara.
-- I think so: pendapat; I am thinking: proses.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| | Present Simple | Present Continuous |
 | --- | --- | --- |
-| Kebiasaan/fakta | S + present simple | I walk to work every day. |
-| Sekarang/sementara | S + am/is/are + V-ing | I am taking the bus today. |
-| Kontras | usually ... but today ... | I usually walk, but today I am taking the bus. |
+| Bentuk | V1 / V1+s | am/is/are + V-ing |
+| Makna | Rutin, fakta, permanen | Sedang terjadi, sementara |
+| Penanda | always, usually, every day, on Mondays | now, at the moment, this week, today |
+| Contoh | I **work** in Jakarta. | I**'m working** in Bali this month. |
 
-## Membedah dua contoh
+:::breakdown
+I | S
+usually | A (frekuensi)
+drink | V
+tea | O
+= Kebiasaan umum → present simple.
+:::
 
-> **I usually walk, but today I am taking the bus.**
-> Usually menandai kebiasaan walk; today dan am taking menandai perubahan sementara.
+:::breakdown
+but today | A
+I | S
+'m drinking | V
+coffee | O
+= Hari ini saja (sementara) → present continuous.
+:::
 
-> **She works in a bank and is working from home this week.**
-> Works in a bank menggambarkan pekerjaan yang lebih tetap; is working from home this week menunjukkan pengaturan sementara.
+## B. Pasangan kalimat
 
-## Kesalahan umum
+| Present Simple | Present Continuous |
+| --- | --- |
+| She **teaches** English. *(pekerjaannya)* | She**'s teaching** a class now. *(sedang)* |
+| He **lives** in Medan. *(permanen)* | He**'s living** in Medan until June. *(sementara)* |
+| It **rains** a lot in December. *(pola umum)* | It**'s raining**. Take an umbrella. *(sekarang)* |
+| I **walk** to work. *(biasanya)* | I**'m walking** to work this week; my car is broken. |
 
-**Perbaiki:** I am usually walk to work.
+## C. Tes cepat
 
-**Gunakan:** I usually walk to work.
+Tanyakan dua hal:
 
-Untuk kebiasaan, gunakan walk tanpa am. Bentuk am walking cocok jika Anda sedang berjalan atau membicarakan situasi sementara.
+- Apakah ini **kebiasaan atau fakta**? → present simple
+- Apakah ini terjadi **sekarang / untuk sementara**? → present continuous
+
+| Kalimat | Jawaban |
+| --- | --- |
+| Water ___ (boil) at 100°C. | **boils** — fakta |
+| Look! The water ___ (boil). | **is boiling** — sekarang |
+| She ___ (go) to the gym every day. | **goes** — rutin |
+| She ___ (go) to the gym right now. | **is going** — sedang |
+
+## D. State verbs: pengecualian penting
+
+Meskipun maknanya "sekarang", **state verbs** tetap present simple.
+
+❌ I'm knowing her now.
+✅ I know her.
+
+❌ This bag is belonging to me.
+✅ This bag belongs to me.
+
+| State verbs umum |
+| --- |
+| know, understand, believe, remember, forget, mean |
+| like, love, hate, want, need, prefer |
+| own, belong, contain, seem, cost |
+
+Bandingkan makna ganda:
+
+- I **think** you're right. *(pendapat → simple)*
+- I**'m thinking** about moving. *(proses → continuous)*
+- She **has** two brothers. *(milik → simple)*
+- She**'s having** a shower. *(aktivitas → continuous)*
+
+## E. Always + continuous = mengeluh
+
+**Always + present simple** = kebiasaan netral.
+**Always + present continuous** = kebiasaan yang **menjengkelkan**.
+
+- He **always arrives** on time. *(netral/positif)*
+- He**'s always arriving** late! *(mengeluh)*
+
+## F. Common Mistakes
+
+### 1. Continuous untuk rutinitas
+❌ I am going to school every day.
+✅ I go to school every day.
+
+### 2. Simple untuk yang sedang terjadi
+❌ Be quiet! I study.
+✅ Be quiet! I'm studying.
+
+### 3. State verb dengan -ing
+❌ She is wanting to go home.
+✅ She wants to go home.
+
+### 4. Pekerjaan vs aktivitas sekarang
+❌ What are you doing? — I'm a teacher.
+✅ What do you do? — I'm a teacher.
+
+**What do you do?** = apa pekerjaanmu. **What are you doing?** = sedang apa.
 
 ## Ringkasan
 
-Jangan memilih tense hanya dari satu kata. Periksa apakah pembicara menggambarkan pola umum atau kegiatan yang sedang/untuk sementara terjadi.
+- **Rutin / fakta / permanen** → present simple.
+- **Sekarang / sementara / berubah** → present continuous.
+- State verbs tetap simple walau maknanya "sekarang".
+- **always + -ing** untuk mengeluh.

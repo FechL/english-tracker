@@ -1,63 +1,114 @@
 # Phrasal Verbs
 
-Phrasal verb adalah gabungan verb dan particle yang maknanya sering tidak sama dengan masing-masing kata. Beberapa dapat dipisah: turn off the light / turn the light off. Jika object berupa pronoun, letakkan di tengah: turn it off. Yang lain tidak dipisah, misalnya look after someone. Pelajari phrasal verb sebagai satu unit makna beserta apakah ia membutuhkan object.
+Phrasal verb adalah **verb + particle** (up, out, on, off, down...) yang maknanya sering **berbeda** dari verb aslinya.
 
-> **Inti aturan:** A phrasal verb combines a verb with a particle. Some are separable (turn it off), while others are not (look after her). Meaning is often not literal.
+**Give** = memberi, tetapi **give up** = menyerah. Phrasal verbs sangat umum dalam percakapan dan membuat bahasa Inggrismu terdengar lebih alami.
 
-## A. Verb dan particle membentuk satu makna
+> **Kunci:** Pelajari phrasal verb sebagai **satu kosakata utuh**. Lalu cek: apakah ia punya object, dan apakah object-nya bisa diletakkan di tengah?
 
-Phrasal verb menggabungkan verb dengan particle, misalnya turn off, look after, atau give up. Maknanya kadang dapat dipahami dari bagiannya, tetapi sering perlu dipelajari sebagai satu unit. Turn off the light berarti mematikan lampu; look after her brother berarti merawat atau menjaga saudaranya.
+## A. Tiga jenis phrasal verb
 
-Jangan selalu menerjemahkan off, after, atau up kata demi kata. Catat makna keseluruhan dalam contoh kalimat. Phrasal verb sangat umum dalam bahasa Inggris sehari-hari dan dapat memiliki lebih dari satu makna menurut konteks.
-
-> **Please turn off the light.**
-> Turn off adalah satu unit makna; the light adalah object.
-
-## B. Separable dan inseparable
-
-Beberapa phrasal verb transitive dapat dipisah oleh object noun: turn off the light atau turn the light off. Jika object berupa pronoun, biasanya harus diletakkan di tengah: turn it off, bukan turn off it. Bentuk Please turn the light it off salah karena mengulang object.
-
-Phrasal verb lain tidak dapat dipisah seperti look after: She looks after her brother, bukan She looks her brother after. Karena pemisahan bergantung pada verb tertentu, pelajari phrasal verb bersama pola object-nya.
-
-> **She looks after her brother.**
-> Look after tidak dipisah oleh object her brother.
-
-## C. Cara mencatat dan memakai
-
-Untuk setiap phrasal verb baru, tulis makna, satu contoh, apakah ia mengambil object, dan apakah object dapat memisahkan verb dan particle. Jika mungkin, uji dengan pronoun. Misalnya turn off the light → turn it off. Catatan seperti ini lebih berguna daripada daftar arti tanpa struktur.
-
-Saat mengedit, lihat apakah object noun atau pronoun sudah muncul tepat sekali dan berada di posisi yang diizinkan. Ini membantu memperbaiki kalimat seperti turn the light it off dengan cepat.
-
-- Turn off the light / turn the light off.
-- Turn it off, bukan turn off it.
-- Look after her brother, bukan look her brother after.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| Jenis | Object? | Contoh |
 | --- | --- | --- |
-| Separable + noun | verb + particle + noun / verb + noun + particle | turn off the light / turn the light off |
-| Separable + pronoun | verb + pronoun + particle | turn it off |
-| Tidak dipisah | verb + particle/preposition + object | look after her |
+| Intransitive | Tidak | The car **broke down**. / **Wake up**! |
+| Separable | Ya, bisa di tengah atau di akhir | **Turn off** the light. / **Turn** the light **off**. |
+| Inseparable | Ya, harus di akhir | **Look after** the baby. (bukan look the baby after) |
 
-## Membedah dua contoh
+:::breakdown
+Please | A
+turn | V
+it | O (pronoun)
+off | particle
+= Pronoun wajib di tengah pada separable phrasal verb.
+:::
 
-> **Please turn off the light.**
-> Turn off berarti mematikan; the light adalah object yang boleh ditempatkan setelah off.
+## B. Aturan pronoun (paling penting)
 
-> **She looks after her brother.**
-> Looks after berarti menjaga/merawat. Her brother tetap setelah after; pola look her brother after salah.
+Untuk **separable** phrasal verb, jika object berupa **pronoun** (it, them, him, her), pronoun **wajib di tengah**.
 
-## Kesalahan umum
+| Object noun | Object pronoun |
+| --- | --- |
+| Turn off **the TV**. ✓ | Turn **it** off. ✓ |
+| Turn **the TV** off. ✓ | ❌ Turn off it. |
+| Pick up **your toys**. ✓ | Pick **them** up. ✓ |
 
-**Perbaiki:** Please turn the light it off.
+❌ I wrote down it.
+✅ I wrote it down.
 
-**Gunakan:** Please turn the light off.
+## C. Phrasal verbs paling umum
 
-Untuk noun, turn the light off boleh; “turn the light it off” menggandakan object. Jika object pronoun, katakan turn it off.
+### Sehari-hari
+| Phrasal verb | Makna | Contoh |
+| --- | --- | --- |
+| wake up / get up | bangun / bangkit dari tempat tidur | I **get up** at 6. |
+| put on / take off | memakai / melepas (pakaian) | **Put on** your jacket. |
+| turn on / turn off | menyalakan / mematikan | **Turn off** your phone. |
+| look for | mencari | I'm **looking for** my keys. |
+| look after | merawat | She **looks after** her grandma. |
+| pick up | menjemput / mengambil | I'll **pick** you **up** at 7. |
+
+### Hubungan & komunikasi
+| Phrasal verb | Makna | Contoh |
+| --- | --- | --- |
+| get along (with) | akur | I **get along with** my boss. |
+| call back | menelepon balik | Can you **call** me **back**? |
+| find out | mencari tahu | I **found out** the truth. |
+| bring up | mengangkat topik | Don't **bring up** politics. |
+| turn down | menolak | She **turned down** the offer. |
+
+### Pekerjaan & proses
+| Phrasal verb | Makna | Contoh |
+| --- | --- | --- |
+| give up | menyerah / berhenti | Don't **give up**! |
+| carry on / go on | melanjutkan | **Carry on** working. |
+| set up | mendirikan / menyiapkan | They **set up** a business. |
+| figure out | memahami / menemukan solusi | I can't **figure out** this problem. |
+| run out of | kehabisan | We've **run out of** milk. |
+| put off | menunda | Don't **put off** your homework. |
+
+## D. Satu phrasal verb, banyak makna
+
+| take off | Contoh |
+| --- | --- |
+| melepas | **Take off** your shoes. |
+| lepas landas | The plane **took off** at 9. |
+| sukses mendadak | Her career **took off** last year. |
+
+Konteks menentukan makna.
+
+## E. Phrasal verb vs kata formal
+
+| Informal (phrasal) | Formal |
+| --- | --- |
+| find out | discover |
+| put off | postpone |
+| give up | quit / abandon |
+| look into | investigate |
+| come up with | create / propose |
+
+Dalam percakapan, phrasal verb terdengar **lebih alami**. Dalam esai akademik, kata formal sering lebih tepat.
+
+## F. Common Mistakes
+
+### 1. Pronoun di akhir
+❌ I'll pick up you at 8.
+✅ I'll pick you up at 8.
+
+### 2. Memisahkan inseparable
+❌ I'm looking my phone for.
+✅ I'm looking for my phone.
+
+### 3. Lupa particle
+❌ I'll call you. *(maksudnya menelepon balik)*
+✅ I'll call you back.
+
+### 4. Particle yang salah
+❌ Please turn out the radio.
+✅ Please turn off the radio.
 
 ## Ringkasan
 
-Catat tiga informasi saat belajar: arti frasa, apakah perlu object, dan apakah object bisa ditempatkan di antara verb dan particle.
+- Phrasal verb = verb + particle dengan **makna baru**.
+- Separable + **pronoun** → pronoun di tengah: turn **it** off.
+- Inseparable (look after, look for, get along with) → object di akhir.
+- Pelajari bersama **contoh kalimat**, bukan hanya terjemahan.

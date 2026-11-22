@@ -1,63 +1,91 @@
 # Past Continuous
 
-Past continuous menggambarkan kegiatan yang sedang berlangsung pada suatu titik di masa lalu. Past simple sering menyatakan peristiwa singkat yang terjadi di tengah kegiatan tersebut. Ini cara menunjukkan latar versus kejadian, bukan berarti semua kalimat dengan when harus memakai past continuous. Was untuk I/he/she/it; were untuk you/we/they.
+Past continuous menyatakan sesuatu yang **sedang berlangsung pada suatu titik di masa lalu**.
 
-> **Inti aturan:** Use was/were + verb-ing. Pair it with past simple when a short event interrupts a longer action.
+Tense ini paling sering dipakai sebagai **latar** cerita, ketika kejadian lain (past simple) memotongnya.
 
-## A. Latar sebuah kejadian lampau
+> **Kunci:** **was/were + V-ing** = latar yang sedang berlangsung. **Past simple** = kejadian singkat yang terjadi.
 
-Past continuous memakai was/were + V-ing untuk menunjukkan proses yang sedang berlangsung pada titik waktu masa lalu. I was studying when the phone rang menempatkan studying sebagai kegiatan latar, sedangkan rang sebagai kejadian singkat yang datang di tengahnya. Bentuk ini juga dapat menggambarkan dua aktivitas yang berlangsung bersamaan: She was reading while I was cooking.
+## A. Bentuk
 
-Bukan berarti semua kegiatan lampau harus continuous. Jika kita hanya ingin menyatakan kejadian selesai, past simple cukup: I studied yesterday. Past continuous dipilih ketika proses atau latar waktunya penting.
+:::breakdown
+I | S
+was cooking | V
+dinner | O
+at 7 p.m. | A (time)
+= Saya sedang memasak makan malam pukul 7.
+:::
 
-> **I was studying when the phone rang.**
-> Was studying = kegiatan yang sedang berjalan; rang = kejadian yang menyela.
-
-## B. Bentuk dan penanda hubungan waktu
-
-Gunakan was untuk I/he/she/it dan were untuk you/we/they. Negatifnya I was not studying; pertanyaannya Were they studying? Bentuk I were studying salah dalam pernyataan biasa dengan I. When sering memperkenalkan kejadian yang menyela, sedangkan while sering menghubungkan dua proses, tetapi makna sebenarnya tetap ditentukan oleh verb dan konteks.
-
-At 8 p.m., they were walking menunjukkan kegiatan pada satu titik waktu lampau. Kalimat They walked at 8 p.m. dapat dibaca sebagai kejadian yang dimulai atau terjadi saat itu. Pilihan aspek mengubah fokus yang ingin dibawa pembicara.
-
-> **They were walking at 8 p.m.**
-> Were walking menyoroti proses berjalan pada pukul delapan.
-
-## C. Menggabungkan dua klausa
-
-Tentukan peristiwa mana yang menjadi latar dan mana yang terjadi secara singkat. Tempatkan latar dalam past continuous dan kejadian yang menyela dalam past simple ketika itu sesuai makna: I was reading when the lights went out. Kedua klausa dapat ditukar urutannya: When the lights went out, I was reading.
-
-Hindari memilih tense hanya karena ada when atau while. Pertama pahami garis waktu kejadian, kemudian pilih bentuk. Ini membantu saat kalimat menjadi lebih panjang atau memiliki lebih dari dua peristiwa.
-
-- I was cooking when she arrived: latar + kejadian.
-- We were talking while they were eating: dua proses.
-- I cooked dinner last night: kejadian selesai.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| | I / he / she / it | you / we / they |
 | --- | --- | --- |
-| Kegiatan berlangsung | S + was/were + V-ing | They were walking at 8 p.m. |
-| Interupsi | past continuous + when + past simple | I was studying when the phone rang. |
-| Latar serentak | while + past continuous | While I was studying, she was cooking. |
+| Positif | She **was working**. | They **were working**. |
+| Negatif | She **wasn't working**. | They **weren't working**. |
+| Pertanyaan | **Was** she **working**? | **Were** they **working**? |
 
-## Membedah dua contoh
+## B. Kapan dipakai
 
-> **I was studying when the phone rang.**
-> Was studying adalah latar yang lebih panjang; rang adalah kejadian yang memotongnya.
+| Fungsi | Contoh |
+| --- | --- |
+| Sedang berlangsung pada jam tertentu | At 9 p.m., I **was studying**. |
+| Latar yang dipotong kejadian lain | I **was cooking** when the phone **rang**. |
+| Dua aksi berlangsung bersamaan | She **was reading** while he **was cooking**. |
+| Suasana / latar cerita | The sun **was shining** and birds **were singing**. |
 
-> **They were walking at 8 p.m.**
-> At 8 p.m. menandai titik waktu pada masa lalu ketika mereka masih berjalan.
+## C. When vs While
 
-## Kesalahan umum
+Ini pola paling penting di lesson ini.
 
-**Perbaiki:** I were studying when the phone rang.
+:::patterns
+Past continuous + when + past simple | I was sleeping when the alarm rang. | Aksi panjang dipotong aksi pendek
+When + past simple, past continuous | When she arrived, we were having dinner. | Urutan klausa boleh dibalik
+While + past continuous, past simple | While I was walking home, I saw an accident. | While diikuti aksi panjang
+Past continuous + while + past continuous | He was working while I was sleeping. | Dua aksi panjang bersamaan
+:::
 
-**Gunakan:** I was studying when the phone rang.
+> **Tips:** **while** biasanya + aksi **panjang** (continuous). **when** biasanya + aksi **pendek** (simple).
 
-Subject I mengambil was, bukan were. Gunakan rang untuk kejadian singkat yang terjadi di tengah studying.
+## D. Past simple vs past continuous
+
+Perhatikan perbedaan makna:
+
+| Kalimat | Makna |
+| --- | --- |
+| When he arrived, I **cooked** dinner. | Dia datang, **lalu** saya memasak. (berurutan) |
+| When he arrived, I **was cooking** dinner. | Saat dia datang, saya **sedang** memasak. (sudah berlangsung) |
+
+- **Past simple + past simple** = berurutan.
+- **Past continuous + past simple** = satu sedang berlangsung, satu memotong.
+
+## E. State verbs
+
+Seperti present continuous, state verbs (know, want, like, believe) tidak memakai -ing.
+
+❌ I was knowing the answer.
+✅ I knew the answer.
+
+## F. Common Mistakes
+
+### 1. Continuous untuk aksi pendek yang memotong
+❌ I was watching TV when the lights were going out.
+✅ I was watching TV when the lights went out.
+
+### 2. Was/were tidak cocok
+❌ They was playing football.
+✅ They were playing football.
+
+### 3. Lupa -ing
+❌ She was cook when I came.
+✅ She was cooking when I came.
+
+### 4. Past continuous untuk kebiasaan lampau
+❌ When I was a child, I was walking to school every day.
+✅ When I was a child, I walked to school every day.
+
+Kebiasaan lampau → past simple atau **used to**.
 
 ## Ringkasan
 
-Bayangkan garis waktu: tindakan apa yang sedang berjalan, dan apa yang terjadi sesaat? Gunakan continuous untuk latar, simple untuk kejadian selesai.
+- **was/were + V-ing** = sedang berlangsung di masa lalu.
+- Aksi panjang (continuous) **dipotong** aksi pendek (simple).
+- **while** + aksi panjang; **when** + aksi pendek.
+- Past simple + past simple = berurutan.

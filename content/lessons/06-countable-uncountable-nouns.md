@@ -1,65 +1,99 @@
 # Countable & Uncountable Nouns
 
-Countable noun dapat dihitung sebagai unit: one apple, three apples. Uncountable noun diperlakukan sebagai massa, gagasan, atau kategori tanpa unit langsung: information, advice, furniture. Ini aturan gramatikal, bukan berarti benda itu mustahil dihitung; Anda menghitung satuan atau kemasannya. Beberapa kata berubah sifat menurut makna, misalnya coffee sebagai minuman umum versus two coffees sebagai dua porsi.
+Bahasa Indonesia tidak membedakan benda yang bisa dihitung dan tidak. "Dua air" dan "dua buku" sama-sama memakai kata bantu bilangan.
 
-> **Inti aturan:** Countable nouns can take a/an and plural -s. Uncountable nouns normally do not have a plural form and use expressions like some, much, or a piece of.
+Bahasa Inggris membaginya dengan tegas, dan pembagian ini menentukan **a/an, bentuk jamak, many/much, dan verb** yang dipakai.
 
-## A. Yang dihitung adalah unit gramatikal
+> **Kunci:** Countable bisa diberi angka langsung (two books). Uncountable tidak bisa; pakai **unit** (two bottles of water).
 
-Countable noun mempunyai bentuk tunggal dan jamak: one apple, two apples. Singular countable noun biasanya memerlukan determiner seperti a, the, atau my ketika digunakan sebagai noun phrase biasa. Uncountable noun diperlakukan sebagai massa, konsep, atau kategori yang tidak langsung diberi angka: information, advice, furniture, water. Ini bukan pernyataan tentang dunia fisik, melainkan cara bahasa Inggris mengelompokkan makna tersebut.
+## A. Perbedaan dasar
 
-Untuk menghitung sesuatu yang uncountable, sebutkan satuannya: a piece of advice, two pieces of furniture, a bottle of water. Bentuk an information keliru dalam penggunaan umum karena information tidak menerima article a/an secara langsung. Beberapa noun berubah menurut konteks: coffee bisa berarti minuman secara umum, sementara two coffees dapat berarti dua porsi.
-
-> **I need some information.**
-> Information diperlakukan uncountable. Some menyatakan jumlah yang tidak ditentukan.
-
-## B. Penentu jumlah yang sesuai
-
-Many, a few, dan angka biasa dipakai dengan countable plural: many books, a few questions, three apples. Much dan a little dipakai dengan uncountable: much time, a little advice. Some dan a lot of dapat dipakai dengan keduanya dalam banyak konteks: some books, some water, a lot of books, a lot of water.
-
-Saat memilih is atau are, lihat noun phrase utamanya. The information is useful, tetapi The pieces of information are useful. Pada contoh kedua, subject utamanya pieces, yang jamak. Ketelitian ini membantu bukan hanya dalam article, tetapi juga subject–verb agreement.
-
-> **She bought three apples.**
-> Angka three menuntut noun countable bentuk jamak apples.
-
-## C. Cara memeriksa noun baru
-
-Sebelum menulis a/an atau menambahkan -s, tanyakan makna noun dalam kalimat itu. Apakah kita membicarakan benda satu per satu, atau bahan/gagasan secara umum? Jika ragu, periksa kamus pembelajar untuk tanda C (countable) atau U (uncountable), karena terjemahan Indonesia tidak selalu memberi petunjuk yang cukup.
-
-Jangan menghafal semua uncountable noun sebagai daftar tanpa konteks. Buat pasangan contoh, misalnya advice versus a piece of advice, atau water versus a glass of water. Dengan begitu, kamu belajar cara mengubah makna menjadi unit yang bisa dihitung.
-
-- Countable tunggal: an apple.
-- Countable jamak: three apples.
-- Uncountable: some information.
-- Satuan: a piece of information.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| | Countable | Uncountable |
 | --- | --- | --- |
-| Countable tunggal | a/an + noun | an apple, a chair |
-| Countable jamak | number / many / a few + plural noun | three apples, many chairs |
-| Uncountable | some / much / a little + noun | some information, a little advice |
-| Satuan | a piece of + uncountable noun | a piece of advice |
+| Contoh | book, chair, idea, student | water, rice, information, advice |
+| a/an | ✓ a book | ✗ an information |
+| Bentuk jamak | ✓ books | ✗ informations |
+| Verb | is (tunggal) / are (jamak) | selalu tunggal: is |
+| Banyak | many books | much water |
+| Sedikit | a few books | a little water |
 
-## Membedah dua contoh
+## B. Uncountable yang sering menjebak
 
-> **I need some information.**
-> Information tidak memakai an karena diperlakukan uncountable. Some menyatakan jumlah yang tidak ditentukan.
+Kata-kata ini **countable di bahasa Indonesia**, tetapi **uncountable** di bahasa Inggris.
 
-> **She bought three apples.**
-> Three adalah angka sehingga apples harus bentuk jamak.
+| Kategori | Contoh |
+| --- | --- |
+| Informasi & pengetahuan | information, advice, news, knowledge, research, evidence |
+| Kumpulan benda | furniture, luggage, baggage, equipment, money, homework |
+| Pekerjaan | work, homework, progress, traffic |
+| Bahan & makanan | water, rice, sugar, bread, meat, cheese |
 
-## Kesalahan umum
+❌ She gave me many advices.
+✅ She gave me a lot of advice.
+✅ She gave me **some useful advice**.
 
-**Perbaiki:** I need an information.
+> **Ingat:** **News** berakhiran -s tetapi uncountable: The news **is** good.
 
-**Gunakan:** I need some information.
+## C. Menghitung uncountable: unit
 
-Information biasanya uncountable; jangan letakkan an langsung di depannya. Jika ingin satu unit, katakan a piece of information.
+Gunakan **unit + of + noun**.
+
+:::patterns
+a piece of ... | a piece of advice / information / furniture | unit paling umum
+a cup / glass / bottle of ... | two cups of coffee, a bottle of water | wadah minuman
+a slice / loaf of ... | three slices of bread | roti, kue
+a bag / kilo of ... | a bag of rice, a kilo of sugar | bahan makanan
+an item of ... | an item of news / clothing | lebih formal
+:::
+
+## D. Satu kata, dua makna
+
+Banyak noun bisa countable atau uncountable tergantung maknanya.
+
+| Uncountable (umum/bahan) | Countable (satu unit/jenis) |
+| --- | --- |
+| I don't have much **time**. | I've been there three **times**. |
+| The window is made of **glass**. | Can I have a **glass** of water? |
+| She has gray **hair**. | There's a **hair** in my soup. |
+| I like **coffee**. | Two **coffees**, please. (= dua cangkir) |
+| He has a lot of **experience**. | It was a great **experience**. |
+
+## E. Many, much, a lot of
+
+| Kata | Countable | Uncountable | Catatan |
+| --- | --- | --- | --- |
+| many | ✓ many books | ✗ | Umum di negatif & pertanyaan |
+| much | ✗ | ✓ much time | Umum di negatif & pertanyaan |
+| a lot of / lots of | ✓ | ✓ | Paling alami di kalimat positif |
+| (a) few | ✓ a few friends | ✗ | |
+| (a) little | ✗ | ✓ a little money | |
+
+- How **many** students are there?
+- How **much** money do you have?
+- I don't have **much** time.
+- She has **a lot of** friends. *(lebih alami daripada "She has many friends" di percakapan)*
+
+## F. Common Mistakes
+
+### 1. Uncountable diberi -s
+❌ I need more informations.
+✅ I need more information.
+
+### 2. A/an dengan uncountable
+❌ Can you give me an advice?
+✅ Can you give me some advice? / a piece of advice?
+
+### 3. Verb jamak untuk uncountable
+❌ The furniture are new.
+✅ The furniture is new.
+
+### 4. Many dengan uncountable
+❌ There isn't many traffic today.
+✅ There isn't much traffic today.
 
 ## Ringkasan
 
-Sebelum memilih a/an atau bentuk jamak, tanyakan apakah noun tersebut bisa dihitung langsung dalam makna yang dimaksud.
+- Bisa diberi angka langsung? → **countable**. Tidak? → **uncountable**.
+- Uncountable: tanpa a/an, tanpa -s, verb tunggal.
+- Hafalkan jebakan: information, advice, news, furniture, luggage, equipment, homework.
+- Hitung uncountable dengan **unit**: a piece of, a cup of, a bottle of.

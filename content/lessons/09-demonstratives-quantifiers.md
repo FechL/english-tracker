@@ -1,63 +1,117 @@
 # Demonstratives & Quantifiers
 
-Demonstrative menunjuk benda berdasarkan jarak dan jumlah: this/that untuk tunggal, these/those untuk jamak. Quantifier menyatakan jumlah yang tidak selalu pasti. Some umum dalam pernyataan positif dan tawaran; any umum dalam pertanyaan dan negasi. Makna konteks tetap menentukan: some dapat muncul dalam pertanyaan ketika menawarkan atau mengharapkan jawaban ya.
+Demonstratives menunjuk **benda yang mana** (ini/itu). Quantifiers menyatakan **berapa banyak** (beberapa, banyak, sedikit).
 
-> **Inti aturan:** This/these point to nearby singular/plural things; that/those point farther away. Some is common in affirmative statements; any is common in negatives and questions.
+Keduanya bekerja seperti determiner: muncul di depan noun dan harus cocok dengan **jumlah** serta jenis noun (countable/uncountable).
 
-## A. Demonstrative mengikuti jarak dan jumlah
+> **Kunci:** Cek dua hal: noun-nya **tunggal atau jamak**? **Countable atau uncountable**?
 
-This dan that dipakai untuk singular, sedangkan these dan those untuk plural. Perbedaan dekat/jauh dapat bersifat fisik, waktu, atau kedekatan dalam percakapan. This book dapat berarti buku di tangan; that idea dapat merujuk pada gagasan yang baru saja disebut orang lain. Dalam These books are useful, bentuk these cocok dengan books yang plural.
+## A. Demonstratives: this, that, these, those
 
-Demonstrative dapat muncul sebelum noun (these books) atau berdiri sendiri (These are useful). Ketika berdiri sendiri, rujukannya harus jelas. Jangan menulis This books karena demonstrative singular bertentangan dengan noun plural.
-
-> **These books are useful.**
-> These menunjukkan plural yang terasa dekat dalam konteks; books juga plural.
-
-## B. Quantifier menyatakan jumlah tanpa angka pasti
-
-Some lazim dalam pernyataan positif dan tawaran: I have some questions; Would you like some tea? Any lazim dalam pertanyaan dan negasi: Do you have any questions? I do not have any questions. Ini kecenderungan umum, bukan larangan mutlak. Some dalam pertanyaan tawaran sering mengisyaratkan bahwa pembicara berharap jawaban positif.
-
-Many cocok dengan countable plural, sedangkan much cocok dengan uncountable: many questions, much time. A lot of dapat dipakai dengan keduanya. Selain bentuk noun, perhatikan makna kalimat; any dalam pernyataan positif dapat berarti “apa pun”, seperti You can choose any book.
-
-> **Do you have any questions?**
-> Any cocok untuk pertanyaan netral tentang keberadaan sejumlah pertanyaan.
-
-## C. Memeriksa kesesuaian
-
-Baca noun setelah demonstrative atau quantifier. Apakah singular, plural, countable, atau uncountable? Setelah itu tentukan apakah kalimat berupa pernyataan, pertanyaan, tawaran, atau negasi. Keduanya sama pentingnya: this/these berkaitan dengan jumlah, sementara some/any sering berkaitan dengan jenis ujaran.
-
-Jika ragu, buat pasangan minimal: this book/these books dan that book/those books. Lalu tambahkan beberapa kalimat penuh agar bentuk itu tidak lepas dari konteks. Belajar dalam pasangan membantu melihat perubahan yang benar-benar membawa makna.
-
-- This book / these books.
-- That book / those books.
-- Some water / any water.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| | Dekat | Jauh |
 | --- | --- | --- |
-| Dekat | this + singular / these + plural | this book; these books |
-| Jauh | that + singular / those + plural | that chair; those chairs |
-| Jumlah | some / any + plural atau uncountable noun | some questions; any water |
+| Tunggal / uncountable | **this** book, this water | **that** book, that water |
+| Jamak | **these** books | **those** books |
 
-## Membedah dua contoh
+:::breakdown
+These | determiner
+shoes | noun (jamak)
+are | V
+too small | C
+:::
 
-> **These books are useful.**
-> These dipakai karena books jamak dan benda dibayangkan dekat pembicara.
+❌ This books are expensive.
+✅ These books are expensive.
 
-> **Do you have any questions?**
-> Any wajar pada pertanyaan terbuka Do you have any questions?; a question juga mungkin jika benar-benar menanyakan satu pertanyaan.
+❌ Those information is wrong.
+✅ That information is wrong.
 
-## Kesalahan umum
+### Jarak bisa berupa waktu atau emosi
+- **this** week (sekarang) vs **that** week (lampau)
+- **These** days, people work from home. *(akhir-akhir ini)*
+- **That**'s a great idea! *(merespons ucapan orang lain)*
 
-**Perbaiki:** This books are useful.
+## B. Quantifiers berdasarkan jenis noun
 
-**Gunakan:** These books are useful.
+| Hanya countable jamak | Hanya uncountable | Keduanya |
+| --- | --- | --- |
+| many | much | a lot of / lots of |
+| a few / few | a little / little | some / any |
+| several | a great deal of | no / enough / most / all |
+| a number of | an amount of | plenty of |
 
-Books berbentuk jamak, jadi gunakan these, bukan this. Jika jauh, gunakan those.
+- **Several** students were absent.
+- We don't have **much** time.
+- There is **enough** food / There are **enough** chairs.
+
+## C. Some vs Any
+
+| Kata | Kapan | Contoh |
+| --- | --- | --- |
+| some | Kalimat positif | I have **some** money. |
+| some | Tawaran & permintaan | Would you like **some** tea? |
+| any | Negatif | I don't have **any** money. |
+| any | Pertanyaan umum | Do you have **any** questions? |
+| any | "Yang mana saja" | Take **any** seat you like. |
+
+## D. A few vs Few, A little vs Little
+
+Perbedaan kecil, makna besar.
+
+| Kata | Makna | Nada |
+| --- | --- | --- |
+| **a few** friends | beberapa teman | positif: cukup |
+| **few** friends | hampir tidak ada teman | negatif: kurang |
+| **a little** money | sedikit uang | positif: cukup |
+| **little** money | hampir tidak ada uang | negatif: kurang |
+
+- I have **a few** friends here, so I'm not lonely.
+- He has **few** friends, so he's often lonely.
+
+## E. Each, every, all, both
+
+| Kata | Noun | Verb | Contoh |
+| --- | --- | --- | --- |
+| each | tunggal | tunggal | **Each student has** a book. |
+| every | tunggal | tunggal | **Every room is** clean. |
+| all | jamak/uncountable | sesuai noun | **All students are** here. |
+| both | jamak (dua) | jamak | **Both answers are** correct. |
+
+❌ Every students has a laptop.
+✅ Every student has a laptop.
+
+## F. Quantifier + of + the/my
+
+Jika noun **spesifik** (pakai the/my/these), tambahkan **of**:
+
+- **Some** students → **Some of the** students in my class
+- **Most** people → **Most of my** friends
+- **All** (of) the books *(of opsional setelah all/both)*
+
+❌ Most of people like music.
+✅ Most people like music.
+
+## G. Common Mistakes
+
+### 1. Demonstrative tidak cocok jumlah
+❌ I like this shoes.
+✅ I like these shoes.
+
+### 2. Every dengan noun jamak
+❌ Every days I study.
+✅ Every day I study.
+
+### 3. Much dengan countable
+❌ There are much people here.
+✅ There are many people here. / a lot of people
+
+### 4. Most of tanpa the/my
+❌ Most of students passed.
+✅ Most students passed. / Most of the students passed.
 
 ## Ringkasan
 
-Untuk kata penunjuk, putuskan dua sumbu: dekat/jauh dan tunggal/jamak. Untuk some/any, lihat fungsi kalimat dan maksud pembicara.
+- **this/that** + tunggal/uncountable; **these/those** + jamak.
+- **many/few** untuk countable; **much/little** untuk uncountable.
+- **a few/a little** = cukup; **few/little** = kurang.
+- **each/every** + tunggal; **quantifier of the** + noun spesifik.

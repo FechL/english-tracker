@@ -62,3 +62,34 @@ test('README documents every module and lesson without the removed sections', as
   assert.match(html, /<h3 class="article-subheading">Module 08/);
   assert.doesNotMatch(readme, /^## (Penilaian dan penyimpanan|Menjalankan proyek|Kredit|Rujukan belajar)$/m);
 });
+
+test('lesson Markdown renders breakdowns, pattern cards, fix lines, callouts, and italics', () => {
+  const html = renderLessonMarkdown([
+    '> **Kunci:** Verb first.',
+    '',
+    ':::breakdown',
+    'She | S',
+    'gave | V',
+    'me | IO',
+    'a gift | DO (benda)',
+    'kindly | adverb',
+    '= Dia memberi saya hadiah.',
+    ':::',
+    '',
+    ':::patterns',
+    'S + V | The baby sleeps. | sleeps = V',
+    ':::',
+    '',
+    '❌ She is teacher.',
+    '✅ She is *a* teacher.',
+  ].join('\n'));
+  assert.match(html, /<div class="article-rule"><strong>Kunci:<\/strong>/);
+  assert.match(html, /tone-s"><span class="bd-text">She<\/span><span class="bd-label">Subject<\/span>/);
+  assert.match(html, /tone-io">.*Indirect Object/);
+  assert.match(html, /Direct Object \(benda\)/);
+  assert.match(html, /tone-a">.*Adverb</);
+  assert.match(html, /<p class="bd-note">Dia memberi saya hadiah\.<\/p>/);
+  assert.match(html, /<li class="pattern-card"><span class="pc-num">1<\/span>.*S \+ V/);
+  assert.match(html, /<p class="fix-wrong">.*She is teacher\./);
+  assert.match(html, /<p class="fix-right">.*She is <em>a<\/em> teacher\./);
+});

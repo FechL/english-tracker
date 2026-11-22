@@ -1,63 +1,92 @@
 # Second & Third Conditionals
 
-Second conditional membayangkan kondisi sekarang/masa depan yang tidak nyata atau kecil kemungkinan; third conditional membayangkan masa lalu yang sudah tidak dapat diubah. Bentuk lampau di second conditional menunjukkan jarak dari kenyataan, bukan semata waktu lampau. Pada saran “If I were you”, were umum dipakai; was juga terdengar dalam beberapa konteks informal, tetapi were aman untuk penulisan formal.
+First conditional membahas situasi nyata. Second dan third conditional membahas situasi **tidak nyata**: khayalan tentang sekarang, atau penyesalan tentang masa lalu.
 
-> **Inti aturan:** Second conditional: if + past simple, would + base verb. Third conditional: if + past perfect, would have + past participle.
+Kuncinya: bahasa Inggris **"mundur satu tense"** untuk menunjukkan bahwa sesuatu tidak nyata.
 
-## A. Second conditional: membayangkan keadaan kini
+> **Kunci:** Second = **If + past simple, would + V1** (tidak nyata sekarang). Third = **If + had + V3, would have + V3** (tidak terjadi di masa lalu).
 
-Second conditional menggambarkan situasi sekarang atau masa depan yang tidak nyata, berlawanan dengan fakta, atau kecil kemungkinan. If I had more time, I would read more menyiratkan bahwa saya sekarang tidak memiliki cukup waktu. Bentuk past pada had menunjukkan jarak dari kenyataan, bukan bahwa waktunya selalu lampau.
+## A. Tiga conditional berdampingan
 
-Pola umumnya if + past simple, would + bentuk dasar. Untuk be, If I were you adalah bentuk umum dalam saran dan aman untuk tulisan formal. Was juga terdengar dalam percakapan informal pada beberapa konteks, tetapi tidak perlu dicampur dalam satu latihan dasar.
+:::patterns
+First: If + present, will + V1 | If I have time, I'll help you. | Mungkin terjadi (nyata)
+Second: If + past simple, would + V1 | If I had time, I would help you. | Tidak nyata sekarang (saya tidak punya waktu)
+Third: If + had + V3, would have + V3 | If I had had time, I would have helped you. | Tidak terjadi di masa lalu (dulu tidak punya waktu)
+:::
 
-> **If I had more time, I would read more.**
-> Had menyatakan syarat hipotetis kini; would read adalah hasil yang dibayangkan.
+## B. Second conditional: khayalan tentang sekarang
 
-## B. Third conditional: membayangkan masa lalu lain
+:::breakdown
+If I were rich, | if clause (past simple)
+I would travel the world | main clause (would + V1)
+= Kenyataannya: saya tidak kaya.
+:::
 
-Third conditional membicarakan sesuatu yang sudah tidak bisa diubah: If she had left earlier, she would have caught the train. Kenyataannya, ia tidak berangkat lebih awal dan tidak berhasil mengejar kereta. Polanya if + past perfect, would have + V3. Bentuk ini sering dipakai untuk menyesal, mengevaluasi pilihan, atau menjelaskan akibat alternatif.
+| Fungsi | Contoh |
+| --- | --- |
+| Situasi tidak nyata sekarang | If I **lived** near the sea, I**'d swim** every day. |
+| Situasi yang tidak mungkin terjadi | If I **won** the lottery, I**'d buy** a house. |
+| Memberi saran | If I **were** you, I**'d apologise**. |
 
-Jangan tertukar antara had left dan would have caught. Klausa if menyebut syarat lampau yang tidak terpenuhi; klausa hasil menyebut akibat yang tidak terjadi. Kedua sisi bekerja bersama untuk membentuk makna hipotetis.
+### If I were
+Dalam second conditional, **were** dipakai untuk semua subject, terutama dalam tulisan formal dan ungkapan **If I were you**.
 
-> **If she had left earlier, she would have caught the train.**
-> Had left = syarat lampau alternatif; would have caught = hasil alternatif.
+- If she **were** here, she'd know what to do.
+- If I **was** you... *(diterima dalam percakapan santai)*
 
-## C. Menentukan jenis conditional
+## C. Third conditional: penyesalan tentang masa lalu
 
-Tanyakan waktu dan kenyataannya. Apakah syarat mungkin terjadi nanti? Gunakan first conditional. Apakah syarat dibayangkan untuk keadaan sekarang atau masa depan? Gunakan second. Apakah kamu sedang mengubah masa lalu yang sudah selesai? Gunakan third. Pertanyaan ini lebih kuat daripada menghafal nomor conditional tanpa konteks.
+:::breakdown
+If she had studied, | if clause (had + V3)
+she would have passed | main clause (would have + V3)
+= Kenyataannya: dia tidak belajar dan tidak lulus.
+:::
 
-Bentuk If I would have time, I read more mencampur pola. Jika maksudnya keadaan kini yang tidak nyata, perbaikannya If I had more time, I would read more. Setelah pola dasar dikuasai, kamu dapat mempelajari mixed conditionals yang menghubungkan waktu berbeda.
+- If I **had known**, I **would have told** you. *(saya tidak tahu, jadi tidak memberitahu)*
+- If we **hadn't missed** the bus, we **wouldn't have been** late.
+- She **would have come** if you **had invited** her.
 
-- First: kemungkinan nyata nanti.
-- Second: keadaan kini yang dibayangkan.
-- Third: masa lalu alternatif.
+Bentuk singkat: **I'd** bisa berarti I would atau I had. Lihat verb setelahnya.
+- If **I'd** known... = If I **had** known
+- **I'd** have told you = I **would** have told you
 
-## Pola dan penggunaannya
+## D. Variasi modal
 
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
+Would bisa diganti **could** (bisa) atau **might** (mungkin).
 
-| Fungsi | Pola atau contoh | Kapan dipakai |
-| --- | --- | --- |
-| Second | If + past simple, would + V1 | If I had more time, I would read more. |
-| Third | If + past perfect, would have + V3 | If she had left earlier, she would have caught the train. |
-| Negasi | If + past simple, would not + V1 | If I knew, I would not ask. |
+| Conditional | Contoh |
+| --- | --- |
+| Second | If I had a car, I **could** drive you home. |
+| Third | If you had asked, I **might have** helped. |
 
-## Membedah dua contoh
+## E. Mixed conditional
 
-> **If I had more time, I would read more.**
-> Had more time adalah keadaan bayangan sekarang; would read menjelaskan akibat bayangan.
+Syarat di masa lalu, hasil di sekarang (atau sebaliknya).
 
-> **If she had left earlier, she would have caught the train.**
-> Had left earlier dan would have caught merujuk kesempatan di masa lalu yang sudah lewat.
+- If I **had taken** that job, I **would be** rich now. *(dulu → sekarang)*
+- If I **were** more organised, I **wouldn't have lost** my keys. *(sifat sekarang → kejadian lampau)*
 
-## Kesalahan umum
+## F. Common Mistakes
 
-**Perbaiki:** If I would have time, I read more.
+### 1. Would di klausa if
+❌ If I would have money, I would buy it.
+✅ If I had money, I would buy it.
 
-**Gunakan:** If I had more time, I would read more.
+### 2. Third conditional dengan past simple
+❌ If you told me, I would have helped.
+✅ If you had told me, I would have helped.
 
-Would biasanya berada pada klausa hasil dalam pola dasar ini. If I would have time tidak membentuk second conditional standar.
+### 3. Would have + V2
+❌ I would have went.
+✅ I would have gone.
+
+### 4. Second conditional untuk kemungkinan nyata
+❌ If it rained tomorrow, we would cancel the trip. *(jika kemungkinannya besar)*
+✅ If it rains tomorrow, we'll cancel the trip.
 
 ## Ringkasan
 
-Letakkan situasinya di garis waktu: kemungkinan nyata nanti → first; bayangan sekarang/nanti → second; masa lalu yang tidak terjadi → third.
+- **First**: nyata → if + present, will.
+- **Second**: khayalan sekarang → if + past, would + V1. Pakai **If I were you** untuk saran.
+- **Third**: masa lalu yang tidak terjadi → if + had + V3, would have + V3.
+- Tidak ada **would** di klausa if.

@@ -1,63 +1,122 @@
 # Adjectives & Adverbs
 
-Adjective menerangkan noun atau muncul setelah linking verb seperti be, seem, taste. Adverb menerangkan verba tindakan, adjective, atau adverb lain. Banyak adverb berakhiran -ly, tetapi tidak semuanya: fast dan hard bisa menjadi adverb. Jangan otomatis menambah -ly pada kata yang sudah adverb atau pada adjective setelah linking verb.
+Di Lesson 1 kamu sudah mengenal adjective dan adverb sebagai kelas kata.
 
-> **Inti aturan:** Adjectives modify nouns or follow linking verbs. Adverbs often modify action verbs. Many adverbs end in -ly, but not all do.
+Lesson ini fokus pada **cara memilih yang tepat**, membentuk adverb, dan jebakan seperti good/well serta bored/boring.
 
-## A. Apa yang diterangkan?
+> **Kunci:** Adjective menerangkan **noun**. Adverb menerangkan **verb, adjective, adverb lain, atau seluruh kalimat**.
 
-Adjective memberi sifat pada noun atau pronoun: a careful driver, The driver is careful. Adverb dapat menerangkan verb, adjective, adverb lain, atau seluruh kalimat: She drives carefully; extremely careful; very carefully; Fortunately, she arrived. Pertanyaan kuncinya adalah apa yang sedang diterangkan, bukan sekadar apakah kata berakhir dengan -ly.
+## A. Membedakan dengan satu pertanyaan
 
-Dalam She is a careful driver, careful menerangkan driver. Dalam She drives carefully, carefully menerangkan tindakan drives. Bentuk She drives careful dapat terdengar dalam dialek tertentu, tetapi untuk standar pembelajaran gunakan carefully pada makna cara mengemudi.
+Tanyakan: **kata ini menerangkan apa?**
 
-> **She is a careful driver. She drives carefully.**
-> Kalimat pertama memakai adjective untuk noun; kalimat kedua memakai adverb untuk verb.
+:::breakdown
+She | S
+is | V
+a | determiner
+careful | adjective
+driver | noun
+= Adjective careful menerangkan noun driver.
+:::
 
-## B. Linking verb dan bentuk yang tampak mirip
+:::breakdown
+She | S
+drives | V
+carefully | adverb
+= Adverb carefully menerangkan verb drives.
+:::
 
-Setelah linking verb seperti be, seem, look, feel, dan taste, kita biasanya memakai adjective untuk mendeskripsikan subject: The soup tastes good; She feels tired. Jangan memaksa adverb hanya karena kata itu muncul setelah verb. Tastes good berarti soup memiliki rasa yang baik, bukan soup melakukan tindakan mencicipi secara baik.
+## B. Membentuk adverb dari adjective
 
-Tidak semua adverb berakhiran -ly. Fast dapat menjadi adverb dalam He runs fast; hard dapat berarti “dengan keras” dalam She works hard. Hardly justru berarti “hampir tidak”. Friendly adalah adjective meskipun berakhiran -ly. Perhatikan makna dan fungsi sebelum mengubah bentuk kata.
-
-> **The soup tastes delicious.**
-> Delicious adalah adjective sebagai subject complement; ia menggambarkan soup.
-
-## C. Cara mengecek pilihan
-
-Cari noun yang ingin diberi sifat. Jika sifat itu melekat pada noun, pilih adjective. Jika kamu ingin menjelaskan cara suatu tindakan dilakukan, pilih adverb yang sesuai. Lalu periksa apakah verb di antaranya linking verb, karena setelahnya sering muncul adjective sebagai complement.
-
-Untuk menghindari terjemahan langsung, tulis dua versi berpasangan: She is a careful driver dan She drives carefully. Dengan membandingkan pasangan semacam ini, perbedaan fungsi menjadi terlihat meskipun makna Indonesianya dekat.
-
-- A careful explanation: adjective sebelum noun.
-- She explained carefully: adverb untuk cara.
-- The explanation sounds clear: adjective setelah linking verb.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| Aturan | Adjective | Adverb |
 | --- | --- | --- |
-| Sebelum noun | adjective + noun | a careful driver |
-| Setelah linking verb | S + be/seem/taste + adjective | She is careful; The soup tastes good. |
-| Menerangkan tindakan | action verb + adverb | She drives carefully. |
+| Umumnya + ly | quick, careful | quickly, carefully |
+| -y → -ily | easy, happy | easily, happily |
+| -le → -ly | gentle, simple | gently, simply |
+| -ic → -ically | basic, tragic | basically, tragically |
+| Tidak beraturan | good | **well** |
+| Bentuk sama | fast, hard, late, early | fast, hard, late, early |
 
-## Membedah dua contoh
+### Jebakan: hard vs hardly, late vs lately
 
-> **She is a careful driver.**
-> Careful menerangkan noun driver, bukan verba is.
+| Kata | Arti |
+| --- | --- |
+| hard | keras/rajin: She works **hard**. |
+| hardly | hampir tidak: She **hardly** works. |
+| late | terlambat: He arrived **late**. |
+| lately | akhir-akhir ini: I haven't slept well **lately**. |
 
-> **She drives carefully.**
-> Carefully menerangkan cara she drives. Bentuk -ly diperlukan untuk pasangan careful → carefully.
+## C. Linking verb + adjective
 
-## Kesalahan umum
+Setelah **linking verb**, gunakan **adjective**, bukan adverb, karena kata itu menerangkan **subject**.
 
-**Perbaiki:** She drives careful.
+Linking verb: be, become, seem, look, feel, sound, taste, smell, get
 
-**Gunakan:** She drives carefully.
+| ❌ | ✅ |
+| --- | --- |
+| The soup tastes deliciously. | The soup tastes **delicious**. |
+| You look tiredly. | You look **tired**. |
+| I feel badly. | I feel **bad**. |
 
-Drives adalah tindakan; careful adalah adjective untuk noun. Gunakan adverb carefully untuk menjawab “bagaimana ia mengemudi?”.
+Bandingkan verb yang sama dengan makna berbeda:
+
+- She **looks** angry. → linking (tampak) → adjective
+- She **looked** angrily at me. → action (menatap) → adverb
+
+## D. Good vs Well
+
+| Kata | Kelas | Contoh |
+| --- | --- | --- |
+| good | adjective | She is a **good** singer. |
+| well | adverb | She sings **well**. |
+| well | adjective (= sehat) | I don't feel **well** today. |
+
+❌ She speaks English very good.
+✅ She speaks English very well.
+
+## E. -ed vs -ing adjectives
+
+| Bentuk | Makna | Contoh |
+| --- | --- | --- |
+| -ed | **Perasaan** seseorang | I am **bored**. (saya bosan) |
+| -ing | **Penyebab** perasaan | The film is **boring**. (filmnya membosankan) |
+
+Pasangan lain: interested/interesting, tired/tiring, confused/confusing, excited/exciting, surprised/surprising.
+
+❌ I am very interesting in music.
+✅ I am very interested in music.
+
+## F. Posisi adjective & adverb
+
+| Jenis | Posisi umum | Contoh |
+| --- | --- | --- |
+| Adjective | Sebelum noun / setelah linking verb | a **new** car / The car is **new**. |
+| Adverb cara | Setelah verb (+ object) | She speaks English **fluently**. |
+| Adverb derajat | Sebelum adjective/adverb | **very** good, **really** fast |
+| Adverb frekuensi | Sebelum main verb | She **often** cooks. |
+| Adverb kalimat | Di awal | **Fortunately**, nobody was hurt. |
+
+## G. Common Mistakes
+
+### 1. Adjective untuk menerangkan verb
+❌ He drives very careful.
+✅ He drives very carefully.
+
+### 2. Adverb setelah linking verb
+❌ The music sounds beautifully.
+✅ The music sounds beautiful.
+
+### 3. Tertukar -ed dan -ing
+❌ The lesson was very confused.
+✅ The lesson was very confusing.
+
+### 4. Hardly sebagai "keras"
+❌ She studies hardly.
+✅ She studies hard.
 
 ## Ringkasan
 
-Tanyakan apa yang diterangkan. Setelah linking verb, gunakan adjective untuk keadaan subjek; setelah action verb, gunakan adverb untuk cara tindakan.
+- Menerangkan **noun** → adjective; menerangkan **verb/adjective/kalimat** → adverb.
+- Setelah **linking verb** (look, feel, taste, sound) → adjective.
+- **good** = adjective, **well** = adverb (atau "sehat").
+- **-ed** = perasaan, **-ing** = penyebab.

@@ -1,64 +1,103 @@
 # Subordinating Conjunctions
 
-Subordinating conjunction memperkenalkan dependent clause: bagian yang memiliki subject dan verb tetapi tidak lengkap sebagai kalimat mandiri dalam konteks ini. Because memberi alasan, although memberi kontras tak terduga, when memberi hubungan waktu, dan if memberi syarat. Dependent clause boleh berada di awal atau akhir; bila di awal, biasanya diikuti koma.
+Subordinating conjunction membuat klausa yang **tidak bisa berdiri sendiri** (dependent clause). Klausa itu menempel pada main clause untuk memberi informasi waktu, alasan, syarat, atau pertentangan.
 
-> **Inti aturan:** Because, although, when, and if introduce dependent clauses. A dependent clause cannot normally stand alone as a full sentence.
+> **Kunci:** Dependent clause di **awal** → pakai koma. Di **akhir** → biasanya tanpa koma.
 
-## A. Main clause dan dependent clause
+## A. Main clause vs dependent clause
 
-Subordinating conjunction memperkenalkan klausa yang bergantung pada klausa utama. Because it rained mempunyai subject dan verb, tetapi sebagai alasan yang diawali because, ia mengundang kelanjutan: Because it rained, we stayed inside. Klausa utama we stayed inside dapat berdiri sendiri. Hubungan keduanya membuat kalimat lebih informatif.
+:::breakdown
+Because it was raining, | dependent clause
+we stayed home | main clause
+= Klausa because tidak lengkap jika berdiri sendiri.
+:::
 
-Conjunction seperti because, although, when, dan if membawa hubungan yang berbeda: sebab, kontras, waktu, dan syarat. Memilih kata yang salah dapat mengubah logika kalimat meskipun tata bahasanya tampak benar.
+❌ Because it was raining. *(kalimat tidak lengkap / fragment)*
+✅ We stayed home because it was raining.
 
-> **Because it rained, we stayed inside.**
-> Because it rained = klausa alasan; we stayed inside = klausa utama.
-
-## B. Posisi klausa dan tanda baca
-
-Dependent clause dapat berada di awal atau akhir: Because it rained, we stayed inside; We stayed inside because it rained. Ketika dependent clause muncul di awal, koma biasanya memisahkannya dari main clause. Di akhir, koma sering tidak diperlukan untuk klausa yang menyatu erat dengan makna utama.
-
-Although menandai kontras yang tidak terduga: We went out although it rained. Jangan menulis although tetapi kemudian menambahkan but untuk hubungan yang sama dalam satu struktur sederhana: Although it rained, but we went out. Pilih salah satu pola yang lengkap.
-
-> **We stayed inside although the café was open.**
-> Although memperkenalkan keadaan yang berlawanan dengan kemungkinan pergi ke luar.
-
-## C. Memeriksa kelengkapan
-
-Cari subject dan finite verb pada setiap klausa. Lalu tentukan mana yang dapat berdiri sendiri. Jika kalimat hanya berbunyi Because it rained, ia menjadi fragment dalam tulisan biasa; tambahkan klausa utama. Namun dalam percakapan, fragment kadang dipakai sebagai jawaban singkat. Untuk menulis artikel atau esai, gunakan struktur lengkap kecuali ada alasan gaya yang jelas.
-
-Coba pindahkan dependent clause dari depan ke belakang. Jika maknanya tetap masuk akal, kamu telah memahami hubungan logisnya. Setelah itu, sesuaikan komanya.
-
-- Because: alasan.
-- Although: kontras.
-- When: waktu.
-- If: syarat.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| Posisi dependent clause | Koma? | Contoh |
 | --- | --- | --- |
-| Alasan | Because + clause, main clause | Because it rained, we stayed inside. |
-| Kontras | main clause + although + clause | We went out although it rained. |
-| Waktu | When + clause, main clause | When the class ended, we left. |
+| Di awal | Ya | **When I got home**, I took a shower. |
+| Di akhir | Tidak | I took a shower **when I got home**. |
 
-## Membedah dua contoh
+## B. Conjunction berdasarkan makna
 
-> **Because it rained, we stayed inside.**
-> Because it rained menjelaskan sebab, sedangkan we stayed inside adalah klausa utama yang menyelesaikan makna.
+| Makna | Conjunction | Contoh |
+| --- | --- | --- |
+| Waktu | when, while, before, after, until, as soon as, since | Call me **as soon as** you arrive. |
+| Alasan | because, since, as | **As** it was late, we took a taxi. |
+| Pertentangan | although, though, even though, whereas, while | **Although** he's young, he's very wise. |
+| Syarat | if, unless, as long as, provided that | You can go **as long as** you're back by 10. |
+| Tujuan | so that, in order that | Speak louder **so that** everyone can hear. |
 
-> **We stayed inside although the café was open.**
-> Although memberi kontras antara café yang buka dan keputusan untuk tetap di dalam.
+## C. Pasangan yang sering tertukar
 
-## Kesalahan umum
+### Because vs because of
+| Bentuk | Diikuti | Contoh |
+| --- | --- | --- |
+| because | **klausa** (S + V) | We stayed home **because it rained**. |
+| because of | **noun phrase** | We stayed home **because of the rain**. |
 
-**Perbaiki:** Because it rained.
+### Although vs despite
+| Bentuk | Diikuti | Contoh |
+| --- | --- | --- |
+| although / even though | **klausa** | **Although it rained**, we went out. |
+| despite / in spite of | **noun / V-ing** | **Despite the rain**, we went out. |
 
-**Gunakan:** Because it rained, we stayed inside.
+❌ Despite it rained, we went out.
+✅ Despite the rain, we went out. / Although it rained, we went out.
 
-“Because it rained.” adalah fragmen jika berdiri sendiri tanpa klausa utama. Tambahkan akibat atau gagasan utama.
+### If vs unless
+**unless** = **if ... not**
+
+- You'll fail **unless** you study. = You'll fail **if** you **don't** study.
+
+❌ Unless you don't hurry, you'll be late.
+✅ Unless you hurry, you'll be late.
+
+## D. Klausa waktu tentang masa depan
+
+Setelah **when, before, after, until, as soon as, if**, gunakan **present simple** untuk masa depan, bukan will.
+
+:::breakdown
+I'll call you | main clause (will)
+when I arrive | dependent (present simple)
+:::
+
+❌ I'll wait until she will come.
+✅ I'll wait until she comes.
+
+## E. Satu ide = satu conjunction
+
+Bahasa Indonesia sering memakai pasangan: "karena ... maka ...", "walaupun ... tetapi ...". Bahasa Inggris hanya butuh **satu**.
+
+❌ Although she was tired, but she kept working.
+✅ Although she was tired, she kept working.
+
+❌ Because the road was closed, so we took another route.
+✅ Because the road was closed, we took another route.
+
+## F. Common Mistakes
+
+### 1. Fragment
+❌ I didn't go. Because I was sick.
+✅ I didn't go because I was sick.
+
+### 2. Because of + klausa
+❌ The flight was delayed because of the weather was bad.
+✅ The flight was delayed because of the bad weather.
+
+### 3. Despite + klausa
+❌ Despite she is rich, she is unhappy.
+✅ Although she is rich, she is unhappy.
+
+### 4. Will setelah when/until
+❌ When I will finish, I'll call you.
+✅ When I finish, I'll call you.
 
 ## Ringkasan
 
-Jika kalimat dimulai because/although/when/if, periksa apakah ada klausa utama setelahnya. Jangan berhenti pada alasan atau syarat saja.
+- Dependent clause tidak bisa berdiri sendiri; tempelkan ke main clause.
+- Di awal → **koma**; di akhir → tanpa koma.
+- **because/although** + klausa; **because of/despite** + noun.
+- Jangan pasangkan although + but, because + so.

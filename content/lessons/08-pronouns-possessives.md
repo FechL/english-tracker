@@ -1,64 +1,126 @@
 # Pronouns & Possessives
 
-Pronoun menghindari pengulangan noun tetapi bentuknya berubah menurut posisi. I/he/she/we/they lazim sebagai subject; me/him/her/us/them sebagai object. Possessive determiner seperti my dan her harus diikuti noun, sedangkan possessive pronoun seperti mine dan hers berdiri sendiri. Pastikan rujukannya jelas agar “she” tidak bisa ditafsirkan sebagai dua orang berbeda.
+Pronoun menggantikan noun agar kalimat tidak berulang. Bahasa Indonesia cukup pakai "dia" dan "-nya".
 
-> **Inti aturan:** Subject pronouns do actions; object pronouns receive them. Possessive adjectives come before nouns; possessive pronouns stand alone.
+Bahasa Inggris membedakan bentuk pronoun menurut **posisinya di kalimat** dan **gender**.
 
-## A. Bentuk pronoun mengikuti perannya
+> **Kunci:** Pilih bentuk pronoun dari **fungsinya**: sebagai subject, object, sebelum noun, atau berdiri sendiri.
 
-Subject pronoun seperti I, he, she, we, dan they umumnya berada pada posisi subject. Object pronoun seperti me, him, her, us, dan them muncul sebagai object verb atau preposition. Bandingkan She called him dengan He called her. Mengubah urutan pelaku dan penerima mengubah bentuk pronoun yang diperlukan.
+## A. Tabel lengkap
 
-Dalam She gave him her notes, she adalah pelaku, him penerima, dan her menunjukkan pemilik notes. Kata her dapat menjadi object pronoun atau possessive determiner; posisinya menentukan fungsi. Karena itu, menghafal satu terjemahan “dia” saja tidak cukup.
+| Subject | Object | Possessive adjective | Possessive pronoun | Reflexive |
+| --- | --- | --- | --- | --- |
+| I | me | my | mine | myself |
+| you | you | your | yours | yourself / yourselves |
+| he | him | his | his | himself |
+| she | her | her | hers | herself |
+| it | it | its | — | itself |
+| we | us | our | ours | ourselves |
+| they | them | their | theirs | themselves |
 
-> **She gave him her notes.**
-> She = subject; him = penerima; her = possessive determiner sebelum notes.
+## B. Subject vs Object pronoun
 
-## B. Possessive determiner dan possessive pronoun
+:::breakdown
+She | S
+called | V
+him | O
+yesterday | A
+:::
 
-My, your, his, her, our, dan their harus diikuti noun: my book, their class. Mine, yours, his, hers, ours, dan theirs menggantikan seluruh noun phrase dan berdiri sendiri: This book is mine. Jangan menulis This book is my tanpa noun sesudah my. Bentuk his kebetulan sama pada kedua fungsi, tetapi posisinya tetap berbeda.
-
-Pronoun juga perlu antecedent atau rujukan yang jelas. Dalam Maya told Lina that she was late, she bisa merujuk Maya atau Lina. Jika makna penting, ulangi nama atau susun ulang kalimat agar pembaca tidak perlu menebak.
-
-> **This book is mine.**
-> Mine berarti my book dalam posisi yang berdiri sendiri; tidak perlu menambahkan book lagi.
-
-## C. Langkah memilih bentuk yang benar
-
-Tandai dulu apakah kata itu menjadi pelaku, sasaran/penerima, atau penanda kepemilikan. Jika kepemilikan, tanyakan apakah noun akan muncul setelahnya. Gunakan her notes ketika notes disebut, tetapi The notes are hers ketika noun sudah digantikan. Selalu baca ulang kalimat sebelumnya untuk memastikan rujukan pronoun jelas.
-
-Kesalahan Her gave he she notes mencampur tiga fungsi sekaligus. Perbaikannya She gave him her notes mengikuti kerangka subject + verb + penerima + benda. Menganalisis peran satu demi satu lebih aman daripada menerjemahkan kata demi kata.
-
-- Subject: She gave the notes.
-- Object: Maya called her.
-- Sebelum noun: her notes.
-- Berdiri sendiri: The notes are hers.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| Posisi | Bentuk | Contoh |
 | --- | --- | --- |
-| Subject → object | she → her; he → him; they → them | She called him. |
-| Sebelum noun | my/your/his/her/our/their + noun | her notes |
-| Berdiri sendiri | mine/yours/his/hers/ours/theirs | The notes are hers. |
+| Sebelum verb (subject) | I, he, she, we, they | **She** called. |
+| Setelah verb | me, him, her, us, them | Maya called **her**. |
+| Setelah preposition | me, him, her, us, them | This is for **him**. |
 
-## Membedah dua contoh
+❌ Me and my friend went to the mall.
+✅ My friend and I went to the mall.
 
-> **She gave him her notes.**
-> She adalah pelaku gave; him penerima; her menerangkan notes sebagai pemilik.
+❌ Between you and I...
+✅ Between you and me...
 
-> **This book is mine.**
-> Mine menggantikan my book. Karena sudah membawa makna kepemilikan, tidak perlu noun sesudahnya.
+> **Tips:** Hapus orang lainnya untuk menguji. "**I** went" ✓, "**Me** went" ✗.
 
-## Kesalahan umum
+## C. Possessive adjective vs possessive pronoun
 
-**Perbaiki:** Her gave he she notes.
+| Jenis | Posisi | Contoh |
+| --- | --- | --- |
+| Possessive adjective | **Sebelum noun** | This is **my** book. |
+| Possessive pronoun | **Berdiri sendiri** (tanpa noun) | This book is **mine**. |
 
-**Gunakan:** She gave him her notes.
+❌ This book is my.
+✅ This book is mine.
 
-Her tidak berfungsi sebagai subject dalam contoh ini; he bukan object; she tidak dapat langsung menerangkan notes. Pilih bentuk sesuai peran.
+❌ Is this yours bag?
+✅ Is this your bag?
+
+## D. Its vs It's
+
+Ini kesalahan menulis yang sangat umum, bahkan oleh penutur asli.
+
+| Bentuk | Arti | Contoh |
+| --- | --- | --- |
+| its | milik "it" | The cat licked **its** paw. |
+| it's | it is / it has | **It's** raining. **It's** been a long day. |
+
+> **Ingat:** Possessive pronoun **tidak pernah** memakai apostrof: its, yours, hers, ours, theirs.
+
+## E. Possessive 's dan s'
+
+| Pemilik | Aturan | Contoh |
+| --- | --- | --- |
+| Tunggal | + 's | my **sister's** car |
+| Jamak berakhiran -s | + ' | my **parents'** house |
+| Jamak tidak beraturan | + 's | the **children's** toys |
+| Dua pemilik bersama | 's di nama terakhir | **Maya and Rina's** room |
+
+Untuk benda mati, sering memakai **of**: the end **of** the film, the roof **of** the house.
+
+## F. Reflexive pronoun
+
+Dipakai jika **subject dan object adalah orang yang sama**.
+
+- She hurt **herself**. *(dia melukai dirinya sendiri)*
+- She hurt **her**. *(dia melukai perempuan lain)*
+
+Juga untuk penekanan: I fixed it **myself**.
+
+## G. Gender: he, she, they
+
+"Dia" harus diterjemahkan sesuai gender: **he** (laki-laki), **she** (perempuan), **it** (benda/hewan).
+
+Jika gender tidak diketahui atau tidak relevan, bahasa Inggris modern memakai **they** (singular they):
+
+- Someone left **their** phone here.
+- Each student should bring **their** own laptop.
+
+## H. Common Mistakes
+
+### 1. Salah gender
+❌ My mother is a doctor. He works in a hospital.
+✅ My mother is a doctor. She works in a hospital.
+
+### 2. Its vs it's
+❌ The company changed it's logo.
+✅ The company changed its logo.
+
+### 3. Object pronoun sebagai subject
+❌ Him and me are friends.
+✅ He and I are friends.
+
+### 4. Pronoun ganda
+❌ My brother he works in Jakarta.
+✅ My brother works in Jakarta.
+
+### 5. Rujukan pronoun tidak jelas
+❌ Maya told Lina that she was late. *(siapa yang terlambat?)*
+✅ Maya told Lina, "I was late." / Maya said that Lina was late.
+
+Jika ada dua orang dengan gender sama, pastikan pronoun merujuk dengan jelas.
 
 ## Ringkasan
 
-Tandai perannya dahulu: pelaku, penerima, atau pemilik? Untuk pemilik, cek apakah noun menyusul atau tidak.
+- Sebelum verb → **I/he/she/we/they**. Setelah verb/preposition → **me/him/her/us/them**.
+- Sebelum noun → **my/your/his...**. Berdiri sendiri → **mine/yours/his...**.
+- **its** = milik; **it's** = it is/has.
+- Gender tidak diketahui → **they/their**.

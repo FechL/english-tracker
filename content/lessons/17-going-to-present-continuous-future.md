@@ -1,63 +1,105 @@
 # Going To & Present Continuous Future
 
-Be going to menekankan niat yang sudah ada atau prediksi berdasarkan tanda yang tampak. Present continuous dapat merujuk masa depan bila pengaturannya sudah dibuat, misalnya janji dengan tutor. Keduanya bisa tumpang tindih untuk rencana; perbedaan utama adalah sudut pandang pembicara, bukan jadwal yang sepenuhnya kaku.
+Selain will, bahasa Inggris punya **going to** dan **present continuous** untuk membicarakan masa depan.
 
-> **Inti aturan:** Use be going to for an intention or a prediction based on present evidence. Use present continuous for a fixed personal arrangement.
+Ketiganya bisa diterjemahkan "akan", tetapi penutur asli memilihnya berdasarkan **seberapa pasti dan kapan keputusan dibuat**.
 
-## A. Niat yang sudah ada dan bukti yang terlihat
+> **Kunci:** **will** = baru diputuskan. **going to** = sudah berniat. **present continuous** = sudah diatur (ada waktu, tempat, orang lain).
 
-Be going to sering dipakai untuk niat atau rencana yang sudah ada sebelum percakapan: We are going to start a study group. Bentuk ini juga cocok untuk prediksi yang didukung tanda sekarang: Look at those clouds. It is going to rain. Dalam kedua fungsi itu, be harus sesuai subject dan verb sesudah to tetap bentuk dasar.
+## A. Going to: niat dan bukti
 
-Kalimat I going to meet my tutor tidak lengkap karena tidak ada am. Bentuk tepatnya I am going to meet my tutor. Keterangan waktu seperti on Friday memperjelas kapan rencana terjadi, tetapi tidak mengubah pola dasar.
+### Bentuk
+**am/is/are + going to + V1**
 
-> **We are going to start a study group.**
-> Are going to menunjukkan niat; start tetap bentuk dasar.
+:::breakdown
+I | S
+'m going to study | V
+medicine | O
+next year | A (time)
+= Saya berniat kuliah kedokteran tahun depan.
+:::
 
-## B. Present continuous untuk pengaturan
+### Fungsi
+| Fungsi | Contoh |
+| --- | --- |
+| Niat/rencana yang sudah diputuskan | She**'s going to learn** Japanese. |
+| Prediksi dari **bukti yang terlihat** | Look at those clouds! It**'s going to rain**. |
+| Sesuatu yang akan segera terjadi | Careful! You**'re going to fall**! |
 
-Present continuous dapat merujuk masa depan jika ada pengaturan yang sudah dibuat: I am meeting my tutor on Friday. Biasanya ada waktu atau konteks yang membuat makna masa depannya jelas. Polanya sama dengan continuous sekarang, tetapi waktunya ditentukan oleh on Friday.
+## B. Present continuous: janji yang sudah diatur
 
-Going to dan present continuous sering tumpang tindih pada rencana pribadi. I am going to meet my tutor menyoroti niat, sedangkan I am meeting my tutor dapat menyoroti janji yang sudah diatur. Jangan menganggap perbedaannya selalu kaku; gunakan bentuk yang paling tepat untuk pesan yang ingin disampaikan.
+### Bentuk
+**am/is/are + V-ing** + keterangan waktu masa depan
 
-> **I am meeting my tutor on Friday.**
-> Present continuous dipahami sebagai rencana karena keterangan on Friday dan konteks janji.
+:::breakdown
+We | S
+'m meeting | V
+the client | O
+on Friday | A (time)
+= Kami sudah ada janji bertemu klien hari Jumat.
+:::
 
-## C. Membandingkan dengan will
+Dipakai untuk **arrangement**: sudah ada jadwal, tiket, janji dengan orang lain.
 
-Ketika keputusan baru dibuat saat berbicara, will sering alami: The bag is heavy. I will carry it. Ketika niat sudah ada, going to dapat lebih jelas: I am going to carry it tomorrow. Ketika pengaturan konkret sudah disepakati, present continuous sering digunakan: I am meeting them at noon.
+- I**'m flying** to Bali on Saturday. *(tiket sudah dibeli)*
+- She**'s having** dinner with her parents tonight.
 
-Periksa tiga hal dalam kalimatmu: kapan niat muncul, apakah ada bukti saat ini, dan apakah pertemuan atau kegiatan sudah diatur. Setelah memilih bentuk, cek auxiliary be, -ing, serta preposition waktu yang tepat.
+Wajib ada **keterangan waktu** (atau konteks jelas), agar tidak dikira "sedang".
 
-- Niat: I am going to study tonight.
-- Bukti: It is going to rain.
-- Pengaturan: I am meeting my tutor on Friday.
+## C. Perbandingan tiga bentuk
 
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| Bentuk | Kapan diputuskan | Contoh |
 | --- | --- | --- |
-| Niat | S + am/is/are going to + V1 | We are going to start a study group. |
-| Bukti sekarang | S + be going to + V1 | Look at those clouds. It is going to rain. |
-| Janji/pengaturan | S + am/is/are + V-ing + future time | I am meeting my tutor on Friday. |
+| will | Saat bicara (spontan) | "I'm thirsty." — "I**'ll get** you some water." |
+| going to | Sebelumnya (niat) | I**'m going to paint** my room this weekend. |
+| present continuous | Sebelumnya + sudah diatur | I**'m seeing** the doctor at 4 p.m. |
 
-## Membedah dua contoh
+### Prediksi: will vs going to
+| will | going to |
+| --- | --- |
+| Berdasarkan **pendapat** | Berdasarkan **bukti sekarang** |
+| I think Indonesia **will win**. | They're 3–0 up. They**'re going to win**. |
 
-> **We are going to start a study group.**
-> Are going to start menunjukkan niat kelompok yang sudah terbentuk sebelum kalimat diucapkan.
+## D. Present simple untuk jadwal resmi
 
-> **I am meeting my tutor on Friday.**
-> Am meeting menyatakan pertemuan yang diatur; on Friday menjelaskan waktu masa depan.
+Jadwal tetap (transportasi, kurikulum, acara publik) memakai **present simple**.
 
-## Kesalahan umum
+- The train **leaves** at 6:15.
+- The concert **starts** at 8 p.m.
+- Classes **begin** next Monday.
 
-**Perbaiki:** I going to meet my tutor Friday.
+## E. Gonna
 
-**Gunakan:** I am going to meet my tutor on Friday.
+Dalam percakapan santai, **going to** sering diucapkan **gonna**.
 
-Bentuk going to membutuhkan am/is/are. “I going to” kehilangan auxiliary be. Jika pertemuan sudah dijadwalkan, I am meeting juga tepat.
+- I'm **gonna** call her. *(lisan / chat informal)*
+
+Jangan dipakai dalam tulisan formal. Dan gonna hanya untuk going to + verb, bukan "going to + tempat".
+
+❌ I'm gonna the mall.
+✅ I'm going to the mall.
+
+## F. Common Mistakes
+
+### 1. Lupa be
+❌ I going to visit her.
+✅ I'm going to visit her.
+
+### 2. Going to + verb-ing
+❌ She is going to studying.
+✅ She is going to study.
+
+### 3. Will untuk niat yang sudah lama
+❌ I bought paint yesterday. I will paint my room.
+✅ I bought paint yesterday. I'm going to paint my room.
+
+### 4. Continuous tanpa keterangan waktu
+❌ I'm visiting my grandmother. *(maksudnya minggu depan)*
+✅ I'm visiting my grandmother next week.
 
 ## Ringkasan
 
-Tanyakan: keputusan baru saat bicara, niat sebelumnya, atau janji yang sudah diatur? Pilih will, going to, atau present continuous sesuai nuansa.
+- **will** = spontan / pendapat.
+- **going to** = niat yang sudah ada / bukti yang terlihat.
+- **present continuous** = sudah diatur, dengan waktu jelas.
+- **present simple** = jadwal resmi.

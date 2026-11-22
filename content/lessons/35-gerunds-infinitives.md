@@ -1,63 +1,106 @@
 # Gerunds & Infinitives
 
-Sesudah verb tertentu, verb kedua berbentuk -ing (gerund); sesudah verb lain, berbentuk to + V1 (infinitive). Polanya tergantung verb pertama: enjoy reading, decide to read, want to improve. Beberapa verb menerima dua bentuk tetapi maknanya berubah, misalnya stop smoking (berhenti merokok) dan stop to smoke (berhenti melakukan kegiatan lain untuk merokok). Preposition biasanya diikuti -ing.
+Ketika satu verb diikuti verb lain, verb kedua bisa berbentuk **gerund (V-ing)** atau **infinitive (to + V1)**.
 
-> **Inti aturan:** Some verbs take -ing (enjoy doing); others take to + infinitive (want to do). A few allow both with different meanings.
+Pilihannya **ditentukan oleh verb pertama**, bukan oleh makna. Jadi sebagian besar perlu dihafal sebagai pasangan.
 
-## A. Verb kedua mengikuti pola verb pertama
+> **Kunci:** Setelah **preposition** selalu **V-ing**. Setelah verb lain, lihat daftarnya: enjoy + V-ing, want + to V1.
 
-Ketika dua verb berdekatan, bentuk verb kedua sering ditentukan oleh verb pertama. Enjoy, avoid, dan finish lazim diikuti -ing: I enjoy reading. Want, decide, dan hope lazim diikuti to + bentuk dasar: She wants to improve. Bentuk I enjoy to read tidak sesuai pola standar enjoy. Tidak ada satu aturan yang membuat semua verb memilih bentuk sama.
+## A. Verb + gerund (V-ing)
 
-Untuk mempelajari pola, simpan verb bersama contoh pendek: enjoy reading, decide to read, avoid making mistakes. Menghafal bentuk verb tanpa pasangannya membuat pemakaian dalam kalimat lebih sulit.
+:::breakdown
+I | S
+enjoy | V
+reading novels | O (gerund)
+:::
 
-> **I enjoy reading in English.**
-> Enjoy diikuti gerund reading; in English menjelaskan bahasa yang dipakai.
+| Verb | Contoh |
+| --- | --- |
+| enjoy, mind, finish | I **enjoy cooking**. Do you **mind waiting**? |
+| avoid, keep, practise | **Keep trying**. She **practises speaking** every day. |
+| suggest, consider, recommend | He **suggested taking** a taxi. |
+| imagine, miss, deny, admit | I **miss living** near the beach. |
+| can't help, can't stand, give up | I **can't stand waiting**. He **gave up smoking**. |
 
-## B. Verb yang menerima dua bentuk
+## B. Verb + infinitive (to + V1)
 
-Beberapa verb dapat diikuti gerund maupun infinitive, tetapi maknanya kadang berbeda. Stop smoking berarti berhenti merokok; stop to smoke berarti berhenti dari kegiatan lain untuk merokok. Remember locking the door mengacu pada ingatan tentang tindakan yang sudah dilakukan; remember to lock the door adalah pengingat untuk tindakan yang perlu dilakukan.
+:::breakdown
+She | S
+wants | V
+to learn Korean | O (infinitive)
+:::
 
-Ada juga verb yang menerima dua bentuk dengan perbedaan kecil atau bergantung konteks. Karena itu, periksa kamus pembelajar ketika menemukan pola baru. Jangan memaksakan satu aturan umum pada semua verb.
+| Verb | Contoh |
+| --- | --- |
+| want, need, hope, plan | I **want to travel**. We **plan to move**. |
+| decide, agree, refuse, promise | She **decided to quit**. |
+| learn, manage, afford, offer | He **learned to swim**. I can't **afford to buy** it. |
+| expect, seem, pretend, would like | He **seems to be** busy. I'**d like to go**. |
 
-> **She wants to improve her grammar.**
-> Want diikuti to-infinitive; improve tetap bentuk dasar setelah to.
+## C. Verb + keduanya
 
-## C. Setelah preposition
+### Makna sama
+**like, love, hate, prefer, start, begin, continue**
 
-Preposition biasanya diikuti noun phrase atau bentuk -ing jika yang dimaksud adalah tindakan: I am interested in learning more. In adalah preposition, sehingga learning cocok. Jangan menganggap setiap to selalu infinitive; dalam look forward to meeting you, to adalah preposition dan diikuti -ing.
+- I **like swimming**. = I **like to swim**.
+- It **started raining**. = It **started to rain**.
 
-Periksa kata tepat sebelum verb kedua. Apakah ia verb yang memiliki pola tertentu, atau preposition? Langkah ini sering menyelesaikan pilihan gerund versus infinitive dengan cepat.
-
-- Enjoy reading: gerund.
-- Want to read: infinitive.
-- Interested in reading: setelah preposition.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+### Makna berbeda
+| Verb | + to V1 | + V-ing |
 | --- | --- | --- |
-| Gerund | enjoy/avoid/finish + V-ing | I enjoy reading. |
-| Infinitive | want/decide/hope + to V1 | She wants to improve. |
-| Setelah preposition | preposition + V-ing | I am interested in learning. |
+| remember | Ingat untuk (belum dilakukan): **Remember to lock** the door. | Ingat pernah (sudah): I **remember locking** it. |
+| forget | Lupa untuk: I **forgot to call** her. | Lupa pernah: I'll never **forget meeting** you. |
+| stop | Berhenti **untuk** melakukan: He **stopped to smoke**. | Berhenti melakukan: He **stopped smoking**. |
+| try | Berusaha: **Try to stay** calm. | Mencoba sebagai eksperimen: **Try adding** salt. |
+| regret | Menyesal harus (formal): We **regret to inform** you... | Menyesal telah: I **regret saying** that. |
 
-## Membedah dua contoh
+## D. Preposition + V-ing
 
-> **I enjoy reading in English.**
-> Enjoy biasanya diikuti gerund reading, yang berfungsi sebagai kegiatan yang dinikmati.
+Setelah **preposition apa pun**, verb harus **V-ing**.
 
-> **She wants to improve her grammar.**
-> Wants diikuti to improve untuk menyatakan tujuan/keinginan.
+| Pola | Contoh |
+| --- | --- |
+| interested in | I'm **interested in learning** French. |
+| good at | She's **good at drawing**. |
+| thank (you) for | **Thanks for helping** me. |
+| before / after / without | **After finishing** work, I went home. |
+| look forward to | I **look forward to hearing** from you. |
+| be used to | I'**m used to waking** up early. |
 
-## Kesalahan umum
+> **Ingat:** **to** dalam *look forward to*, *be used to*, *object to* adalah **preposition**, bukan infinitive. Jadi diikuti V-ing.
 
-**Perbaiki:** I enjoy to read in English.
+❌ I look forward to meet you.
+✅ I look forward to meeting you.
 
-**Gunakan:** I enjoy reading in English.
+## E. Gerund sebagai subject, infinitive untuk tujuan
 
-Enjoy tidak biasanya diikuti to-infinitive dalam makna ini. Gunakan enjoy reading.
+- **Swimming** is good exercise. *(gerund sebagai subject)*
+- I went to the shop **to buy** milk. *(infinitive = untuk/tujuan)*
+
+❌ I went to the shop for buy milk.
+✅ I went to the shop to buy milk.
+
+## F. Common Mistakes
+
+### 1. Enjoy + to
+❌ I enjoy to play football.
+✅ I enjoy playing football.
+
+### 2. Want + V-ing
+❌ She wants going home.
+✅ She wants to go home.
+
+### 3. Preposition + V1
+❌ He's good at speak English.
+✅ He's good at speaking English.
+
+### 4. Stop dengan makna salah
+❌ I stopped to eat sugar last year. *(maksudnya berhenti makan gula)*
+✅ I stopped eating sugar last year.
 
 ## Ringkasan
 
-Catat verb pertama bersama polanya, bukan sebagai daftar kata lepas: enjoy doing, decide to do. Waspadai perubahan makna ketika dua pola sama-sama mungkin.
+- **enjoy, finish, avoid, mind, suggest** + V-ing.
+- **want, need, decide, hope, plan** + to V1.
+- **remember, forget, stop, try** → makna berubah.
+- Setelah **preposition** (termasuk *look forward to*) → selalu V-ing.

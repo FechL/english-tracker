@@ -1,63 +1,105 @@
 # Direct & Reported Speech
 
-Direct speech mengutip kata-kata pembicara; reported speech menyampaikan isinya dari sudut pandang pelapor. Setelah reporting verb lampau seperti said, tense sering bergeser ke belakang: am → was, will → would, have done → had done. Namun backshift tidak selalu wajib jika pernyataannya masih benar atau masih relevan. Pronoun, tempat, dan waktu juga harus disesuaikan dengan siapa yang melapor dan kapan.
+**Direct speech** mengutip kata-kata persis dengan tanda kutip. **Reported speech** (indirect speech) menceritakan ulang isi ucapan tanpa mengutip.
 
-> **Inti aturan:** Reported statements often shift tense back when the reporting verb is past: am → was, will → would, can → could. Pronouns and time expressions may also change.
+Saat melaporkan, beberapa hal biasanya ikut berubah: **tense, pronoun, dan keterangan waktu/tempat**.
 
-## A. Dari kutipan langsung ke laporan
+> **Kunci:** Jika reporting verb lampau (said, told), tense biasanya **mundur satu langkah**: present → past, past → past perfect, will → would.
 
-Direct speech mempertahankan kata-kata pembicara di dalam tanda kutip: She said, “I am tired.” Reported speech menyampaikan isinya dari sudut pandang pelapor: She said that she was tired. Dalam laporan, I berubah menjadi she karena orang yang dirujuk berubah. That sering boleh dihilangkan dalam kalimat laporan sederhana.
+## A. Dari direct ke reported
 
-Setelah reporting verb lampau seperti said, tense sering bergeser ke belakang: am → was, will → would, have done → had done. Pergeseran ini disebut backshift. Namun backshift tidak selalu wajib ketika isi ucapan masih benar atau masih relevan; konteks menentukan pilihan.
+:::breakdown
+She said, | reporting clause
+"I am tired." | direct speech
+:::
 
-> **She said that she was tired.**
-> Said adalah reporting verb lampau; she mengganti I dari ucapan asli; was mengganti am.
+:::breakdown
+She said | reporting clause
+(that) she was tired | reported clause
+= Tense mundur (am → was), pronoun berubah (I → she).
+:::
 
-## B. Pronoun dan keterangan waktu
+Tiga hal yang dicek:
 
-Selain tense, sesuaikan pronoun dan keterangan tempat/waktu dengan situasi pelaporan. Jika seseorang berkata I will call you tomorrow, laporan pada hari berikutnya mungkin menjadi He said he would call me the next day. Perubahan tomorrow menjadi the next day hanya diperlukan jika titik waktu pelapor sudah bergeser.
+- **Tense**: mundur satu langkah.
+- **Pronoun**: sesuaikan dengan sudut pandang pelapor (I → he/she, my → his/her).
+- **Waktu & tempat**: sesuaikan jika konteksnya sudah berbeda.
 
-Jangan mengubah pronoun secara mekanis. I dalam kutipan asli dapat merujuk orang yang berbeda di tiap cerita. Tanyakan siapa pembicara asli, siapa pelapor, dan siapa pendengar. Reported speech adalah pekerjaan menjaga makna, bukan sekadar mengganti bentuk verba.
+**That** boleh dihilangkan: She said **(that)** she was tired.
 
-> **He said he would call later.**
-> Will dalam ucapan asli sering menjadi would setelah said, jika laporan berada dalam perspektif lampau.
+## B. Perubahan tense (backshift)
 
-## C. Memeriksa laporan yang dibuat
+| Direct | Reported |
+| --- | --- |
+| present simple: "I **work** here." | past simple: He said he **worked** there. |
+| present continuous: "I**'m eating**." | past continuous: She said she **was eating**. |
+| present perfect: "I**'ve finished**." | past perfect: He said he **had finished**. |
+| past simple: "I **saw** it." | past perfect: She said she **had seen** it. |
+| will: "I**'ll call** you." | would: He said he **would call** me. |
+| can: "I **can** swim." | could: She said she **could** swim. |
+| must: "I **must** go." | had to: He said he **had to** go. |
 
-Baca kalimat asli dan laporan secara berdampingan. Pastikan orang, waktu, dan tempat masih merujuk pada hal yang sama. Bentuk She said that I am tired dapat salah jika I seharusnya merujuk ke perempuan yang berbicara; dalam konteks itu, She said that she was tired lebih tepat.
+Could, would, should, might, dan past perfect **tidak berubah**.
 
-Jika pernyataan berupa fakta umum yang tetap benar, tense dapat dipertahankan dalam beberapa konteks. Karena itu, pahami alasan pergeseran sebelum memaksakan semua laporan ke satu pola.
+## C. Perubahan keterangan waktu & tempat
 
-- Identifikasi pembicara asli.
-- Sesuaikan pronoun dengan sudut pandang pelapor.
-- Pertimbangkan backshift dan keterangan waktu.
+| Direct | Reported |
+| --- | --- |
+| now | then / at that time |
+| today / tonight | that day / that night |
+| yesterday | the day before / the previous day |
+| tomorrow | the next day / the following day |
+| last week | the week before |
+| next week | the following week |
+| ago | before |
+| here / this | there / that |
 
-## Pola dan penggunaannya
+"I'll see you **tomorrow**," he said. → He said he would see me **the next day**.
 
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
+## D. Say vs tell
 
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| Verb | Pola | Contoh |
 | --- | --- | --- |
-| Kutipan langsung | She said, “I am tired.” | Kata-kata asli ditempatkan dalam tanda kutip. |
-| Laporan | She said (that) she was tired. | I → she; am → was. |
-| Janji masa depan | He said (that) he would call later. | Will sering menjadi would setelah said. |
+| say | say (that) ... / say **to** someone | She **said** (that) she was busy. |
+| tell | tell **someone** (that) ... | She **told me** (that) she was busy. |
 
-## Membedah dua contoh
+❌ She said me that she was busy.
+✅ She told me that she was busy.
 
-> **She said that she was tired.**
-> She was tired melaporkan keadaan yang ia nyatakan; pronoun menyesuaikan identitas pembicara.
+❌ He told that he was hungry.
+✅ He said that he was hungry.
 
-> **He said he would call later.**
-> Would call melaporkan janji dari sudut pandang masa lampau. That boleh dihilangkan dalam banyak laporan biasa.
+> **Ingat:** **tell** wajib diikuti **orang**. **say** tidak.
 
-## Kesalahan umum
+## E. Kapan tense tidak perlu mundur
 
-**Perbaiki:** She said that I am tired.
+Backshift **opsional** jika:
 
-**Gunakan:** She said that she was tired.
+- Reporting verb **present**: She **says** she **is** tired.
+- Fakta masih benar: He said the Earth **is** round.
+- Situasi masih berlaku: She told me she **lives** in Bandung. *(masih tinggal di sana)*
 
-Jika yang berbicara adalah she, “I” dalam ucapan asli biasanya berubah menjadi she. Dengan said lampau, am sering bergeser menjadi was.
+## F. Common Mistakes
+
+### 1. Say + orang
+❌ He said me the truth.
+✅ He told me the truth.
+
+### 2. Lupa ubah pronoun
+❌ Maya said that I was hungry. *(maksudnya Maya lapar)*
+✅ Maya said that she was hungry.
+
+### 3. Tidak mundur tense padahal konteks sudah lampau
+❌ Last week he said he will come.
+✅ Last week he said he would come.
+
+### 4. Tetap memakai tanda kutip
+❌ She said that "she was tired."
+✅ She said that she was tired.
 
 ## Ringkasan
 
-Saat mengubah direct ke reported, lakukan tiga pemeriksaan: siapa rujukan pronoun, apakah waktunya bergeser, dan apakah isi ucapan masih benar saat dilaporkan.
+- Ubah **tense** (mundur satu langkah), **pronoun**, dan **waktu/tempat**.
+- **say (that)**; **tell + orang (that)**.
+- Backshift opsional jika reporting verb present atau faktanya masih benar.
+- Reported speech **tanpa** tanda kutip.

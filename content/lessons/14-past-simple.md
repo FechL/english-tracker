@@ -1,63 +1,104 @@
 # Past Simple
 
-Past simple menempatkan peristiwa di masa lalu yang sudah selesai. Verba reguler memakai -ed, sedangkan verba irregular memiliki bentuk sendiri seperti go → went. Jika ada waktu selesai yang jelas, misalnya yesterday atau last year, past simple biasanya tepat. Dalam pertanyaan/negasi, did membawa penanda lampau sehingga verba utama kembali ke bentuk dasar.
+Past simple menceritakan kejadian yang **sudah selesai di masa lalu**, biasanya dengan waktu yang jelas.
 
-> **Inti aturan:** Use the past form of the verb. Use did + base verb for questions and negatives, regardless of whether the main verb is regular or irregular.
+Bahasa Indonesia cukup menambah "kemarin" atau "sudah". Bahasa Inggris wajib **mengubah bentuk verb**.
 
-## A. Kejadian yang selesai pada masa lampau
+> **Kunci:** Kejadian selesai + waktu lampau tertentu → **V2** (worked, went). Negatif & pertanyaan → **did + V1**.
 
-Past simple menempatkan peristiwa dalam waktu lampau yang sudah selesai: We visited Bali last year. Waktu dapat disebut jelas, seperti yesterday atau in 2022, atau dipahami dari cerita. Verb beraturan biasanya mendapat -ed, sedangkan verb tidak beraturan memiliki bentuk kedua sendiri, misalnya go → went dan see → saw.
+## A. Kapan dipakai
 
-Past simple juga menyusun rangkaian kejadian dalam narasi: I woke up, made breakfast, and left. Kita tidak perlu menambahkan was pada setiap verb; was/were dipakai untuk be atau sebagai bagian bentuk lain seperti past continuous.
+| Fungsi | Contoh |
+| --- | --- |
+| Kejadian selesai pada waktu tertentu | I **visited** Bali **last year**. |
+| Rangkaian kejadian (cerita) | She **opened** the door, **turned** on the light, and **sat** down. |
+| Kebiasaan di masa lalu | We **walked** to school every day when we were kids. |
+| Keadaan lampau yang sudah berakhir | He **lived** in Bandung for five years. *(sekarang tidak lagi)* |
 
-> **We visited Bali last year.**
-> Visited adalah V2 beraturan; last year adalah waktu lampau yang selesai.
+## B. Bentuk
 
-## B. Do-support pada negatif dan pertanyaan
+:::breakdown
+We | S
+watched | V (V2)
+a film | O
+last night | A (time)
+= Kami menonton film tadi malam.
+:::
 
-Pernyataan positif memakai V2: You saw the message. Negatif dan pertanyaan memakai did + bentuk dasar: You did not see the message; Did you see the message? Karena did sudah menunjukkan waktu lampau, bentuk Did you saw? menggandakan penanda lampau dan keliru.
+| | Semua subject |
+| --- | --- |
+| Positif | She **worked**. / She **went**. |
+| Negatif | She **didn't work**. / She **didn't go**. |
+| Pertanyaan | **Did** she **work**? / **Did** she **go**? |
 
-Verb be mengikuti pola khusus: She was tired; She was not tired; Was she tired? Jangan menambahkan did untuk pertanyaan sederhana dengan be. Perhatikan pula ejaan -ed dan pengucapannya, tetapi struktur kalimat tetap lebih penting daripada menghafal satu akhiran.
+Past simple **tidak** membedakan subject: I/you/she/they worked.
 
-> **Did you see the message?**
-> Did = auxiliary lampau; see = bentuk dasar, bukan saw.
+## C. Regular verbs: -ed
 
-## C. Memilih bentuk saat bercerita
-
-Saat menulis pengalaman, tetapkan titik waktu atau urutan cerita. Gunakan past simple untuk kejadian yang selesai, lalu pertahankan perspektif waktu secara konsisten. Jika ingin menyoroti proses yang sedang terjadi pada saat tertentu di masa lalu, gunakan past continuous pada klausa yang relevan.
-
-Untuk verb tidak beraturan, buat pasangan yang sering dipakai dalam kalimat lengkap: go/went, see/saw, buy/bought. Menghafal daftar tanpa konteks sering membuat bentuk positif dan bentuk setelah did tertukar.
-
-- She went home: pernyataan lampau.
-- She did not go home: negatif.
-- Did she go home?: pertanyaan.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| Akhiran | Aturan | Contoh |
 | --- | --- | --- |
-| Positif | S + V2 | She went home yesterday. |
-| Negatif | S + did not + V1 | She did not go home. |
-| Tanya | Did + S + V1? | Did she go home? |
+| Umumnya | + ed | work → worked |
+| -e | + d | live → lived |
+| Konsonan + y | y → ied | study → studied |
+| Vokal + y | + ed | play → played |
+| 1 suku kata CVC | gandakan konsonan | stop → stopped, plan → planned |
 
-## Membedah dua contoh
+### Pengucapan -ed
+| Bunyi | Setelah | Contoh |
+| --- | --- | --- |
+| /t/ | p, k, s, sh, ch, f | worked, stopped, watched |
+| /d/ | bunyi bersuara lain | played, lived, cleaned |
+| /ɪd/ | t, d | wanted, needed, visited |
 
-> **We visited Bali last year.**
-> Visited adalah bentuk lampau reguler; last year menetapkan periode yang telah berakhir.
+## D. Irregular verbs yang paling sering
 
-> **Did you see the message?**
-> Did menandai past, sementara see tetap bentuk dasar. Bentuk saw setelah did akan menggandakan penanda lampau.
+| V1 | V2 | V1 | V2 |
+| --- | --- | --- | --- |
+| be | was / were | go | went |
+| have | had | do | did |
+| get | got | make | made |
+| say | said | see | saw |
+| take | took | come | came |
+| know | knew | think | thought |
+| give | gave | find | found |
+| tell | told | buy | bought |
+| leave | left | eat | ate |
 
-## Kesalahan umum
+Untuk **be**: I/he/she/it **was**; you/we/they **were**.
 
-**Perbaiki:** Did you saw the message?
+## E. Penanda waktu
 
-**Gunakan:** Did you see the message?
+**yesterday, last night/week/year, ago, in 2020, when I was young, on Monday, at 7 p.m.**
 
-Dalam pertanyaan lampau, did sudah menandai waktu. Gunakan see, bukan saw, setelah did.
+- I met her **two years ago**.
+- **When** did you arrive? *(pertanyaan "kapan" hampir selalu past simple)*
+
+## F. Common Mistakes
+
+### 1. Verb tidak diubah
+❌ Yesterday I go to the market.
+✅ Yesterday I went to the market.
+
+### 2. Did + V2
+❌ Did you saw the news?
+✅ Did you see the news?
+
+❌ She didn't went.
+✅ She didn't go.
+
+### 3. -ed pada irregular verb
+❌ I buyed a new phone.
+✅ I bought a new phone.
+
+### 4. Was + verb
+❌ I was go to school yesterday.
+✅ I went to school yesterday.
+
+Was/were hanya untuk be (I was tired) atau past continuous (I was going).
 
 ## Ringkasan
 
-Tentukan apakah waktu yang dirujuk telah selesai. Jika ya, gunakan past simple; pelajari bentuk irregular yang sering muncul sebagai pasangan V1–V2–V3.
+- Kejadian **selesai** di waktu lampau → V2.
+- Negatif/pertanyaan: **did + V1** (bukan V2).
+- Regular: +ed. Irregular: hafalkan (went, saw, bought...).
+- Penanda: yesterday, last..., ...ago, in 2020.

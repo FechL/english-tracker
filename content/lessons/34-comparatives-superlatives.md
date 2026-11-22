@@ -1,63 +1,103 @@
 # Comparatives & Superlatives
 
-Comparative membandingkan dua hal; superlative menempatkan satu hal sebagai paling tinggi/rendah dalam suatu kelompok. Adjective pendek sering memakai -er/-est; adjective lebih panjang sering memakai more/most. Ada bentuk tidak beraturan: good → better → best, bad → worse → worst. Gunakan than setelah comparative, dan the umumnya sebelum superlative.
+**Comparative** membandingkan **dua** hal (lebih ... dari). **Superlative** menunjukkan **yang paling** di antara tiga atau lebih.
 
-> **Inti aturan:** Use -er/more for comparisons and -est/most for the highest degree. Short adjectives often take endings; longer ones often use more/most.
+Bentuknya tergantung **panjang adjective**.
 
-## A. Membandingkan dua hal atau satu kelompok
+> **Kunci:** Adjective pendek → **-er / the -est**. Adjective panjang → **more / the most**. Comparative + **than**; superlative + **the**.
 
-Comparative digunakan untuk membandingkan dua hal: This lesson is easier than the last one. Superlative menyatakan satu hal berada pada tingkat paling tinggi atau rendah dalam sebuah kelompok: This is the easiest lesson in the module. Comparative sering diikuti than; superlative biasanya didahului the dalam pola biasa.
+## A. Aturan bentuk
 
-Adjective pendek sering memakai -er/-est; adjective yang lebih panjang sering memakai more/most. Ada banyak rincian ejaan dan pengecualian, sehingga “pendek” versus “panjang” adalah panduan awal, bukan hukum tanpa variasi.
-
-> **This lesson is easier than the last one.**
-> Easy berubah menjadi easier; than memperkenalkan hal yang dibandingkan.
-
-## B. Bentuk tidak beraturan dan kesalahan ganda
-
-Good berubah menjadi better/best, bad menjadi worse/worst, dan far memiliki bentuk farther/farthest atau further/furthest menurut konteks. Bentuk more easier tidak tepat karena comparative sudah ditandai oleh -er. Pilih satu strategi: easier atau more useful, bukan keduanya sekaligus.
-
-Perhatikan ejaan: big → bigger → biggest menggandakan konsonan akhir; happy → happier → happiest mengubah y menjadi i. Contoh di dalam kalimat lebih mudah diingat daripada daftar bentuk terpisah.
-
-> **That is the most useful example.**
-> Useful memakai most pada superlative; the memperkenalkan tingkat paling tinggi dalam konteks.
-
-## C. Menulis perbandingan yang bermakna
-
-Sebutkan dasar perbandingan jika perlu: easier than the previous lesson, the most useful example in this chapter. Tanpa konteks, pembaca mungkin tidak tahu kelompok atau ukuran yang dipakai. Pastikan pula dua hal yang dibandingkan sejenis: My answer is clearer than yours, bukan membandingkan answer dengan orang.
-
-Saat mengedit, tandai apakah kamu membandingkan dua hal atau memilih satu dari kelompok. Itu menentukan comparative atau superlative sebelum kamu memikirkan bentuk -er/-est atau more/most.
-
-- Dua hal: easier than.
-- Satu dari kelompok: the easiest.
-- Tidak beraturan: good → better → best.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| Jenis adjective | Comparative | Superlative |
 | --- | --- | --- |
-| Pendek | adjective-er than / the adjective-est | easier than / the easiest |
-| Panjang | more adjective than / the most adjective | more useful than / the most useful |
-| Tidak beraturan | good → better → best | This answer is better. |
+| 1 suku kata | tall → tall**er** | the tall**est** |
+| Berakhiran -e | large → large**r** | the large**st** |
+| CVC (1 suku kata) | big → big**ger** | the big**gest** |
+| 2 suku kata berakhiran -y | happy → happ**ier** | the happ**iest** |
+| 2 suku kata lain / 3+ suku kata | **more** careful, **more** expensive | **the most** careful, **the most** expensive |
 
-## Membedah dua contoh
+:::breakdown
+Jakarta | S
+is | V
+bigger than Bandung | C (comparative)
+:::
 
-> **This lesson is easier than the last one.**
-> Easier than membandingkan lesson ini dengan lesson sebelumnya; easy berubah menjadi easier.
+:::breakdown
+Jakarta | S
+is | V
+the biggest city in Indonesia | C (superlative)
+:::
 
-> **That is the most useful example.**
-> The most useful menempatkan satu contoh sebagai yang paling bermanfaat di kelompok tertentu.
+## B. Bentuk tidak beraturan
 
-## Kesalahan umum
+| Adjective/adverb | Comparative | Superlative |
+| --- | --- | --- |
+| good / well | better | the best |
+| bad / badly | worse | the worst |
+| far | further / farther | the furthest / farthest |
+| many / much | more | the most |
+| little | less | the least |
 
-**Perbaiki:** This lesson is more easier than the last one.
+❌ This is more better.
+✅ This is better.
 
-**Gunakan:** This lesson is easier than the last one.
+## C. Pola perbandingan
 
-Easier sudah comparative; jangan menambahkan more. Untuk adjective panjang seperti useful, gunakan more useful.
+:::patterns
+comparative + than | My phone is cheaper than yours. | Lebih ... dari
+the + superlative + in/of | She is the smartest student in the class. | Paling ... di antara
+as + adjective + as | He is as tall as his father. | Sama ...
+not as + adjective + as | This film isn't as good as the book. | Tidak se... (= kurang)
+less + adjective + than | It's less expensive than I thought. | Kurang ... dari
+:::
+
+Superlative: **in** + tempat/kelompok (in the world, in my family), **of** + periode/jumlah (of all, of the year).
+
+## D. Memperkuat & memperhalus perbandingan
+
+| Kata | Makna | Contoh |
+| --- | --- | --- |
+| much / far / a lot | jauh lebih | It's **much bigger**. |
+| a bit / slightly / a little | sedikit lebih | It's **a bit cheaper**. |
+| by far | (superlative) paling, jauh di atas | She's **by far the best**. |
+
+❌ It's very bigger.
+✅ It's much bigger.
+
+## E. Pola khusus
+
+### The more ..., the more ...
+- **The more** you practise, **the better** you get.
+- **The sooner, the better.**
+
+### Comparative + and + comparative (semakin)
+- It's getting **colder and colder**.
+- English is becoming **more and more** important.
+
+### Adverb
+Adverb -ly memakai **more/most**: She drives **more carefully** than me.
+
+## F. Common Mistakes
+
+### 1. Double comparative
+❌ She is more taller than me.
+✅ She is taller than me.
+
+### 2. Lupa the di superlative
+❌ He is best player in the team.
+✅ He is the best player in the team.
+
+### 3. Then vs than
+❌ She's older then me.
+✅ She's older than me.
+
+### 4. Superlative + of untuk tempat
+❌ the tallest building of the world
+✅ the tallest building in the world
 
 ## Ringkasan
 
-Tentukan dulu dua hal atau satu dari banyak. Lalu periksa pola adjective: akhiran, more/most, atau bentuk irregular.
+- Pendek → **-er / the -est**; panjang → **more / the most**.
+- Irregular: good-better-best, bad-worse-worst, far-further-furthest.
+- Comparative + **than**; superlative + **the** + in/of.
+- Perkuat dengan **much/far**, bukan very.

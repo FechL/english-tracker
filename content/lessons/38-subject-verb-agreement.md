@@ -1,63 +1,105 @@
 # Subject–Verb Agreement
 
-Subject–verb agreement membuat bentuk verb sesuai subject, bukan noun terdekat. Dalam present simple, he/she/it biasanya mengambil -s; noun tunggal mengambil is/has, noun jamak mengambil are/have. Frasa seperti of lessons tidak mengubah jumlah head noun list. Indefinite pronoun seperti everyone dan each umumnya diperlakukan tunggal.
+Verb dalam bahasa Inggris harus **cocok** dengan subject-nya: subject tunggal → verb tunggal, subject jamak → verb jamak.
 
-> **Inti aturan:** A singular subject normally takes a singular verb. Ignore interrupting phrases between subject and verb; indefinite pronouns such as everyone are singular.
+Aturannya sederhana, tetapi jebakannya banyak: subject yang panjang, kata seperti everyone, dan noun yang terlihat jamak padahal tunggal.
 
-## A. Verb mengikuti subject inti
+> **Kunci:** Temukan **inti subject** (head noun), abaikan frasa di antaranya, lalu cocokkan verb dengan inti itu.
 
-Subject–verb agreement berarti bentuk finite verb sesuai dengan subject dalam jumlah dan orang. Present simple memberi -s pada banyak verb dengan subject orang ketiga tunggal: She works. Verb be memiliki bentuk is/are/was/were. Everyone is ready memakai is karena everyone diperlakukan singular secara gramatikal dalam kalimat standar.
+## A. Aturan dasar
 
-Jangan memilih verb berdasarkan noun yang paling dekat jika noun itu hanya bagian dari frasa tambahan. Dalam The list of lessons is long, subject intinya list (singular), bukan lessons (plural). Frasa of lessons menjelaskan list, tetapi tidak mengubah agreement.
+| Subject | Present simple | be | have |
+| --- | --- | --- | --- |
+| Tunggal (he, she, it, Maya, the book) | works | is / was | has |
+| Jamak (they, we, the books) | work | are / were | have |
+| I | work | am / was | have |
+| you | work | are / were | have |
 
-> **The list of lessons is long.**
-> List adalah head noun dari subject; is mengikuti list yang singular.
+:::breakdown
+The list of names | S (inti: list)
+is | V (tunggal)
+on the desk | A (place)
+= Inti subject adalah list (tunggal), bukan names.
+:::
 
-## B. Subject yang tampak rumit
+## B. Jebakan 1: frasa di antara subject dan verb
 
-Frasa seperti each student, every lesson, dan everyone biasanya mengambil verb singular: Each student has a notebook. Sementara subject plural seperti the students mengambil verb plural: The students have notebooks. Jika ada dua noun yang dihubungkan and sebagai subject gabungan, verb sering plural: Maya and Lina are here.
+Frasa dengan **of, with, in, along with, as well as** tidak mengubah jumlah subject.
 
-Ada konstruksi yang lebih rumit, seperti either...or, collective nouns, dan jumlah sebagai satu kesatuan. Untuk tahap ini, temukan head noun dan pahami apakah subject dipandang satu atau lebih dari satu. Jangan menebak hanya dari kata terakhir sebelum verb.
+| Kalimat | Inti subject |
+| --- | --- |
+| The **quality** of these products **is** excellent. | quality |
+| The **students** in the back row **are** noisy. | students |
+| The **teacher**, along with her students, **is** here. | teacher |
+| One of my **friends** **lives** in Bali. | **one** |
 
-> **Everyone is ready.**
-> Everyone merujuk banyak orang tetapi secara gramatikal memakai agreement singular.
+❌ One of my friends live in Bali.
+✅ One of my friends lives in Bali.
 
-## C. Cara mengoreksi agreement
+## C. Jebakan 2: indefinite pronouns
 
-Temukan verb utama, lalu telusuri kembali ke subject yang mengendalikannya. Abaikan sementara frasa prepositional atau relative clause di antara keduanya. Setelah subject inti jelas, tentukan singular atau plural dan pilih bentuk verb yang cocok.
+Kata-kata ini **selalu tunggal**, meskipun maknanya "semua orang".
 
-Dalam Everyone are ready, kesalahan muncul karena makna “semua orang” terasa plural. Bentuk yang tepat adalah Everyone is ready. Pemeriksaan ini sangat penting pada kalimat panjang, saat subject dan verb terpisah oleh banyak kata.
+**everyone, everybody, everything, someone, somebody, anyone, nobody, nothing, each, every, either, neither**
 
-- Everyone is ready.
-- The students are ready.
-- The list of lessons is long.
+❌ Everyone are here.
+✅ Everyone is here.
 
-## Pola dan penggunaannya
+❌ Each of the rooms have a TV.
+✅ Each of the rooms has a TV.
 
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
+## D. Jebakan 3: subject gabungan
 
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| Pola | Verb | Contoh |
 | --- | --- | --- |
-| Tunggal | singular subject + singular verb | The list is long. |
-| Jamak | plural subject + plural verb | The lessons are long. |
-| Indefinite pronoun | everyone/each + singular verb | Everyone is ready. |
+| A **and** B | jamak | Maya **and** Rina **are** friends. |
+| A **or** B / either A **or** B | ikut yang **terdekat** | Either the manager or **the staff are** responsible. |
+| neither A **nor** B | ikut yang **terdekat** | Neither the students nor **the teacher is** ready. |
 
-## Membedah dua contoh
+## E. Jebakan 4: noun khusus
 
-> **Everyone is ready.**
-> Everyone mencakup banyak orang secara makna, tetapi secara tata bahasa mengambil verb tunggal is.
+| Jenis | Verb | Contoh |
+| --- | --- | --- |
+| Uncountable | tunggal | The information **is** correct. |
+| Terlihat jamak tapi tunggal | tunggal | The news **is** good. Mathematics **is** hard. |
+| Jumlah sebagai satu kesatuan | tunggal | Ten dollars **is** too much. Two hours **is** enough. |
+| Selalu jamak | jamak | My jeans **are** new. The police **are** coming. |
+| Collective noun (team, family, government) | tunggal (AmE) / bisa jamak (BrE) | My family **is** big. |
+| **the number of** | tunggal | **The number of** students **is** increasing. |
+| **a number of** | jamak | **A number of** students **are** absent. |
 
-> **The list of lessons is long.**
-> Head noun adalah list; of lessons hanya menerangkan list, jadi gunakan is.
+## F. Jebakan 5: there is / there are
 
-## Kesalahan umum
+Verb mengikuti noun **setelah** be.
 
-**Perbaiki:** Everyone are ready.
+- There **is** a book on the table.
+- There **are** two books on the table.
+- There **is** some water. *(uncountable)*
 
-**Gunakan:** Everyone is ready.
+❌ There is many problems.
+✅ There are many problems.
 
-Everyone biasanya diperlakukan tunggal dalam standard English. Karena itu gunakan is, bukan are.
+## G. Common Mistakes
+
+### 1. Mengikuti noun terdekat, bukan inti
+❌ The price of the shoes are high.
+✅ The price of the shoes is high.
+
+### 2. Everyone + jamak
+❌ Everybody know the answer.
+✅ Everybody knows the answer.
+
+### 3. People + tunggal
+❌ People is friendly here.
+✅ People are friendly here.
+
+### 4. Lupa -s setelah relative clause
+❌ The man who lives next door work at a bank.
+✅ The man who lives next door works at a bank.
 
 ## Ringkasan
 
-Cari head subject, lalu abaikan sementara frasa penyela sebelum memilih bentuk verb. Periksa agreement setelah seluruh kalimat selesai.
+- Cari **inti subject**, abaikan frasa of/with/in.
+- **everyone, each, one of** → tunggal.
+- **A and B** → jamak; **or/nor** → ikut yang terdekat.
+- **there is/are** → ikut noun setelahnya.

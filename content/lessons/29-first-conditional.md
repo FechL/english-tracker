@@ -1,63 +1,92 @@
 # First Conditional
 
-First conditional membahas hasil masa depan yang mungkin terjadi jika suatu syarat terpenuhi. Bentuk pengajaran yang paling umum ialah if + present simple, will + V1. Klausa if boleh di awal atau akhir tanpa mengubah hubungan dasar. Dalam if-clause, gunakan present simple walaupun maknanya masa depan; result clause juga bisa memakai modal lain seperti can atau may jika nuansanya berbeda.
+Conditional adalah kalimat "jika ... maka ...". Bahasa Inggris punya beberapa jenis, tergantung **seberapa nyata** situasinya.
 
-> **Inti aturan:** Use if + present simple, will + base verb for a likely future condition and result. The two clauses can switch places.
+First conditional dipakai untuk situasi **nyata dan mungkin terjadi** di masa depan.
 
-## A. Syarat yang mungkin terjadi
+> **Kunci:** **If + present simple, will + V1**. Jangan pakai will di klausa if.
 
-First conditional membicarakan hasil masa depan yang mungkin terjadi jika sebuah syarat terpenuhi. Pola pengajaran yang umum adalah if + present simple, will + bentuk dasar: If it rains, we will stay home. Rains berbentuk present meskipun hujannya merujuk masa depan. Klausa hasil memakai will untuk menyatakan kemungkinan keputusan atau akibat.
+## A. Bentuk
 
-Klausa dapat ditukar urutannya: We will stay home if it rains. Ketika if-clause berada di awal, koma biasanya memisahkannya dari klausa hasil. Di akhir, koma sering tidak diperlukan.
+:::breakdown
+If it rains, | if clause (present simple)
+we'll stay home | main clause (will + V1)
+= Jika hujan, kami akan di rumah saja.
+:::
 
-> **If it rains, we will stay home.**
-> If-clause memakai present simple; result clause memakai will + V1.
-
-## B. Variasi hasil dan batas pola
-
-Klausa hasil tidak selalu harus memakai will. If you finish early, you can leave memakai can untuk izin atau kemampuan. If the weather improves, we may go out memakai may untuk kemungkinan. Pilihan modal bergantung pada makna yang diinginkan, sementara if-clause tetap menyatakan syarat.
-
-Bentuk If it will rain, we will stay home biasanya tidak tepat untuk kondisi biasa. Ada penggunaan khusus will dalam if-clause, misalnya menyatakan kesediaan, tetapi itu bukan pola dasar first conditional. Untuk latihan awal, gunakan present simple setelah if.
-
-> **I will call you if I finish early.**
-> Posisi if-clause di akhir tidak mengubah hubungan syarat dan hasil.
-
-## C. Memeriksa logika kalimat
-
-Tanyakan apakah syarat itu mungkin terpenuhi dan hasilnya masih berada di masa depan. Jika ya, first conditional dapat cocok. Jika syaratnya tidak nyata atau hanya dibayangkan, second conditional mungkin lebih tepat. Perbedaan ini tentang tingkat kenyataan, bukan sekadar memilih bentuk lampau atau present.
-
-Saat menulis, baca tiap klausa secara terpisah: apa syaratnya, apa akibatnya? Pastikan klausa hasil benar-benar bergantung pada syarat itu dan tidak menyatakan hubungan sebab akibat yang tidak masuk akal.
-
-- If + present simple, will + V1.
-- If-clause boleh di awal atau akhir.
-- Can/may dapat menggantikan will bila maknanya berbeda.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| Klausa | Bentuk | Contoh |
 | --- | --- | --- |
-| If di awal | If + present simple, will + V1 | If it rains, we will stay home. |
-| If di akhir | will + V1 + if + present simple | I will call you if I finish early. |
-| Hasil lain | if + present simple, can/may + V1 | If you finish early, you can leave. |
+| If clause (syarat) | present simple | If you **study**, |
+| Main clause (hasil) | will / won't + V1 | you **will pass**. |
 
-## Membedah dua contoh
+Urutan bisa dibalik. Koma hanya dipakai jika **if di depan**.
 
-> **If it rains, we will stay home.**
-> Rains berada dalam klausa syarat; will stay adalah hasil yang mungkin pada masa depan.
+- **If** you hurry, you'll catch the bus.
+- You'll catch the bus **if** you hurry.
 
-> **I will call you if I finish early.**
-> Finish menggunakan present simple setelah if meskipun tindakan selesai itu akan terjadi nanti.
+## B. Kenapa tidak "if ... will"?
 
-## Kesalahan umum
+Meskipun maknanya masa depan, klausa if memakai **present simple**.
 
-**Perbaiki:** If it will rain, we will stay home.
+❌ If it will rain, I will bring an umbrella.
+✅ If it rains, I will bring an umbrella.
 
-**Gunakan:** If it rains, we will stay home.
+Aturan ini berlaku juga untuk **when, as soon as, before, after, until, unless**.
 
-Dalam pola first conditional yang biasa, jangan letakkan will di if-clause. Present simple sudah dapat merujuk syarat masa depan.
+## C. Variasi main clause
+
+Main clause tidak harus will.
+
+| Bentuk | Contoh |
+| --- | --- |
+| will / won't | If you don't hurry, you**'ll miss** the bus. |
+| may / might / could | If you ask nicely, she **might help** you. |
+| can | If you finish early, you **can go** home. |
+| should / must | If you feel sick, you **should see** a doctor. |
+| going to | If it rains, we**'re going to cancel** the trip. |
+| Imperative | If you see Maya, **tell** her to call me. |
+
+## D. Zero conditional vs first conditional
+
+| | Zero Conditional | First Conditional |
+| --- | --- | --- |
+| Bentuk | If + present, **present** | If + present, **will** + V1 |
+| Makna | Selalu benar (fakta/kebiasaan) | Satu situasi spesifik di masa depan |
+| Contoh | If you heat ice, it **melts**. | If you heat this ice, it **will melt**. |
+| Contoh | If I drink coffee at night, I **can't** sleep. | If I drink coffee now, I **won't** sleep tonight. |
+
+## E. If vs when vs unless
+
+| Kata | Makna | Contoh |
+| --- | --- | --- |
+| if | Mungkin terjadi, mungkin tidak | **If** I see him, I'll tell him. |
+| when | Pasti terjadi | **When** I see him tomorrow, I'll tell him. |
+| unless | if ... not | **Unless** you leave now, you'll be late. |
+
+❌ Unless you don't study, you'll fail.
+✅ Unless you study, you'll fail.
+
+## F. Common Mistakes
+
+### 1. Will di klausa if
+❌ If she will call, I'll answer.
+✅ If she calls, I'll answer.
+
+### 2. Lupa -s di klausa if
+❌ If he come, we'll start.
+✅ If he comes, we'll start.
+
+### 3. Main clause tanpa will
+❌ If you don't eat, you get hungry later. *(untuk situasi spesifik)*
+✅ If you don't eat, you'll get hungry later.
+
+### 4. Unless + not
+❌ I won't go unless you don't come.
+✅ I won't go unless you come.
 
 ## Ringkasan
 
-Tanyakan apakah syaratnya realistis. Jika ya, first conditional lazim. Jika hanya membayangkan keadaan yang tidak nyata, bandingkan second conditional.
+- **If + present simple, will + V1** untuk kemungkinan nyata di masa depan.
+- **Tidak ada will** setelah if/when/unless.
+- Main clause bisa memakai might, can, should, atau perintah.
+- **unless** = if not; jangan tambah not lagi.

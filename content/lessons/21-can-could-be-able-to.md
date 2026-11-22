@@ -1,64 +1,94 @@
 # Can, Could & Be Able To
 
-Can menyatakan kemampuan sekarang, izin informal, atau kemungkinan umum. Could dapat menunjukkan kemampuan umum di masa lalu dan juga membuat permintaan lebih sopan. Untuk satu keberhasilan khusus di masa lalu, was/were able to atau managed to sering lebih jelas daripada could. Be able to berguna ketika bentuk waktu lain dibutuhkan, misalnya I will be able to join.
+Ketiganya menyatakan **kemampuan** dan **kemungkinan**. Can dan could adalah modal verb; be able to adalah bentuk biasa yang bisa dipakai di tense apa pun.
 
-> **Inti aturan:** Can describes present ability; could often describes past general ability or a polite request. Be able to works in tenses where can has no form.
+> **Kunci:** Modal verb + **V1** tanpa to, tanpa -s. Jika can tidak bisa dipakai (setelah will, have, to), ganti dengan **be able to**.
 
-## A. Kemampuan dan kemungkinan dengan can
+## A. Aturan modal verb
 
-Can + bentuk dasar verb menyatakan kemampuan saat ini, izin informal, atau kemungkinan umum. She can speak three languages berbicara tentang kemampuan; You can use this room memberi izin; It can get cold here menjelaskan kemungkinan umum. Makna yang tepat bergantung konteks. Jangan menambahkan to setelah can: can to speak tidak benar.
+Berlaku untuk semua modal (can, could, must, should, may, might, will, would).
 
-Untuk negatif, gunakan cannot atau can’t. Untuk pertanyaan, pindahkan can ke depan subject: Can she speak French? Tidak perlu do/does karena can sudah modal auxiliary.
-
-> **She can speak three languages.**
-> Can diikuti speak, bukan to speak atau speaks.
-
-## B. Could dan be able to
-
-Could dapat menyatakan kemampuan umum di masa lalu: When I was six, I could swim. Could juga membuat permintaan lebih sopan: Could you open the window? Untuk satu keberhasilan khusus di masa lalu, was/were able to atau managed to sering lebih jelas: After trying twice, she was able to open the door.
-
-Be able to berguna ketika kita memerlukan bentuk waktu yang tidak tersedia pada can: I will be able to join next week. Bentuk be harus berubah sesuai tense dan subject. Jangan menganggap could selalu berarti lampau; dalam permintaan sopan, waktunya bisa sekarang.
-
-> **Could you open the window?**
-> Could di sini membentuk permintaan sopan, bukan laporan kemampuan masa lalu.
-
-## C. Memilih berdasarkan makna
-
-Tanyakan apakah kamu sedang menyatakan kemampuan, memberi izin, atau meminta bantuan. Setelah itu tentukan waktunya. Can umum untuk sekarang; could dapat merujuk kemampuan lampau umum atau permintaan sopan; be able to fleksibel untuk masa depan atau keberhasilan tertentu.
-
-Lihat verb setelah modal. Baik can maupun could langsung diikuti bentuk dasar tanpa to dan tanpa -s. Pola sederhana ini juga berlaku pada banyak modal lain yang dibahas berikutnya.
-
-- She can swim: kemampuan kini.
-- She could swim at six: kemampuan lampau umum.
-- She was able to finish: keberhasilan khusus.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| Aturan | ❌ | ✅ |
 | --- | --- | --- |
-| Kemampuan kini | can + V1 | She can speak three languages. |
-| Kemampuan lampau umum | could + V1 | When I was six, I could swim. |
-| Permintaan sopan | Could + S + V1? | Could you open the window? |
-| Bentuk waktu lain | be able to + V1 | I will be able to attend. |
+| Diikuti V1 | She can **swims**. | She can **swim**. |
+| Tanpa to | I can **to** swim. | I can swim. |
+| Tanpa -s | He **cans** swim. | He can swim. |
+| Negatif + not | I **don't can** swim. | I **can't** swim. |
+| Pertanyaan: modal di depan | **Do** you can swim? | **Can** you swim? |
 
-## Membedah dua contoh
+:::breakdown
+She | S
+can speak | V (modal + V1)
+three languages | O
+:::
 
-> **She can speak three languages.**
-> Can diikuti speak tanpa to. Three languages menunjukkan ruang lingkup kemampuan.
+## B. Fungsi can & could
 
-> **Could you open the window?**
-> Could you ...? adalah permintaan sopan, bukan pertanyaan tentang kemampuan fisik semata.
+| Fungsi | Can (sekarang/umum) | Could (lampau/lebih sopan) |
+| --- | --- | --- |
+| Kemampuan | I **can** swim. | I **could** swim when I was five. |
+| Izin | **Can** I use your phone? | **Could** I use your phone? *(lebih sopan)* |
+| Permintaan | **Can** you help me? | **Could** you help me? *(lebih sopan)* |
+| Kemungkinan | It **can** be cold in Malang. *(umum)* | It **could** rain later. *(mungkin)* |
+| Saran | — | You **could** try the other shop. |
 
-## Kesalahan umum
+## C. Be able to
 
-**Perbaiki:** She can to speak three languages.
+Dipakai ketika **can tidak punya bentuknya**.
 
-**Gunakan:** She can speak three languages.
+| Situasi | Contoh |
+| --- | --- |
+| Masa depan (will) | I**'ll be able to** help you tomorrow. |
+| Perfect (have) | I **haven't been able to** sleep lately. |
+| Setelah modal lain | You **might be able to** get a ticket. |
+| Infinitive (to) | I want **to be able to** speak fluently. |
+| Gerund | I love **being able to** work from home. |
 
-Modal can langsung diikuti bentuk dasar speak; “can to speak” tidak sesuai pola.
+❌ I will can help you.
+✅ I will be able to help you.
+
+## D. Could vs was able to (kemampuan lampau)
+
+Perbedaan halus, tetapi penting.
+
+| Situasi | Bentuk | Contoh |
+| --- | --- | --- |
+| Kemampuan **umum** di masa lalu | could / was able to | She **could** read when she was four. |
+| Berhasil melakukan **satu kali** (dengan usaha) | was able to / managed to | The fire was big, but everyone **was able to** escape. |
+| Negatif (tidak berhasil) | couldn't / wasn't able to | I **couldn't** find my keys. *(keduanya benar)* |
+
+❌ The exam was hard, but I could pass it.
+✅ The exam was hard, but I was able to pass it. / I managed to pass it.
+
+## E. Can't vs couldn't + have + V3
+
+| Bentuk | Makna | Contoh |
+| --- | --- | --- |
+| couldn't + V1 | Tidak mampu (lampau) | I **couldn't open** the door. |
+| could have + V3 | Sebenarnya bisa, tapi tidak dilakukan | You **could have called** me! |
+| can't have + V3 | Pasti tidak (deduksi lampau) | She **can't have finished** already. |
+
+## F. Common Mistakes
+
+### 1. Can + to
+❌ I can to speak English.
+✅ I can speak English.
+
+### 2. Dua modal berturut-turut
+❌ I will can come.
+✅ I will be able to come.
+
+### 3. Could untuk keberhasilan satu kali
+❌ After three hours, we could find the hotel.
+✅ After three hours, we were able to find the hotel.
+
+### 4. Do + can
+❌ Do you can help me?
+✅ Can you help me?
 
 ## Ringkasan
 
-Tentukan fungsi: kemampuan, izin, atau permintaan? Lalu pilih modal yang sesuai dan ikuti dengan V1 tanpa to.
+- Modal + **V1**: tanpa to, tanpa -s, tanpa do.
+- **can** = sekarang; **could** = lampau umum / lebih sopan / kemungkinan.
+- Tense lain (will, have, to) → **be able to**.
+- Berhasil sekali di masa lalu → **was able to / managed to**.

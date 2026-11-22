@@ -1,64 +1,101 @@
 # Coordinating Conjunctions
 
-Coordinating conjunction menghubungkan unsur yang setara: dua kata, dua frasa, atau dua independent clauses. And menambah, but mengontraskan, or memberi pilihan, so menunjukkan akibat. Jika kedua sisi adalah kalimat lengkap yang dapat berdiri sendiri, koma sebelum conjunction membantu penulisan formal. Jangan gunakan conjunction sebagai hiasan bila hubungan logisnya tidak jelas.
+Coordinating conjunction menghubungkan dua bagian yang **setara**: kata dengan kata, frasa dengan frasa, atau klausa utuh dengan klausa utuh.
 
-> **Inti aturan:** And adds; but contrasts; or offers a choice; so gives a result. When joining two independent clauses, normally use a comma before the conjunction.
+Ada tujuh, yang mudah diingat dengan singkatan **FANBOYS**.
 
-## A. Menghubungkan unsur yang setara
+> **Kunci:** Saat menghubungkan **dua klausa lengkap**, letakkan **koma sebelum** conjunction: I was tired, **so** I went to bed.
 
-Coordinating conjunction menghubungkan dua unsur dengan tingkat struktur yang setara: tea and coffee, a short but useful lesson, atau dua independent clauses. And menambah informasi, but menunjukkan kontras, or memberi pilihan, dan so menyatakan akibat. Pilihan conjunction harus mencerminkan hubungan logis antara dua bagian kalimat.
+## A. FANBOYS
 
-Dalam I studied, so I passed, kedua klausa dapat berdiri sendiri. Koma sebelum so membantu pembaca melihat batas klausa. Dalam tea and coffee, tidak ada dua klausa lengkap sehingga koma biasanya tidak diperlukan.
-
-> **I studied, so I passed.**
-> So menghubungkan sebab dan akibat antara dua independent clauses.
-
-## B. Koma dan hubungan makna
-
-Ketika dua independent clauses dihubungkan oleh and, but, or, atau so, koma sebelum conjunction lazim dalam tulisan formal. She likes tea, but he prefers coffee memiliki dua subject dan dua verb. Namun She likes tea and coffee hanya menghubungkan dua noun sehingga tidak memerlukan koma yang sama.
-
-Jangan menambahkan conjunction tanpa bagian yang dihubungkan. I studied so I passed because berakhir dengan because tanpa klausa alasan. Setelah because diperlukan klausa yang menerangkan sebab, atau hapus because jika tidak diperlukan.
-
-> **She likes tea, but he prefers coffee.**
-> But menunjukkan kontras antara dua klausa yang masing-masing lengkap.
-
-## C. Memilih penghubung yang tepat
-
-Bacalah tiap sisi penghubung secara terpisah. Apakah keduanya sama jenisnya—dua kata, dua frasa, atau dua klausa? Lalu tentukan hubungan maknanya: tambahan, pilihan, kontras, atau akibat. Jika hubungannya tidak jelas, mungkin kalimat perlu dibagi atau disusun ulang.
-
-Gunakan conjunction untuk membantu alur gagasan, bukan sekadar membuat kalimat lebih panjang. Dua kalimat pendek yang jelas sering lebih baik daripada satu kalimat panjang dengan penghubung yang salah.
-
-- And: tambahan.
-- But: kontras.
-- Or: pilihan.
-- So: akibat.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| Conjunction | Hubungan | Contoh |
 | --- | --- | --- |
-| Tambahan | clause, and clause | She read the rule, and he took notes. |
-| Kontras | clause, but clause | She likes tea, but he prefers coffee. |
-| Akibat | clause, so clause | I studied, so I passed. |
+| **F**or | Alasan (formal/sastra) | She stayed home, **for** she was ill. |
+| **A**nd | Tambahan | I like tea, **and** she likes coffee. |
+| **N**or | Tambahan negatif | He doesn't smoke, **nor** does he drink. |
+| **B**ut | Pertentangan | It's small, **but** it's comfortable. |
+| **O**r | Pilihan | We can walk, **or** we can take a taxi. |
+| **Y**et | Pertentangan (mengejutkan) | He's rich, **yet** he lives simply. |
+| **S**o | Akibat | It was raining, **so** we stayed inside. |
 
-## Membedah dua contoh
+Yang paling sering dipakai: **and, but, or, so**.
 
-> **I studied, so I passed.**
-> I studied adalah sebab/kondisi terdahulu; so memperkenalkan hasil I passed.
+:::breakdown
+I studied hard, | klausa 1
+so | conjunction
+I passed the exam | klausa 2
+= Dua klausa lengkap, dihubungkan dengan so (akibat).
+:::
 
-> **She likes tea, but he prefers coffee.**
-> But memperlihatkan perbedaan kesukaan dua orang. Kedua sisi memiliki subject dan verb sendiri.
+## B. Kapan memakai koma
 
-## Kesalahan umum
+| Yang dihubungkan | Koma? | Contoh |
+| --- | --- | --- |
+| Dua klausa lengkap (masing-masing punya S + V) | Ya, sebelum conjunction | She sings, **and** he plays guitar. |
+| Dua verb dengan subject yang sama | Tidak | She sings **and** plays guitar. |
+| Dua kata/frasa | Tidak | tea **and** coffee, slowly **but** surely |
+| Tiga item atau lebih | Koma di antara item | bread, eggs, **and** milk |
 
-**Perbaiki:** I studied so I passed because.
+Klausa pendek kadang ditulis tanpa koma: *I came and I saw.* Tetapi untuk pemula, aturan di atas paling aman.
 
-**Gunakan:** I studied, so I passed.
+## C. Struktur paralel
 
-Kalimat lama berakhir dengan because tanpa klausa alasan. Jika maksudnya hasil dari belajar, so adalah penghubung yang tepat.
+Bagian yang dihubungkan harus **sejenis** (noun dengan noun, verb dengan verb, -ing dengan -ing).
+
+❌ She likes swimming, to read, and cook.
+✅ She likes swimming, reading, and cooking.
+
+❌ He is smart and works hard and a good friend.
+✅ He is smart, hardworking, and friendly.
+
+## D. Pasangan conjunction (correlative)
+
+| Pasangan | Makna | Contoh |
+| --- | --- | --- |
+| both ... and | keduanya | **Both** Maya **and** Rina passed. |
+| either ... or | salah satu | You can **either** call **or** email me. |
+| neither ... nor | bukan keduanya | **Neither** he **nor** she knew. |
+| not only ... but also | tidak hanya ... tetapi juga | She speaks **not only** English **but also** Korean. |
+
+Dengan **either/or** dan **neither/nor**, verb mengikuti subject **terdekat**:
+- Neither the students nor **the teacher was** ready.
+
+## E. So vs because, but vs although
+
+So dan but adalah coordinating. Because dan although adalah subordinating (Lesson 27). Maknanya bisa mirip, tetapi arah klausa berbeda.
+
+| Coordinating | Subordinating |
+| --- | --- |
+| It rained, **so** we stayed home. *(akibat di klausa 2)* | We stayed home **because** it rained. *(alasan di klausa 2)* |
+| It's old, **but** it works. | **Although** it's old, it works. |
+
+❌ Although it was expensive, but I bought it.
+✅ Although it was expensive, I bought it.
+✅ It was expensive, but I bought it.
+
+Bahasa Indonesia sering memakai "walaupun ... tetapi ...". Dalam bahasa Inggris, pilih **salah satu**.
+
+## F. Common Mistakes
+
+### 1. Comma splice (dua klausa hanya dengan koma)
+❌ I was hungry, I ate a sandwich.
+✅ I was hungry, so I ate a sandwich.
+
+### 2. Double conjunction
+❌ Because I was tired, so I slept.
+✅ Because I was tired, I slept. / I was tired, so I slept.
+
+### 3. Tidak paralel
+❌ I enjoy hiking and to cook.
+✅ I enjoy hiking and cooking.
+
+### 4. Nor tanpa inversi
+❌ He can't swim, nor he can dive.
+✅ He can't swim, nor can he dive.
 
 ## Ringkasan
 
-Tentukan hubungan ide: penambahan, pilihan, kontras, atau akibat. Setelah itu periksa apakah kedua sisi merupakan klausa lengkap dan perlu koma.
+- **FANBOYS**: for, and, nor, but, or, yet, so.
+- Dua klausa lengkap → **koma + conjunction**.
+- Bagian yang dihubungkan harus **paralel**.
+- Jangan gabungkan **although + but** atau **because + so**.

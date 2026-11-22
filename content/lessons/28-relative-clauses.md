@@ -1,63 +1,100 @@
 # Relative Clauses
 
-Relative clause menambahkan informasi tentang noun. Defining clause diperlukan untuk mengetahui noun yang mana dan biasanya tidak dipisahkan koma. Non-defining clause hanya menambah informasi; gunakan koma, dan jangan pakai that sebagai relative pronoun pada klausa jenis ini. Who lazim untuk orang, which untuk benda, whose untuk kepemilikan; that dapat mengganti who/which dalam banyak defining clauses.
+Relative clause adalah klausa yang **menjelaskan noun** di depannya, seperti "yang" dalam bahasa Indonesia.
 
-> **Inti aturan:** Use who for people, which for things, and that for people or things in defining clauses. Non-defining clauses use commas and usually not that.
+Bedanya, bahasa Inggris memilih kata penghubung (relative pronoun) berdasarkan **jenis noun** dan **fungsinya** dalam klausa.
 
-## A. Klausa yang menjelaskan noun
+> **Kunci:** **who** = orang, **which** = benda, **that** = keduanya (hanya di defining clause), **whose** = milik.
 
-Relative clause memberikan informasi tentang noun yang mendahuluinya. The student who answered is my friend memakai who answered untuk menentukan student yang dimaksud. Who lazim untuk orang, which untuk benda, whose untuk kepemilikan. That dapat menggantikan who atau which dalam banyak defining relative clauses.
+## A. Relative pronoun
 
-Relative pronoun dapat menjadi subject atau object di dalam relative clause. The student who answered: who adalah subject dari answered. The book that I read: that adalah object dari read dan dalam banyak defining clauses dapat dihilangkan: The book I read.
-
-> **The student who answered is my friend.**
-> Who answered membatasi student yang dimaksud; tidak ada koma.
-
-## B. Defining dan non-defining
-
-Defining clause diperlukan agar pembaca tahu noun yang mana, sehingga biasanya tidak dipisah koma. Non-defining clause hanya menambahkan informasi dan ditandai koma: My phone, which I bought yesterday, is new. Jika klausa itu dihapus, pembaca masih tahu phone mana yang dimaksud dari konteks.
-
-Dalam non-defining clause, jangan memakai that sebagai pengganti who atau which, dan relative pronoun umumnya tidak dihilangkan. Perbedaan koma dapat mengubah makna: My brother who lives in Bandung ... menyiratkan pemilihan satu dari beberapa saudara; My brother, who lives in Bandung, ... menyajikan lokasi sebagai informasi tambahan.
-
-> **My phone, which I bought yesterday, is new.**
-> Which I bought yesterday adalah informasi tambahan, sehingga dipisah koma.
-
-## C. Kesalahan yang perlu dihindari
-
-Untuk orang, gunakan who dalam contoh standar ini: The student who answered, bukan The student which answered. Jangan mengulang pronoun yang sudah diwakili relative pronoun: The student who she answered ... salah jika who adalah subject. Periksa peran relative pronoun di klausa kecilnya.
-
-Coba pisahkan menjadi dua kalimat, lalu gabungkan. The student answered. The student is my friend. Noun yang sama dapat diganti dengan who ketika kedua kalimat disatukan. Cara ini membantu menghindari susunan yang kehilangan subject atau memiliki subject ganda.
-
-- Defining: tanpa koma.
-- Non-defining: dipisah koma, tanpa that.
-- Who untuk orang; which untuk benda; whose untuk kepemilikan.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| Pronoun | Untuk | Contoh |
 | --- | --- | --- |
-| Defining | noun + who/which/that + clause | The student who answered is my friend. |
-| Non-defining | noun, who/which + clause, | My phone, which I bought yesterday, is new. |
-| Kepemilikan | noun + whose + noun + clause | The writer whose book I read is here. |
+| who | Orang | The woman **who** lives next door is a nurse. |
+| which | Benda/hewan | The book **which** I bought is great. |
+| that | Orang/benda (informal, defining) | The film **that** we watched was scary. |
+| whose | Kepemilikan | The man **whose** car was stolen called the police. |
+| where | Tempat | This is the café **where** we first met. |
+| when | Waktu | I remember the day **when** we met. |
+| whom | Orang sebagai object (formal) | The person **whom** I spoke to was helpful. |
 
-## Membedah dua contoh
+:::breakdown
+The student | S
+who sits next to me | relative clause
+is | V
+from Aceh | A (place)
+= Relative clause menjelaskan the student mana yang dimaksud.
+:::
 
-> **The student who answered is my friend.**
-> Who answered membatasi student: teman saya adalah siswa yang menjawab, bukan siswa lain.
+## B. Defining vs non-defining
 
-> **My phone, which I bought yesterday, is new.**
-> Which I bought yesterday hanya menambah informasi tentang my phone; kalimat inti tetap My phone is new.
+| | Defining | Non-defining |
+| --- | --- | --- |
+| Fungsi | Menentukan **yang mana** | Menambah info **ekstra** |
+| Jika dihapus | Makna berubah/tidak jelas | Makna tetap jelas |
+| Koma | **Tanpa** koma | **Dengan** koma |
+| that | Boleh | **Tidak boleh** |
 
-## Kesalahan umum
+- My brother **who lives in Bali** is a chef. *(saya punya beberapa saudara laki-laki; yang di Bali)*
+- My brother**, who lives in Bali,** is a chef. *(saya punya satu saudara laki-laki; info tambahan)*
 
-**Perbaiki:** The student which answered is my friend.
+❌ Jakarta, that is the capital, is very crowded.
+✅ Jakarta, which is the capital, is very crowded.
 
-**Gunakan:** The student who answered is my friend.
+## C. Menghilangkan relative pronoun
 
-Which biasanya merujuk benda; untuk student sebagai orang, gunakan who atau that dalam defining clause.
+Pronoun **boleh dihapus** jika ia menjadi **object** dalam relative clause (dan clause-nya defining).
+
+| Pronoun sebagai | Bisa dihapus? | Contoh |
+| --- | --- | --- |
+| Object | ✓ | The book **(that) I bought** is great. |
+| Subject | ✗ | The man **who called** you is here. |
+
+> **Tips:** Jika setelah who/which/that langsung ada **subject baru** (I, she, they...), pronoun bisa dihapus.
+
+## D. Jangan ulangi pronoun
+
+Relative pronoun **sudah menggantikan** noun. Jangan tambahkan pronoun lagi.
+
+❌ The book which I bought **it** yesterday is great.
+✅ The book which I bought yesterday is great.
+
+❌ The man who **he** helped me is my neighbour.
+✅ The man who helped me is my neighbour.
+
+## E. Preposition dalam relative clause
+
+| Gaya | Contoh |
+| --- | --- |
+| Informal (preposition di akhir) | The house **(that) I grew up in** is old. |
+| Formal (preposition di depan) | The house **in which I grew up** is old. |
+
+Setelah preposition, hanya **which** (benda) dan **whom** (orang), bukan that/who.
+
+❌ The person with who I work...
+✅ The person with whom I work... / The person (who) I work with...
+
+## F. Common Mistakes
+
+### 1. Which untuk orang
+❌ The teacher which taught me was kind.
+✅ The teacher who taught me was kind.
+
+### 2. That di non-defining clause
+❌ My phone, that I bought last year, is broken.
+✅ My phone, which I bought last year, is broken.
+
+### 3. Pronoun ganda
+❌ This is the place where I met her there.
+✅ This is the place where I met her.
+
+### 4. Menghapus pronoun subject
+❌ The girl lives next door is my cousin.
+✅ The girl who lives next door is my cousin.
 
 ## Ringkasan
 
-Coba hapus relative clause. Jika rujukan noun menjadi tidak jelas, itu defining; jika rujukannya tetap jelas, itu non-defining dan perlu koma.
+- **who** orang, **which** benda, **that** keduanya (defining saja), **whose** milik.
+- Non-defining = info tambahan → **koma**, tanpa that.
+- Pronoun object boleh dihapus; pronoun subject tidak.
+- Jangan ulangi pronoun (it, he, there) di dalam clause.

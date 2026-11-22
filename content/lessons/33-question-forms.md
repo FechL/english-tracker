@@ -1,63 +1,121 @@
 # Question Forms
 
-Wh-question biasa menanyakan satu bagian kalimat dengan question word seperti what, where, why, atau how. Jika yang ditanya adalah object atau keterangan, gunakan auxiliary sebelum subject: Who did you call? Jika who/what justru menjadi subject, jangan tambah do-support: Who called you? Perbedaan ini lebih mudah dilihat dengan mencari siapa pelaku tindakan.
+Di Lesson 5 kamu sudah belajar yes/no questions dengan auxiliary. Lesson ini membahas **wh-questions** dan satu jebakan besar: **subject questions**.
 
-> **Inti aturan:** For most wh-questions, put question word + auxiliary + subject + base verb. When who/what is the subject, do not add do-support.
+> **Kunci:** Pola umum: **Wh- + auxiliary + subject + verb?** Kecuali jika wh-word **adalah subject**: maka tanpa do/does/did.
 
-## A. Pertanyaan tentang object atau keterangan
+## A. Pola wh-question
 
-Wh-question dapat meminta informasi tentang object, tempat, waktu, alasan, atau cara. Jika yang ditanya bukan subject, present/past simple biasanya memakai do-support: Where do you work? Who did you call? Auxiliary berada sebelum subject dan main verb kembali ke bentuk dasar. Susunan Where you do work? keliru untuk pertanyaan biasa.
+:::breakdown
+What | wh-word (O)
+does | AUX
+she | S
+study | V
+= Wh- + auxiliary + subject + verb.
+:::
 
-Jika verb-nya be, pindahkan be: Where are you? Jika ada modal, pindahkan modal: When can we start? Pertama identifikasi verb phrase agar kamu tahu auxiliary mana yang bergerak ke depan.
-
-> **Where do you work?**
-> Where = informasi tempat; do mendahului subject you; work adalah bentuk dasar.
-
-## B. Pertanyaan tentang subject
-
-Jika who atau what justru mewakili subject, do-support tidak diperlukan dalam bentuk sederhana: Who called you? Di sini who melakukan tindakan called. Bandingkan Who did you call? Di sana you adalah subject dan who adalah object yang ditanyakan. Perbedaan satu auxiliary mengubah peran orang yang dicari.
-
-Cara menguji: buat jawaban sederhana. Maya called you menjawab Who called you? You called Maya menjawab Who did you call? Setelah melihat posisi subject dalam jawaban, pola pertanyaan menjadi lebih masuk akal.
-
-> **Who called you?**
-> Who adalah subject dari called; tidak perlu did.
-
-## C. Membuat pertanyaan yang jelas
-
-Tentukan informasi yang hilang dari kalimat jawaban, lalu pilih question word yang sesuai. Setelah itu cari apakah informasi yang hilang merupakan subject atau bukan. Jika bukan subject, pilih auxiliary sesuai tense dan pindahkan ke depan subject. Jika subject, bentuk wh-word biasanya langsung diikuti verb.
-
-Pertanyaan tak langsung, seperti Could you tell me where you work?, memiliki urutan berbeda pada klausa kecilnya. Itu sebabnya pola reported questions pada Lesson 32 perlu dibedakan dari pertanyaan langsung pada pelajaran ini.
-
-- Who called you? — menanyakan subject.
-- Who did you call? — menanyakan object.
-- Where do you work? — menanyakan tempat.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| Wh-word | Menanyakan | Contoh |
 | --- | --- | --- |
-| Menanyakan object | Wh-word + do/does/did + S + V1? | Who did you call? |
-| Menanyakan subject | Who/What + V ...? | Who called you? |
-| Dengan be | Wh-word + be + S ...? | Where are you? |
+| what | benda/hal | **What** do you want? |
+| who | orang | **Who** did you meet? |
+| where | tempat | **Where** do they live? |
+| when | waktu | **When** did it start? |
+| why | alasan | **Why** are you late? |
+| how | cara/keadaan | **How** did you get here? |
+| which | pilihan terbatas | **Which** color do you prefer? |
+| whose | pemilik | **Whose** bag is this? |
 
-## Membedah dua contoh
+### Kombinasi how
+**how much** (uncountable/harga), **how many** (countable), **how long** (durasi), **how often** (frekuensi), **how far** (jarak), **how old** (usia).
 
-> **Where do you work?**
-> Where menanyakan lokasi; do + you + work mengikuti urutan pertanyaan present simple.
+## B. Object question vs subject question
 
-> **Who called you?**
-> Who adalah subject dari called. Tidak ada did karena tidak sedang menanyakan object.
+Ini bagian yang paling sering salah.
 
-## Kesalahan umum
+| Jenis | Wh-word menanyakan | Pola | Contoh |
+| --- | --- | --- | --- |
+| Object question | **Object** (penerima) | Wh + **do/does/did** + S + V1 | **Who did** Maya **call**? |
+| Subject question | **Subject** (pelaku) | Wh + **verb** (tanpa do) | **Who called** Maya? |
 
-**Perbaiki:** Where you do work?
+:::breakdown
+Who | S (wh-word)
+called | V
+Maya | O
+= Subject question: siapa yang menelepon? Tanpa did.
+:::
 
-**Gunakan:** Where do you work?
+:::breakdown
+Who | O (wh-word)
+did Maya call | AUX + S + V
+= Object question: Maya menelepon siapa?
+:::
 
-Dalam pertanyaan object/keterangan present simple, auxiliary do muncul sebelum subject you. Bentuk “Where you do work?” memakai urutan pernyataan yang salah.
+Contoh lain:
+
+| Subject question | Object question |
+| --- | --- |
+| **What happened**? | **What did** you **do**? |
+| **Who lives** here? | **Who do** you **live** with? |
+| **Which team won**? | **Which team did** you **support**? |
+| **How many people came**? | **How many people did** you **invite**? |
+
+❌ Who did call you?
+✅ Who called you?
+
+❌ What did happen?
+✅ What happened?
+
+## C. Preposition di akhir pertanyaan
+
+Dalam bahasa Inggris sehari-hari, preposition biasanya **di akhir**.
+
+- **Who** are you talking **to**?
+- **What** are you looking **for**?
+- **Where** are you **from**?
+- **What** is this **for**?
+
+Bentuk formal (*To whom are you talking?*) jarang dipakai dalam percakapan.
+
+## D. Question tags
+
+Pertanyaan pendek di akhir pernyataan untuk konfirmasi.
+
+| Pernyataan | Tag |
+| --- | --- |
+| Positif | **negatif**: You're coming, **aren't you**? |
+| Negatif | **positif**: She doesn't eat meat, **does she**? |
+| Present simple | do/does: You like tea, **don't you**? |
+| Past simple | did: He left early, **didn't he**? |
+| I am | **aren't I**: I'm late, **aren't I**? |
+
+## E. Negative questions
+
+Dipakai untuk mengungkapkan kejutan atau meminta persetujuan.
+
+- **Don't** you like it? *(saya kira kamu suka)*
+- **Isn't** it beautiful? *(bukankah indah?)*
+
+## F. Common Mistakes
+
+### 1. Lupa auxiliary di object question
+❌ Where you live?
+✅ Where do you live?
+
+### 2. Do di subject question
+❌ Who did break the window?
+✅ Who broke the window?
+
+### 3. Verb tidak kembali ke V1 setelah did
+❌ What did you bought?
+✅ What did you buy?
+
+### 4. Urutan be
+❌ Where you are going?
+✅ Where are you going?
 
 ## Ringkasan
 
-Ubah pertanyaan menjadi pernyataan: “Someone called you” → who menggantikan subject; “You called someone” → who menggantikan object dan perlu did.
+- Pola dasar: **Wh + auxiliary + S + V?**
+- Wh-word = **subject** → tanpa do/does/did: Who called?
+- Preposition biasanya di **akhir**: Who are you waiting for?
+- Tag: positif → tag negatif; negatif → tag positif.

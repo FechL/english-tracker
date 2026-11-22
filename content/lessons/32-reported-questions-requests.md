@@ -1,65 +1,108 @@
 # Reported Questions & Requests
 
-Reported question menyampaikan pertanyaan tanpa mempertahankan urutan pertanyaan langsung. Gunakan asked + question word atau if/whether, lalu subject + verb seperti pernyataan. Jangan memakai do/does/did untuk inversi dalam klausa laporan. Permintaan atau instruksi sering dilaporkan dengan asked/told + object + to + V1; larangan menggunakan not to + V1.
+Melaporkan pertanyaan dan permintaan memakai aturan backshift yang sama dengan Lesson 31, ditambah satu aturan penting: **urutan kata kembali seperti kalimat biasa**.
 
-> **Inti aturan:** Reported questions use ask + if/whether or a question word, followed by subject + verb order. Requests often use ask + object + to + base verb.
+> **Kunci:** Reported question memakai urutan **pernyataan** (subject + verb), tanpa do/does/did dan tanpa tanda tanya.
 
-## A. Pertanyaan yang dilaporkan memakai urutan pernyataan
+## A. Wh- questions
 
-Direct question Where do you live? memakai do sebelum subject. Dalam reported question, susunannya menjadi He asked where I lived. Setelah where, urutan subject + verb kembali seperti pernyataan. Bentuk He asked where did I live tidak tepat karena inversi pertanyaan langsung tidak dipertahankan di dalam klausa laporan.
+:::breakdown
+"Where do you live?" | direct question
+:::
 
-Untuk yes/no question, gunakan if atau whether: She asked if I was ready. If di sini berarti “apakah”, bukan syarat first conditional. Reporting verb asked menunjukkan bahwa klausa berikutnya berisi pertanyaan yang dilaporkan.
+:::breakdown
+She asked | reporting clause
+where | wh-word
+I | S
+lived | V
+= Urutan S + V seperti pernyataan; do hilang.
+:::
 
-> **He asked where I lived.**
-> Where memperkenalkan isi pertanyaan; I lived memakai urutan subject + verb.
+| Direct | Reported |
+| --- | --- |
+| "Where **do you live**?" | She asked where **I lived**. |
+| "What **are you doing**?" | He asked what **I was doing**. |
+| "When **did she arrive**?" | They asked when **she had arrived**. |
+| "Why **is he** angry?" | I asked why **he was** angry. |
 
-## B. Permintaan dan instruksi
+❌ She asked where did I live.
+✅ She asked where I lived.
 
-Permintaan dapat dilaporkan dengan asked + object + to + V1: She asked me to wait. Instruksi yang lebih tegas sering memakai told + object + to + V1: He told us to leave. Untuk larangan, tempatkan not sebelum to: He told us not to leave. Jangan menulis He told not us to leave.
+## B. Yes/No questions: if / whether
 
-Perbedaan asked dan told berkaitan dengan jenis ujaran dan tingkat ketegasan. Sebuah permintaan sopan dalam kutipan langsung dapat berubah menjadi asked me to ..., sementara perintah dapat menjadi told me to .... Pilih verb pelapor yang cocok dengan maksud asli.
+Tanpa kata tanya, pakai **if** atau **whether**.
 
-> **She asked me to wait.**
-> Me adalah orang yang diminta; to wait adalah tindakan yang diminta.
+| Direct | Reported |
+| --- | --- |
+| "**Are** you hungry?" | He asked **if I was** hungry. |
+| "**Do** you like coffee?" | She asked **whether I liked** coffee. |
+| "**Can** you swim?" | They asked **if I could** swim. |
+| "**Have** you finished?" | He asked **whether I had finished**. |
 
-## C. Langkah mengubah ujaran
+**Whether** sedikit lebih formal, dan bisa diikuti **or not**: She asked whether **or not** I was coming.
 
-Tentukan apakah ujaran asli berupa wh-question, yes/no question, atau permintaan/perintah. Untuk pertanyaan, pilih wh-word atau if/whether, lalu gunakan urutan pernyataan. Untuk permintaan, pilih asked/told + orang + to-infinitive. Sesuaikan pronoun dan waktu bila sudut pandang berubah.
+## C. Requests & commands: ask/tell + orang + to V1
 
-Baca hasilnya sebagai kalimat utuh. Jika masih terdengar seperti pertanyaan langsung setelah asked—misalnya where did I live—periksa kembali urutan subject dan auxiliary.
+Permintaan dan perintah **tidak** memakai backshift; cukup **to + V1**.
 
-- Wh-question: asked where I lived.
-- Yes/no: asked if I was ready.
-- Request: asked me to wait.
-- Negative command: told us not to leave.
+:::patterns
+ask + orang + to + V1 | "Please help me." → She asked me to help her. | Permintaan
+tell + orang + to + V1 | "Close the door." → He told me to close the door. | Perintah
+ask/tell + orang + not to + V1 | "Don't be late." → She told us not to be late. | Larangan
+:::
 
-## Pola dan penggunaannya
+❌ She told me don't be late.
+✅ She told me not to be late.
 
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
+❌ He asked me to helped him.
+✅ He asked me to help him.
 
-| Fungsi | Pola atau contoh | Kapan dipakai |
+## D. Reporting verbs lain
+
+Selain say, tell, ask, gunakan verb yang lebih spesifik untuk tulisan yang lebih hidup.
+
+| Verb | Pola | Contoh |
 | --- | --- | --- |
-| Wh-question | asked + wh-word + S + V | He asked where I lived. |
-| Yes/no question | asked + if/whether + S + V | She asked if I was ready. |
-| Permintaan | asked + object + to + V1 | She asked me to wait. |
-| Larangan | told + object + not to + V1 | He told us not to leave. |
+| advise | + orang + to V1 | The doctor **advised me to rest**. |
+| remind | + orang + to V1 | She **reminded me to lock** the door. |
+| warn | + orang + (not) to V1 | He **warned us not to swim** there. |
+| offer | + to V1 | She **offered to drive** me home. |
+| promise | + to V1 / (that) | He **promised to call**. |
+| refuse | + to V1 | They **refused to pay**. |
+| suggest | + V-ing / (that) S + V1 | She **suggested going** out. |
+| apologise | + for + V-ing | He **apologised for being** late. |
 
-## Membedah dua contoh
+❌ She suggested me to go.
+✅ She suggested that I go. / She suggested going.
 
-> **He asked where I lived.**
-> Where I lived memakai urutan subject I sebelum verb lived; tidak ada did karena ini klausa laporan.
+## E. Embedded questions (pertanyaan sopan)
 
-> **She asked me to wait.**
-> Asked me to wait menyebut penerima permintaan (me) dan tindakan yang diminta (to wait).
+Urutan yang sama dipakai dalam pertanyaan tidak langsung yang sopan.
 
-## Kesalahan umum
+- Where **is the station**? → Could you tell me where **the station is**?
+- What time **does it start**? → Do you know what time **it starts**?
 
-**Perbaiki:** He asked where did I live.
+## F. Common Mistakes
 
-**Gunakan:** He asked where I lived.
+### 1. Urutan pertanyaan dalam reported question
+❌ He asked me what was my name.
+✅ He asked me what my name was.
 
-Where did I live adalah urutan pertanyaan langsung. Setelah asked, gunakan where I lived tanpa inversi.
+### 2. Do/did tetap muncul
+❌ She asked me where did I go.
+✅ She asked me where I had gone.
+
+### 3. Tanda tanya di akhir
+❌ He asked if I was ready?
+✅ He asked if I was ready.
+
+### 4. Perintah negatif
+❌ The teacher said us to not talk.
+✅ The teacher told us not to talk.
 
 ## Ringkasan
 
-Jika ada asked di depan, baca bagian setelahnya sebagai pernyataan: question word/if + subject + verb. Tanda tanya dipakai hanya bila seluruh kalimat merupakan pertanyaan.
+- Wh-question → **wh-word + S + V** (tanpa do, tanpa ?).
+- Yes/no question → **if/whether + S + V**.
+- Permintaan/perintah → **ask/tell + orang + (not) to V1**.
+- Embedded question sopan memakai urutan pernyataan juga.

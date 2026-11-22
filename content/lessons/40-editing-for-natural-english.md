@@ -1,63 +1,97 @@
 # Editing for Natural English
 
-Penyuntingan yang baik dilakukan bertahap, bukan membaca ulang tanpa tujuan. Periksa apakah setiap klausa mempunyai subject dan finite verb; apakah waktu verb konsisten; apakah subject dan verb sesuai; apakah article, pronoun, dan preposition merujuk dengan jelas. Setelah akurasi, baca untuk kelancaran dan tingkat formalitas. Jangan mengubah kalimat yang benar hanya karena ada bentuk lain yang juga mungkin.
+Ini lesson penutup. Kamu tidak belajar aturan baru, tetapi **cara memakai semua aturan sebelumnya** untuk memeriksa dan memperbaiki tulisanmu sendiri.
 
-> **Inti aturan:** Edit in passes: first check sentence structure and tense, then agreement, articles, and word choice. Read the final version aloud for flow.
+Kalimat bisa benar secara grammar tetapi terdengar tidak alami. Editing yang baik memperbaiki keduanya.
 
-## A. Penyuntingan dimulai dari struktur
+> **Kunci:** Edit dalam **beberapa putaran**, masing-masing dengan satu fokus. Jangan mencoba memperbaiki semuanya sekaligus.
 
-Sebelum memperhalus pilihan kata, pastikan setiap kalimat mempunyai struktur yang lengkap. Cari subject dan finite verb, lalu lihat apakah verb memerlukan object, complement, atau keterangan. Perbaiki fragment dan run-on terlebih dahulu karena keduanya membuat pembaca sulit mengikuti gagasan. Setelah kerangka kalimat benar, pemeriksaan bentuk menjadi lebih mudah.
+## A. Empat putaran editing
 
-Baca tiap paragraf dengan satu pertanyaan: apa gagasan utama kalimat ini? Jika beberapa ide bertabrakan, pecah kalimat atau hubungkan dengan conjunction yang tepat. “Natural English” bukan berarti selalu memilih kalimat panjang; kejelasan lebih penting daripada kerumitan.
+:::patterns
+Putaran 1: Struktur | Apakah setiap kalimat punya S + V? Ada run-on atau fragment? | Lesson 2, 3, 27, 39
+Putaran 2: Verb & tense | Tense konsisten? Bentuk verb benar? Agreement cocok? | Lesson 11–20, 38
+Putaran 3: Kata kecil | Article, preposition, pronoun, plural -s | Lesson 6–9, 36
+Putaran 4: Kealamian | Terlalu bertele-tele? Ada terjemahan kata per kata? | Lesson ini
+:::
 
-> **I reviewed the lesson, and I took the quiz.**
-> Dua klausa lengkap dihubungkan dengan conjunction yang sesuai.
+## B. Checklist kesalahan khas penutur Indonesia
 
-## B. Waktu, agreement, dan rujukan
-
-Pada pemeriksaan kedua, lihat tense dan aspek. She has studied English for three years dapat menyatakan kegiatan belajar yang bermula dulu dan masih relevan sekarang. She has been studying English for three years lebih menyoroti proses. Since memberi titik awal—since 2023—sedangkan for memberi durasi— for three years. Kalimat She is studying English since three years perlu diperbaiki pada dua bagian sekaligus.
-
-Periksa pula subject–verb agreement, article, dan pronoun. Tanyakan apakah the merujuk sesuatu yang sudah diketahui, apakah a/an cocok dengan noun, dan apakah she/it/they mempunyai rujukan jelas. Kesalahan kecil dapat menumpuk walaupun pola utama kalimat sudah benar.
-
-> **She has studied English for three years.**
-> Present perfect simple dapat menyatakan durasi yang masih relevan; for menunjukkan lamanya periode.
-
-## C. Membaca ulang untuk makna dan alur
-
-Setelah akurasi, baca tulisan dari sudut pandang pembaca. Apakah urutan gagasan logis? Apakah pilihan kata sesuai tingkat formalitas? Apakah ada frasa yang dapat disederhanakan tanpa kehilangan makna? Baca dengan suara pelan untuk menemukan kalimat yang tersendat. Jangan mengubah kalimat yang sudah benar hanya karena ada bentuk lain yang juga mungkin.
-
-Penyuntingan paling efektif dilakukan dalam beberapa lintasan: struktur, bentuk, lalu makna dan alur. Jika semuanya diperiksa sekaligus, kesalahan mudah terlewat. Gunakan contoh dari pelajaran sebelumnya sebagai rujukan saat menghadapi pola yang belum yakin.
-
-- Pass 1: struktur klausa.
-- Pass 2: tense, agreement, article, pronoun.
-- Pass 3: makna, pilihan kata, dan alur.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| Area | ❌ | ✅ |
 | --- | --- | --- |
-| Pass 1: struktur | S + finite V + unsur wajib | Pastikan tidak ada fragment atau run-on. |
-| Pass 2: bentuk | tense + agreement + article/pronoun | Tandai waktu dan referen setiap noun. |
-| Pass 3: makna | pilihan kata + register + alur | Baca hasil akhir dengan keras. |
+| Lupa be | She very kind. | She **is** very kind. |
+| Be + verb | I am agree. | I agree. |
+| Lupa -s | He work here. | He **works** here. |
+| Lupa article | She is doctor. | She is **a** doctor. |
+| Plural | many student | many student**s** |
+| Uncountable | informations, advices | information, advice |
+| Since/for | since three years | **for** three years |
+| Tense durasi | I live here since 2020. | I**'ve lived** here since 2020. |
+| Double conjunction | Although ..., but ... | Although ..., ... |
+| -ed/-ing | I'm boring. *(maksudnya bosan)* | I'm **bored**. |
 
-## Membedah dua contoh
+## C. Menghindari terjemahan langsung
 
-> **She has studied English for three years.**
-> Has studied ... for three years dapat menyatakan kegiatan belajar yang bermula tiga tahun lalu dan masih relevan/berlanjut.
+Banyak ungkapan bahasa Indonesia **tidak bisa** diterjemahkan kata per kata.
 
-> **I am interested in learning more.**
-> Interested in diikuti gerund learning; preposition in tidak diikuti to-infinitive dalam pola ini.
+| Terjemahan langsung ❌ | Bahasa Inggris alami ✅ |
+| --- | --- |
+| I want to ask, ... | I have a question. / Could I ask...? |
+| My hobby is reading. *(kaku)* | I enjoy reading. / I love reading. |
+| How is your news? *(apa kabar)* | How are you? / How's it going? |
+| I am interesting with music. | I'm interested in music. |
+| Please, enter. | Please come in. |
+| Open the lamp. | Turn on the light. |
+| Make a party | Have / throw a party |
+| Same with me | Same here. / Me too. |
 
-## Kesalahan umum
+## D. Membuat kalimat lebih ringkas
 
-**Perbaiki:** She is studying English since three years.
+Penutur asli menghargai kalimat yang **langsung ke inti**.
 
-**Gunakan:** She has been studying English for three years.
+| Bertele-tele | Ringkas |
+| --- | --- |
+| due to the fact that | because |
+| in order to | to |
+| at this point in time | now |
+| make a decision | decide |
+| give an explanation | explain |
+| It is important to note that ... | (hapus, langsung ke poinnya) |
 
-Since menyebut titik awal, misalnya since 2023; for menyebut durasi, misalnya for three years. Untuk durasi yang masih berjalan, present perfect simple atau continuous dapat dipakai menurut fokus.
+❌ In my opinion, I think that this is a good idea.
+✅ I think this is a good idea.
+
+*In my opinion* dan *I think* artinya sama; pilih satu.
+
+## E. Contoh editing lengkap
+
+**Draft:**
+> Since three years I am study English in my campus. My lecturer very good and she always give us many informations. Although the material is difficult, but I am enjoy it.
+
+**Hasil edit:**
+> I have been studying English at my university for three years. My lecturer is very good, and she always gives us a lot of information. Although the material is difficult, I enjoy it.
+
+| Perubahan | Alasan |
+| --- | --- |
+| Since three years → for three years | for + durasi |
+| I am study → I have been studying | Durasi sampai sekarang → present perfect continuous |
+| in my campus → at my university | Preposition & kosakata alami |
+| My lecturer very good → is very good | Butuh be sebelum adjective |
+| give → gives | Agreement he/she |
+| many informations → a lot of information | Uncountable |
+| Although ..., but → Although ..., | Satu conjunction saja |
+| I am enjoy → I enjoy | Tanpa be sebelum verb biasa |
+
+## F. Tips praktis
+
+- **Baca keras-keras.** Telinga sering menangkap yang terlewat oleh mata.
+- **Istirahat dulu** sebelum mengedit; kesalahan lebih mudah terlihat.
+- **Catat kesalahan berulang** milikmu sendiri, lalu cek khusus itu.
+- **Satu ide per kalimat.** Jika kalimat lebih dari 25 kata, pertimbangkan untuk memecahnya.
 
 ## Ringkasan
 
-Baca kalimat dengan tiga pertanyaan: apakah strukturnya lengkap, apakah bentuknya sesuai waktu/subject, dan apakah pembaca dapat menangkap maknanya tanpa menebak?
+- Edit dalam putaran: **struktur → verb → kata kecil → kealamian**.
+- Waspadai kesalahan khas: lupa be, -s, article, since/for, double conjunction.
+- Hindari terjemahan kata per kata; cari ungkapan alami.
+- Pangkas kata yang tidak perlu; satu ide per kalimat.

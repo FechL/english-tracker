@@ -1,63 +1,119 @@
 # Parts of Speech
 
-Kelas kata menjawab pertanyaan “kata ini bekerja sebagai apa di kalimat ini?”, bukan sekadar “artinya apa?”. Satu kata bisa berganti fungsi menurut konteks: study adalah verba dalam I study, tetapi nomina dalam my study. Mulailah dari empat kelas inti—noun, verb, adjective, adverb—lalu perhatikan pronoun, determiner, preposition, dan conjunction yang membantu menyusun hubungan antarkata.
+Parts of speech adalah pengelompokan kata berdasarkan **jenis dan perilakunya** dalam kalimat.
+Ini fondasi seluruh kurikulum: tanpa mengenali noun, verb, adjective, dan adverb, kamu akan kesulitan membedah kalimat, memilih tense, atau memperbaiki tulisan.
 
-> **Inti aturan:** A word class describes a word’s function. Nouns name people or things; verbs express actions or states; adjectives describe nouns; adverbs modify verbs, adjectives, or other adverbs.
+> **Kunci:** Tentukan jenis kata dari **tugasnya di kalimat**, bukan dari terjemahan atau akhirannya saja.
 
-## A. Kelas kata dan fungsi dalam kalimat
+## A. Delapan kelas kata
 
-Parts of speech mengelompokkan kata menurut perilakunya: noun menamai orang, benda, atau gagasan; verb menyatakan tindakan atau keadaan; adjective memberi sifat pada noun; dan adverb dapat menerangkan verb, adjective, atau seluruh kalimat. Kelompok lain seperti pronoun, determiner, preposition, dan conjunction membantu membangun hubungan antarkata. Kelas kata adalah titik awal analisis, tetapi tidak sama dengan peran sebuah frasa di dalam kalimat.
+| Kelas kata | Tugas | Contoh |
+| --- | --- | --- |
+| Noun | Menamai orang, benda, tempat, ide | student, Jakarta, knowledge |
+| Pronoun | Menggantikan noun phrase | she, they, it, mine |
+| Verb | Menyatakan tindakan atau keadaan | read, become, is, have |
+| Adjective | Menerangkan noun | useful, careful, red |
+| Adverb | Menerangkan verb, adjective, adverb lain, atau kalimat | carefully, very, often |
+| Determiner | Membatasi rujukan noun | a, the, my, this, some |
+| Preposition | Menghubungkan noun phrase dengan bagian lain | in, on, at, after, with |
+| Conjunction | Menghubungkan kata atau klausa | and, but, because, if |
 
-Perhatikan kata study. Dalam I study every day, study adalah verb. Dalam My study is small, study adalah noun. Kata yang tampak sama dapat berpindah kelas ketika bentuk dan konteksnya berubah. Karena itu, jangan menilai satu kata hanya dari terjemahannya; lihat posisi, kata di sekitarnya, dan pekerjaan yang sedang dilakukannya.
+Empat yang paling penting untuk dikuasai dulu: **noun, verb, adjective, adverb**.
 
-> **The careful student writes clearly.**
-> The student adalah frasa noun sebagai subject; careful adalah adjective yang menjelaskan student; writes adalah verb; clearly adalah adverb yang menjelaskan cara menulis.
+:::breakdown
+The | determiner
+careful | adjective
+student | noun
+writes | verb
+clearly | adverb
+= Siswa yang teliti itu menulis dengan jelas.
+:::
 
 ## B. Empat kelas inti
 
-Noun dapat berupa nama khusus (Jakarta), benda konkret (book), atau konsep abstrak (knowledge). Noun sering muncul setelah article atau determiner dan dapat menjadi subject, object, atau complement. Verb adalah pusat klausa; bentuknya dapat menunjukkan waktu, aspek, dan kesesuaian dengan subject. Beberapa verb memerlukan object, sementara yang lain dapat berdiri sendiri.
+### 1. Noun
+Noun menamai sesuatu. Ciri praktis: bisa didahului **a/an/the/my** dan bisa menjadi subject atau object.
 
-Adjective biasanya muncul sebelum noun atau setelah linking verb: a useful book dan The book is useful. Adverb sering menjawab bagaimana, kapan, seberapa sering, atau seberapa kuat: She speaks clearly; They often study; It is very useful. Namun akhiran -ly bukan tes mutlak: friendly adalah adjective, sedangkan fast dapat menjadi adjective maupun adverb.
+- **Concrete:** book, table, teacher
+- **Abstract:** knowledge, happiness, freedom
+- **Proper noun:** Jakarta, Maya, Monday (huruf kapital)
 
-> **She is a fast runner. She runs fast.**
-> Fast menerangkan runner pada kalimat pertama dan runs pada kalimat kedua. Bentuknya sama, tetapi fungsinya berbeda.
+### 2. Verb
+Verb adalah pusat kalimat. Bentuknya berubah sesuai waktu dan subject.
 
-## C. Kelompok pendukung yang sering tertukar
+- **Action verb:** run, write, eat
+- **State verb:** know, like, belong
+- **Auxiliary:** be, do, have, dan modal (can, will, must)
 
-Pronoun menggantikan noun phrase, misalnya she menggantikan Maya. Determiner muncul bersama noun untuk membatasi rujukannya: the book, my friend, some water. Preposition menghubungkan noun phrase dengan bagian kalimat lain: in the room, after class. Conjunction menghubungkan kata atau klausa: tea and coffee; I stayed because it rained.
+> She **writes** a report. → action
+> She **knows** the answer. → state
 
-Sebuah kata tidak selalu masuk satu kotak sederhana. That, misalnya, dapat menjadi determiner dalam that book atau memperkenalkan klausa dalam I know that she left. Untuk pemula, cukup tentukan fungsi yang relevan dalam kalimat yang sedang dibaca, lalu verifikasi dengan contoh lain.
+### 3. Adjective
+Adjective menerangkan noun. Posisinya dua:
 
-- Cari verb utama terlebih dahulu, lalu tandai noun phrase di sekitarnya.
-- Tanyakan kata apa yang diterangkan oleh adjective atau adverb.
-- Periksa apakah sebuah kata menunjuk, menggantikan, atau menghubungkan bagian lain.
+| Posisi | Contoh |
+| --- | --- |
+| Sebelum noun (attributive) | a **useful** book |
+| Setelah linking verb (predicative) | The book is **useful**. |
 
-## Pola dan penggunaannya
+Ingat, bahasa Indonesia meletakkan sifat **setelah** benda (buku yang berguna), bahasa Inggris **sebelum** benda (a useful book).
 
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
+### 4. Adverb
+Adverb menjawab **bagaimana, kapan, di mana, seberapa sering, seberapa kuat**.
 
-| Fungsi | Pola atau contoh | Kapan dipakai |
+- She speaks **clearly**. → menerangkan verb
+- It is **very** useful. → menerangkan adjective
+- He drives **too** fast. → menerangkan adverb
+- **Unfortunately**, we missed the bus. → menerangkan seluruh kalimat
+
+## C. Satu kata, banyak kelas
+
+Kelas kata ditentukan oleh **posisi dan fungsi**, bukan bentuk.
+
+| Kata | Kalimat | Kelas |
 | --- | --- | --- |
-| Noun / pronoun | student, book / she, they | Mengisi posisi subjek atau objek. Pronoun menggantikan frasa nomina. |
-| Verb | read, is, have | Menyatakan tindakan atau keadaan; bentuknya dapat berubah karena waktu dan subjek. |
-| Adjective / adverb | a careful reader / reads carefully | Adjective menerangkan noun; adverb di sini menerangkan cara melakukan tindakan. |
+| study | I **study** every day. | Verb |
+| study | My **study** is small. | Noun |
+| fast | She is a **fast** runner. | Adjective |
+| fast | She runs **fast**. | Adverb |
+| that | **That** book is mine. | Determiner |
+| that | I know **that** she left. | Conjunction |
 
-## Membedah dua contoh
+### Jebakan akhiran -ly
+Tidak semua kata berakhiran **-ly** adalah adverb.
 
-> **The curious student reads carefully.**
-> The curious student adalah frasa nomina sebagai subjek; curious menerangkan student. Reads adalah verba; carefully menerangkan cara membaca.
+- **friendly, lovely, lonely, costly** → adjective (a friendly teacher)
+- **fast, hard, late, early** → bisa adjective dan adverb tanpa -ly
 
-> **She quickly found a useful book.**
-> Quickly menerangkan found, sedangkan useful menerangkan book. Keduanya tidak dapat ditukar hanya karena sama-sama “kata sifat” dalam terjemahan Indonesia.
+> **Tips:** Tanyakan "kata ini menerangkan apa?" Jika menerangkan noun → adjective. Jika menerangkan verb, adjective, atau kalimat → adverb.
 
-## Kesalahan umum
+## D. Common Mistakes
 
-**Perbaiki:** The carefully student reads curious.
+### 1. Adverb dipakai untuk menerangkan noun
+❌ The carefully student reads.
+✅ The careful student reads.
 
-**Gunakan:** The careful student reads carefully.
+Student adalah noun, jadi butuh adjective.
 
-Carefully adalah adverb dan tidak cocok langsung sebelum student; careful adalah adjective untuk student. Setelah verba reads, gunakan carefully untuk menerangkan cara membaca.
+### 2. Adjective dipakai untuk menerangkan verb
+❌ She speaks English good.
+✅ She speaks English well.
+
+Good adalah adjective; untuk menerangkan cara berbicara pakai adverb **well**.
+
+### 3. Urutan adjective ala bahasa Indonesia
+❌ I bought a bag new.
+✅ I bought a new bag.
+
+### 4. Menganggap -ly selalu adverb
+❌ He smiled friendly.
+✅ He smiled in a friendly way.
+
+Friendly adalah adjective, jadi tidak bisa langsung menerangkan verb smiled.
 
 ## Ringkasan
 
-Cari kata yang diterangkan: jika noun, pilih adjective; jika tindakan/verb, biasanya pilih adverb. Periksa fungsi dalam kalimat, bukan akhiran -ly saja.
+- Cari **verb** dulu, lalu tandai noun di sekitarnya.
+- Kata yang menerangkan **noun** → adjective. Yang menerangkan **verb/adjective/kalimat** → adverb.
+- Satu kata bisa pindah kelas; lihat **posisi**, bukan kamus.
+- Jangan percaya akhiran -ly sepenuhnya.

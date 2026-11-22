@@ -1,67 +1,116 @@
 # Sentence Patterns
 
-Pola kalimat adalah ringkasan urutan peran unsur. Singkatan yang lazim ialah S, V, O, C, A; buku atau kelas berbeda bisa memakai notasi berbeda untuk dua object atau lebih dari satu complement. Karena itu, baca label seperti SVOA, SVCC, atau SVOCOA dari fungsi setiap unsur, bukan mengira semua kalimat harus memiliki jumlah kata yang sama. Satu unsur bisa berupa frasa panjang.
+Di Lesson 2 kamu sudah mengenal lima elemen: S, V, O, C, A, dan tujuh pola dasar.
 
-> **Inti aturan:** Common patterns include SVOA (subject–verb–object–adverbial), SVC (subject–verb–complement), and SVOC(A) (subject–verb–object–object complement, optionally followed by an adverbial). Focus on each element’s job rather than memorizing word counts.
+Lesson ini fokus pada **cara membedah kalimat menjadi pola** dengan cepat, terutama kalimat yang panjang atau mirip-mirip.
 
-## A. Membaca pola sebagai fungsi, bukan jumlah kata
+> **Kunci:** Pola ditentukan oleh **verb**. Verb-lah yang "meminta" elemen apa saja setelahnya.
 
-S, V, O, C, dan A adalah label untuk peran unsur klausa. Sebuah unsur dapat terdiri dari satu kata, frasa panjang, atau bahkan clause. Dalam The very curious student reads a difficult book, seluruh The very curious student adalah subject dan a difficult book adalah object. Karena itu, pola S+V+O tidak berarti kalimat hanya berisi tiga kata.
+## A. Empat langkah membedah pola
 
-Notasi yang dipakai buku dapat berbeda. Sebagian memisahkan indirect object (IO) dan direct object (DO), sementara yang lain menulis dua O. Untuk object complement, sebagian menggunakan OC. Dalam materi ini, yang paling penting adalah uji fungsinya: apakah unsur itu menerima tindakan, menjelaskan subject/object, atau memberi keterangan?
-
-> **Maya gave her friend a book.**
-> Maya = S; gave = V; her friend = IO; a book = DO. Polanya dapat ditulis S+V+O+O atau S+V+IO+DO.
-
-## B. Membedakan complement dan adverbial
-
-Setelah linking verb, bagian yang mendeskripsikan subject adalah subject complement: The room became quiet. Quiet bukan tempat atau waktu; ia adalah keadaan room. Setelah verb seperti paint atau make, bagian yang mendeskripsikan object dapat menjadi object complement: They painted the wall blue. Blue adalah keadaan wall setelah tindakan painted.
-
-Adverbial menjawab pertanyaan seperti kapan, di mana, atau bagaimana. Dalam They painted the wall blue yesterday, yesterday adalah A waktu, sedangkan blue tetap C untuk the wall. Dalam She put the keys on the table, on the table adalah A tempat yang diperlukan untuk melengkapi penggunaan put. Membedakan keduanya membuat susunan kalimat lebih mudah dipahami.
-
-> **They painted the wall blue yesterday.**
-> They = S; painted = V; the wall = O; blue = OC; yesterday = A. Pola lengkap S+V+O+C+A.
-
-## C. Cara menganalisis kalimat baru
-
-Langkah pertama ialah menemukan verb utama atau verb phrase. Kedua, cari subject yang berkaitan dengan verb itu. Ketiga, periksa apakah verb memerlukan object, complement, atau keterangan tertentu. Keempat, tandai tambahan waktu, tempat, cara, dan alasan. Kerjakan pada klausa utama lebih dulu; jangan mencoba mengurai seluruh kalimat kompleks dalam satu langkah.
-
-Gunakan pertanyaan uji sederhana. Jika suatu noun phrase menjawab “apa yang dibeli?”, itu mungkin direct object. Jika unsur setelah be atau become menggambarkan subject, itu subject complement. Jika unsur setelah object menggambarkan hasil pada object, itu object complement. Jika bagian itu menjawab “kapan?”, “di mana?”, atau “bagaimana?”, pertimbangkan adverbial.
-
-> **She put the keys on the table.**
-> She = S; put = V; the keys = O; on the table = A tempat. Polanya S+V+O+A.
-
-- Jangan paksa semua frasa tempat menjadi tambahan opsional.
-- Pastikan satu unsur dapat terdiri dari beberapa kata.
-- Tulis label yang lebih spesifik, seperti IO/DO atau SC/OC, ketika membantu.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| Langkah | Pertanyaan | Hasil |
 | --- | --- | --- |
-| S + V + C | The room became quiet. | Quiet menjelaskan room setelah linking verb became. |
-| S + V + O + A | She put the keys on the table. | The keys = object; on the table = tempat. |
-| S + V + O + C + A | They painted the wall blue yesterday. | Blue menggambarkan object the wall; yesterday memberi waktu. |
-| S + V + O + O | Maya gave her friend a book. | Her friend = penerima; a book = benda yang diberikan. |
+| 1 | Mana verb utamanya? | V |
+| 2 | Siapa/apa yang melakukan atau mengalami? | S |
+| 3 | Apakah ada yang dikenai tindakan? | O (bisa dua: IO + DO) |
+| 4 | Apakah ada yang menjelaskan S atau O? | C |
+| + | Sisanya (waktu, tempat, cara)? | A |
 
-## Membedah dua contoh
+:::breakdown
+They | S
+painted | V
+the wall | O
+blue | OC
+yesterday | A
+= Pola S + V + O + C + A. Blue menjelaskan kondisi the wall.
+:::
 
-> **They painted the wall blue yesterday.**
-> They = S; painted = V; the wall = O; blue = object complement karena hasil tindakan pada wall; yesterday = A waktu. Polanya S–V–O–C–A.
+Satu huruf = satu **elemen**, bukan satu kata. **My younger brother** tetap satu S.
 
-> **She put the keys on the table.**
-> She = S; put = V; the keys = O; on the table = keterangan tempat yang diperlukan oleh put. Polanya S–V–O–A.
+## B. Verb menentukan pola
 
-## Kesalahan umum
+Beberapa verb sering muncul dengan pola tertentu.
 
-**Perbaiki:** They painted blue the wall yesterday.
+| Pola | Verb yang sering memakainya | Contoh |
+| --- | --- | --- |
+| S + V | sleep, arrive, cry, happen | The guests **arrived**. |
+| S + V + C | be, become, seem, look, feel, taste | The soup **tastes** delicious. |
+| S + V + A | live, stay, go, be (+ tempat) | She **lives** in Malang. |
+| S + V + O | buy, read, need, like | He **needs** help. |
+| S + V + O + O | give, send, show, buy, tell | She **sent** me a letter. |
+| S + V + O + C | make, call, find, elect, paint | They **called** the baby Rina. |
+| S + V + O + A | put, place, keep (+ tempat) | She **put** the keys on the table. |
 
-**Gunakan:** They painted the wall blue yesterday.
+Satu verb bisa punya lebih dari satu pola:
 
-Object complement blue mengikuti object yang dijelaskannya. Susunan painted blue the wall salah untuk pola netral ini.
+- He **made** a cake. → S + V + O
+- He **made** me a cake. → S + V + O + O
+- He **made** me angry. → S + V + O + C
+
+## C. Membedakan pola yang mirip
+
+### 1. S + V + O + O vs S + V + O + C
+Keduanya punya dua frasa setelah verb. Tesnya: **apakah frasa kedua = frasa pertama?**
+
+| Kalimat | Uji | Pola |
+| --- | --- | --- |
+| They elected **him president**. | him = president ✓ | S + V + O + C |
+| She gave **him a book**. | him = a book ✗ | S + V + O + O |
+
+### 2. A wajib vs A tambahan
+Hapus adverbial. Jika kalimat jadi tidak lengkap, A itu **wajib** dan masuk pola.
+
+❌ She put the keys.
+✅ She put the keys on the table.
+
+- She lives **in Malang**. → hapus: "She lives." terasa tidak lengkap → S + V + A
+- She reads **in the library**. → hapus: "She reads." masih lengkap → pola S + V, adverbial hanya tambahan
+
+### 3. S + V + C vs S + V + O
+Ganti verb dengan **be**. Jika maknanya masih masuk akal, itu complement.
+
+- He **became** a doctor. → He **is** a doctor ✓ → C
+- He **met** a doctor. → He **is** a doctor ✗ → O
+
+## D. Kalimat panjang tetap punya pola inti
+
+Buang dulu modifier dan adverbial tambahan, lalu lihat intinya.
+
+:::breakdown
+Last year | A
+my older sister | S
+finally | A
+found | V
+her new job | O
+very interesting | OC
+= Inti: My sister found her job interesting → S + V + O + C.
+:::
+
+> **Tips:** Kurung semua adverbial tambahan (last year, finally, very), lalu pola inti akan terlihat.
+
+## E. Common Mistakes
+
+### 1. Menukar posisi object dan complement
+❌ They painted blue the wall.
+✅ They painted the wall blue.
+
+Dalam S + V + O + C, object selalu sebelum complement.
+
+### 2. Menghilangkan adverbial wajib
+❌ Please put your bag.
+✅ Please put your bag under the desk.
+
+### 3. Menganggap complement sebagai object
+❌ He became a teacher → teacher = object
+✅ A teacher adalah subject complement (He = a teacher).
+
+### 4. Menghitung kata, bukan elemen
+❌ "The tall man in the blue shirt" = 7 elemen
+✅ Itu satu elemen: Subject.
 
 ## Ringkasan
 
-Uji C: apakah kata itu menggambarkan S atau O? Uji A: apakah ia menjawab kapan/di mana/bagaimana? Jangan paksa setiap unsur ke satu kata.
+- Mulai dari **verb**, karena verb yang menentukan pola.
+- Dua frasa setelah verb? Uji **"frasa 1 = frasa 2?"** → OC; jika tidak → IO + DO.
+- Uji hapus untuk tahu apakah adverbial **wajib**.
+- Kalimat panjang: buang modifier, temukan pola inti.

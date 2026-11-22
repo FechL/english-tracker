@@ -1,64 +1,105 @@
 # Passive Voice
 
-Passive voice mengubah fokus dari pelaku ke hal yang dikenai tindakan. Object kalimat aktif menjadi subject kalimat pasif, lalu gunakan be dalam waktu yang tepat + V3. Pelaku dapat ditambahkan dengan by jika penting; jika tidak diketahui atau tidak relevan, hilangkan. Tidak semua kalimat cocok dipasifkan: verb yang tidak mempunyai object langsung umumnya tidak membentuk passive biasa.
+Kalimat aktif fokus pada **pelaku**. Kalimat pasif fokus pada **apa yang dikenai tindakan**.
 
-> **Inti aturan:** Use be in the appropriate tense + past participle. Include by + agent only when the doer matters.
+Bahasa Indonesia punya "di-" yang mirip. Bedanya, passive bahasa Inggris **wajib memakai be** yang menyesuaikan tense.
 
-## A. Mengubah fokus kalimat
+> **Kunci:** **be + V3**. Object kalimat aktif menjadi subject kalimat pasif. Tense ditunjukkan oleh **be**.
 
-Passive voice dipakai ketika hal yang dikenai tindakan lebih penting daripada pelakunya, atau ketika pelaku tidak diketahui. Dalam Maya wrote the report, Maya menjadi fokus. Dalam The report was written by Maya, the report menjadi subject. Jika pelakunya tidak penting, by Maya boleh dihilangkan: The report was written yesterday.
+## A. Dari aktif ke pasif
 
-Object aktif menjadi subject pasif. Verb dibentuk dengan be dalam tense yang tepat + past participle (V3). Karena itu, was wrote keliru; setelah was gunakan written. Perubahan voice tidak mengharuskan perubahan waktu.
+:::breakdown
+The chef | S
+cooked | V
+the meal | O
+= Aktif: fokus pada pelaku (the chef).
+:::
 
-> **The report was written yesterday.**
-> The report = subject pasif; was = be lampau; written = V3.
+:::breakdown
+The meal | S
+was cooked | V (be + V3)
+by the chef | A (pelaku)
+= Pasif: fokus pada hasil (the meal).
+:::
 
-## B. Bentuk pada beberapa tense
+Langkahnya:
 
-Present simple passive: English is spoken in many countries. Past simple passive: The report was written yesterday. Present perfect passive: The report has been written. Komponen be berubah sesuai tense dan subject, sementara main verb tetap V3. Pertanyaan dan negasi mengubah auxiliary: Was the report written? The report was not written.
+- Object aktif → menjadi **subject** pasif.
+- Tambahkan **be** sesuai tense aktif.
+- Verb utama → **V3**.
+- Pelaku → **by + pelaku** (opsional).
 
-Tidak semua verb bisa membentuk passive biasa. Verb intransitive yang tidak memiliki direct object, seperti sleep dalam The baby sleeps, tidak menyediakan object untuk menjadi subject pasif. Periksa pola verb aktif dahulu sebelum mencoba mengubahnya.
+Hanya **transitive verb** (yang punya object) yang bisa dipasifkan. Verb seperti happen, arrive, die tidak punya bentuk pasif.
 
-> **English is spoken in many countries.**
-> Is spoken adalah present simple passive; pelaku umum tidak perlu disebut.
+❌ The accident was happened.
+✅ The accident happened.
 
-## C. Kapan pelaku disebut
+## B. Passive di semua tense
 
-Tambahkan by + agent jika identitas pelaku membantu: The report was written by Maya. Jika informasi pelaku sudah jelas, tidak diketahui, atau tidak relevan, kalimat pasif sering lebih ringkas tanpa agent. Namun jangan memakai passive hanya agar tulisan terlihat formal; active voice sering lebih jelas bila pelaku dan tindakannya penting.
-
-Saat mengedit, tanyakan apa yang ingin pembaca perhatikan pertama kali. Jika hasil atau penerima tindakan menjadi topik, passive dapat bekerja. Jika yang penting adalah siapa melakukan sesuatu, active mungkin lebih langsung.
-
-- Active: Maya wrote the report.
-- Passive: The report was written by Maya.
-- Tanpa agent: The report was written yesterday.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| Tense | Aktif | Pasif |
 | --- | --- | --- |
-| Present simple | am/is/are + V3 | The reports are written every week. |
-| Past simple | was/were + V3 | The report was written yesterday. |
-| Present perfect | have/has been + V3 | The report has been written. |
-| Agen | passive + by + pelaku | The report was written by Maya. |
+| Present simple | They **clean** the room. | The room **is cleaned**. |
+| Present continuous | They **are cleaning** the room. | The room **is being cleaned**. |
+| Past simple | They **cleaned** the room. | The room **was cleaned**. |
+| Past continuous | They **were cleaning** the room. | The room **was being cleaned**. |
+| Present perfect | They **have cleaned** the room. | The room **has been cleaned**. |
+| Future (will) | They **will clean** the room. | The room **will be cleaned**. |
+| Modal | They **must clean** the room. | The room **must be cleaned**. |
 
-## Membedah dua contoh
+> **Tips:** Main verb selalu **V3**. Yang berubah hanya **be** (is/was/being/been/be).
 
-> **The report was written yesterday.**
-> Was menandai past untuk report tunggal; written adalah V3 dari write. Pelaku tidak perlu disebut.
+## C. Kapan memakai passive
 
-> **English is spoken in many countries.**
-> Is spoken adalah passive present simple; fokusnya bahasa Inggris, bukan siapa yang berbicara.
+| Alasan | Contoh |
+| --- | --- |
+| Pelaku tidak diketahui | My bike **was stolen**. |
+| Pelaku tidak penting / sudah jelas | The road **is being repaired**. |
+| Fokus pada hasil/proses | Rice **is grown** in many parts of Asia. |
+| Tulisan formal/ilmiah | The samples **were analysed** in a lab. |
+| Menghindari menyalahkan | Mistakes **were made**. |
 
-## Kesalahan umum
+Pakai **by + pelaku** hanya jika pelaku itu **informasi penting**:
 
-**Perbaiki:** The report was wrote yesterday.
+- *Laskar Pelangi* **was written by Andrea Hirata**. ✓
+- The window was broken **by someone**. ✗ *(tidak menambah informasi)*
 
-**Gunakan:** The report was written yesterday.
+## D. Passive dengan dua object
 
-Setelah was perlu past participle written, bukan past simple wrote. Bentuk was wrote salah dalam passive standar.
+Verb seperti give, send, show, tell, offer punya dua object, sehingga ada dua kemungkinan pasif.
+
+**Aktif:** They gave **Maya** **a prize**.
+
+- **Maya was given** a prize. *(lebih umum: orang sebagai subject)*
+- **A prize was given** to Maya.
+
+## E. Get passive (informal)
+
+Dalam percakapan, **get + V3** sering menggantikan be, terutama untuk kejadian tak terduga.
+
+- He **got fired** last week.
+- My phone **got broken**.
+
+## F. Common Mistakes
+
+### 1. Lupa be
+❌ The letter written yesterday.
+✅ The letter was written yesterday.
+
+### 2. Memakai V2, bukan V3
+❌ The house was build in 1990.
+✅ The house was built in 1990.
+
+### 3. Pasif untuk intransitive verb
+❌ He was died in 2010.
+✅ He died in 2010.
+
+### 4. Be tidak cocok tense/jumlah
+❌ The emails has been sent.
+✅ The emails have been sent.
 
 ## Ringkasan
 
-Tanyakan fokus informasi: pelaku atau hasil/tindakan? Jika hasil, buat object aktif menjadi subject pasif dan pertahankan waktu melalui bentuk be.
+- **be + V3**; tense ditunjukkan oleh **be**.
+- Object aktif → subject pasif.
+- Dipakai saat pelaku **tidak diketahui, tidak penting**, atau fokus pada hasil.
+- Verb tanpa object (happen, die, arrive) **tidak bisa** dipasifkan.

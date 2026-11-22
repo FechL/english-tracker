@@ -1,63 +1,118 @@
 # May, Might & Probability
 
-May dan might menyatakan kemungkinan, sedangkan may juga dapat dipakai untuk meminta izin dengan nada formal. Keduanya diikuti V1 tanpa to atau -s. Kekuatan kemungkinan tidak mempunyai persentase tetap; might sering terdengar lebih tentatif, tetapi maknanya bergantung konteks dan intonasi. Untuk dugaan lampau, bentuknya dapat menjadi may/might have + V3.
+Penutur asli jarang berbicara dengan kepastian 100%. Mereka memakai modal verb untuk menunjukkan **seberapa yakin** mereka.
 
-> **Inti aturan:** May and might express possibility. They are followed by a base verb; may is also used for formal permission.
+Lesson ini mengajarkan "skala keyakinan" dalam bahasa Inggris.
 
-## A. Kemungkinan dengan may dan might
+> **Kunci:** **must** (hampir pasti ya) → **may/might/could** (mungkin) → **can't** (hampir pasti tidak).
 
-May dan might sering dipakai ketika penutur tidak yakin suatu peristiwa akan terjadi: It may rain; It might rain. Might sering terasa lebih tentatif, tetapi tidak ada persentase kemungkinan yang tetap untuk masing-masing bentuk. Konteks, nada, dan informasi yang dimiliki penutur memengaruhi makna.
+## A. Skala keyakinan
 
-Keduanya diikuti bentuk dasar verb tanpa -s: It might rain, bukan It might rains. Untuk dugaan tentang masa lalu, gunakan may/might have + past participle: She may have missed the bus.
-
-> **It might rain later.**
-> Might menunjukkan kemungkinan; rain tetap bentuk dasar.
-
-## B. May untuk izin
-
-May I ask a question? adalah permintaan izin yang terasa lebih formal daripada Can I ask a question? Keduanya dapat dipahami, tetapi fungsi dan tingkat formalitasnya berbeda. Dalam jawaban, You may leave memberi izin dengan nada resmi atau sopan.
-
-Jangan menyamakan semua may dengan kemungkinan. May I...? biasanya izin; It may rain biasanya kemungkinan. Bentuk yang sama mendapat makna berbeda karena subject, jenis kalimat, dan situasi percakapan.
-
-> **May I ask a question?**
-> May di awal pertanyaan menandai permintaan izin formal.
-
-## C. Menulis dugaan yang proporsional
-
-Pilih may atau might ketika bukti belum cukup untuk pernyataan pasti. Jika ingin menyatakan keyakinan sangat kuat, bentuk lain seperti must dalam makna deduksi dapat dipakai, tetapi jangan menafsirkan modal sebagai angka probabilitas. Jelaskan sumber dugaan dalam kalimat lain bila pembaca membutuhkannya.
-
-Periksa bahwa main verb setelah modal berada dalam bentuk dasar, lalu pastikan waktu yang dimaksud. It might rain menunjuk sekarang atau nanti; It might have rained menunjuk dugaan tentang peristiwa lampau.
-
-- It may rain: kemungkinan.
-- She might have left: dugaan lampau.
-- May I leave?: izin.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| Keyakinan | Modal | Contoh |
 | --- | --- | --- |
-| Kemungkinan kini/nanti | may/might + V1 | It might rain later. |
-| Kemungkinan lampau | may/might have + V3 | She may have missed the bus. |
-| Izin formal | May + S + V1? | May I ask a question? |
+| ~100% ya | will | She**'ll** be at home. *(saya yakin)* |
+| ~95% ya | must | She **must** be at home. The lights are on. |
+| ~70% | should | She **should** be home by now. *(seharusnya, sesuai jadwal)* |
+| ~50% | may | She **may** be at home. |
+| ~30–50% | might / could | She **might** be at home. I'm not sure. |
+| ~95% tidak | can't / couldn't | She **can't** be at home. I just saw her in town. |
 
-## Membedah dua contoh
+:::breakdown
+He | S
+might be | V (modal + be)
+in a meeting | A (place)
+= Mungkin dia sedang rapat (saya tidak yakin).
+:::
 
-> **It might rain later.**
-> Might menunjukkan hujan mungkin terjadi; rain tetap bentuk dasar.
+## B. May vs might vs could
 
-> **May I ask a question?**
-> May I ...? adalah permintaan izin yang lebih formal daripada Can I ...?
+Untuk kemungkinan, ketiganya **hampir sama**.
 
-## Kesalahan umum
+- It **may** rain later.
+- It **might** rain later. *(paling umum dalam percakapan)*
+- It **could** rain later.
 
-**Perbaiki:** It might rains later.
+Perbedaan kecil:
 
-**Gunakan:** It might rain later.
+| Modal | Catatan |
+| --- | --- |
+| may | Sedikit lebih formal; juga untuk **izin**: **May** I come in? |
+| might | Paling netral untuk kemungkinan |
+| could | Kemungkinan; **couldn't** = tidak mungkin |
 
-Might tidak berubah menurut subject, dan verba setelahnya tidak memakai -s. Bentuk “might rains” menggandakan penanda yang tidak diperlukan.
+### Negatif
+| Bentuk | Makna |
+| --- | --- |
+| may not / might not | Mungkin tidak: She **might not** come. |
+| can't / couldn't | **Tidak mungkin**: That **can't** be true! |
+
+❌ She couldn't come. *(jika maksudnya "mungkin tidak datang")*
+✅ She might not come.
+
+## C. Must vs can't: deduksi
+
+Dipakai saat menarik **kesimpulan dari bukti**.
+
+| Bukti | Kesimpulan |
+| --- | --- |
+| He's yawning all the time. | He **must** be tired. |
+| She has three cars. | She **must** be rich. |
+| He only ate an hour ago. | He **can't** be hungry already. |
+
+❌ He mustn't be hungry.
+✅ He can't be hungry.
+
+## D. Kemungkinan di masa lalu: modal + have + V3
+
+| Bentuk | Makna | Contoh |
+| --- | --- | --- |
+| must have + V3 | Pasti sudah (lampau) | The street is wet. It **must have rained**. |
+| may/might have + V3 | Mungkin sudah | She **might have missed** the bus. |
+| could have + V3 | Mungkin / bisa saja | He **could have taken** the wrong road. |
+| can't/couldn't have + V3 | Tidak mungkin sudah | She **can't have seen** me. I was hiding. |
+
+:::breakdown
+She | S
+must have forgotten | V (must + have + V3)
+the meeting | O
+= Dia pasti lupa rapatnya.
+:::
+
+## E. Alternatif tanpa modal
+
+| Ungkapan | Contoh |
+| --- | --- |
+| maybe / perhaps (di awal) | **Maybe** she's busy. |
+| probably / definitely (adverb) | She'll **probably** come. |
+| be likely to | It's **likely to** rain. |
+| I doubt (that)... | **I doubt** he'll agree. |
+
+❌ May be she is busy.
+✅ Maybe she is busy. / She may be busy.
+
+**maybe** (satu kata) = adverb. **may be** (dua kata) = modal + be.
+
+## F. Common Mistakes
+
+### 1. Mustn't untuk "pasti tidak"
+❌ That mustn't be right.
+✅ That can't be right.
+
+### 2. Modal + to
+❌ It might to rain.
+✅ It might rain.
+
+### 3. Maybe vs may be
+❌ He maybe late.
+✅ He may be late. / Maybe he'll be late.
+
+### 4. Bentuk lampau yang salah
+❌ She must forgot.
+✅ She must have forgotten.
 
 ## Ringkasan
 
-Bedakan kemungkinan dari kepastian. Untuk kemungkinan di masa lalu, tambahkan have + V3; untuk kemungkinan kini/nanti, cukup modal + V1.
+- **must** = hampir pasti; **may/might/could** = mungkin; **can't** = hampir pasti tidak.
+- Lawan **must** dalam deduksi adalah **can't**, bukan mustn't.
+- Lampau: **modal + have + V3**.
+- **maybe** (adverb) ≠ **may be** (modal + be).

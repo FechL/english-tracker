@@ -1,63 +1,95 @@
 # Present Continuous
 
-Present continuous menyoroti kegiatan yang sedang berlangsung di sekitar waktu bicara atau keadaan sementara. Rumusnya be + verb-ing; auxiliary be harus sesuai subject. Makna sementara dapat mencakup minggu ini walaupun tindakan tidak terjadi pada detik ketika kalimat diucapkan. Verba keadaan seperti know dan believe biasanya memakai present simple untuk makna statisnya.
+Present continuous menyatakan sesuatu yang **sedang berlangsung**: tepat saat berbicara, atau dalam periode sekarang yang sifatnya sementara.
 
-> **Inti aturan:** Use am/is/are + verb-ing. Some state verbs such as know and believe are usually not used in the continuous form.
+Padanan Indonesianya biasanya "sedang".
 
-## A. Aktivitas yang sedang berlangsung
+> **Kunci:** Bentuknya **am/is/are + verb-ing**. Keduanya wajib; jangan hilangkan be.
 
-Present continuous menggunakan am/is/are + verb-ing. Bentuk ini sering menggambarkan kegiatan yang sedang berlangsung di sekitar saat berbicara: I am reading a grammar lesson now. Tidak harus berarti tindakan terjadi persis pada detik kalimat diucapkan; She is writing a book dapat menggambarkan proyek yang sedang berjalan selama beberapa bulan.
+## A. Bentuk
 
-Bentuk ini juga dapat menyatakan situasi sementara: They are staying with family this week. Penanda now, at the moment, this week, atau these days membantu, tetapi kontekslah yang menentukan apakah keadaan itu sementara.
+:::breakdown
+They | S
+are watching | V
+a film | O
+now | A
+= Mereka sedang menonton film sekarang.
+:::
 
-> **I am reading a grammar lesson now.**
-> Am adalah auxiliary untuk I; reading adalah bentuk -ing; now menunjukkan kegiatan saat ini.
+| | Positif | Negatif | Pertanyaan |
+| --- | --- | --- | --- |
+| I | I **am working**. | I'**m not working**. | **Am** I **working**? |
+| he/she/it | She **is working**. | She **isn't working**. | **Is** she **working**? |
+| you/we/they | They **are working**. | They **aren't working**. | **Are** they **working**? |
 
-## B. Susunan dan perubahan ejaan
+## B. Kapan dipakai
 
-Dalam pernyataan positif gunakan S + be + V-ing. Untuk negatif, letakkan not sesudah be: I am not reading. Untuk pertanyaan, pindahkan be ke depan subject: Are you reading? Verb-ing memiliki beberapa aturan ejaan: make → making, run → running, lie → lying. Bentuk I reading keliru karena auxiliary be tidak ada.
+| Fungsi | Contoh |
+| --- | --- |
+| Sedang terjadi saat bicara | Be quiet! The baby **is sleeping**. |
+| Periode sekarang (tidak harus detik ini) | I**'m reading** a great book this week. |
+| Situasi sementara | She**'s staying** with her aunt this month. |
+| Perubahan yang sedang berlangsung | Prices **are rising**. |
+| Kebiasaan yang mengganggu (+ always) | He**'s always interrupting** me! |
 
-Beberapa verb yang menyatakan keadaan, pemilikan, atau pikiran—seperti know, believe, dan own—biasanya tidak dipakai dalam continuous pada makna biasa. Namun beberapa verb memiliki makna lain yang dapat berlangsung sebagai aktivitas: I am thinking about the answer berbeda dari I think the answer is correct.
+Untuk rencana masa depan yang sudah diatur (I'm meeting her tomorrow), lihat Lesson 17.
 
-> **They are staying with family this week.**
-> Are staying menunjukkan situasi sementara selama minggu ini.
+## C. Aturan ejaan -ing
 
-## C. Apa yang harus diperiksa
-
-Tanyakan apakah kalimat menjelaskan proses sementara atau aktivitas yang sedang berlangsung. Jika ya, pilih be yang sesuai dengan subject dan tambahkan verb-ing. Baca ulang untuk memastikan tidak ada bentuk ganda seperti is studies atau bentuk yang kehilangan be seperti she studying.
-
-Bandingkan dengan present simple. I read every day menjelaskan pola berulang; I am reading now menjelaskan proses saat ini. Kedua kalimat dapat benar tentang orang yang sama, tetapi menjawab pertanyaan berbeda.
-
-- I am reading: proses kini.
-- They are staying here this week: sementara.
-- She is meeting her tutor tomorrow: rencana yang sudah diatur.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| Akhiran verb | Aturan | Contoh |
 | --- | --- | --- |
-| Positif | S + am/is/are + V-ing | I am reading; they are reading. |
-| Negatif | S + am/is/are not + V-ing | She is not working today. |
-| Tanya | Am/Is/Are + S + V-ing? | Are you studying now? |
+| Umumnya | + ing | read → reading, go → going |
+| -e | hapus e + ing | write → writing, make → making |
+| -ie | ie → y + ing | lie → lying, die → dying |
+| 1 suku kata: konsonan-vokal-konsonan | gandakan konsonan akhir | run → running, sit → sitting, stop → stopping |
+| -ee, -ye | + ing | see → seeing |
 
-## Membedah dua contoh
+Tidak digandakan jika berakhir w, x, y: fix → fixing, play → playing.
 
-> **I am reading a grammar lesson now.**
-> I am reading memadukan am dengan subject I dan reading sebagai aktivitas yang berlangsung.
+## D. Kata keterangan yang sering muncul
 
-> **They are staying with family this week.**
-> They are staying menyatakan situasi tinggal sementara, bukan rumah permanen.
+**now, right now, at the moment, currently, today, this week/month/year, these days, Look! Listen!**
 
-## Kesalahan umum
+- Listen! Someone **is knocking** at the door.
+- I**'m working** from home **these days**.
 
-**Perbaiki:** I reading a grammar lesson now.
+## E. State verbs tidak dipakai dalam continuous
 
-**Gunakan:** I am reading a grammar lesson now.
+Verb keadaan (know, like, want, need, believe, belong, understand) biasanya **tidak** memakai -ing.
 
-Verb-ing tidak berdiri sendiri sebagai predikat continuous; tambahkan am untuk I, is untuk he/she/it, atau are untuk you/we/they.
+❌ I am wanting a coffee.
+✅ I want a coffee.
+
+Beberapa verb bisa keduanya dengan **makna berbeda**:
+
+| State (present simple) | Action (continuous) |
+| --- | --- |
+| I **have** a car. (milik) | I**'m having** lunch. (makan) |
+| I **think** it's good. (pendapat) | I**'m thinking** about it. (proses berpikir) |
+| The soup **tastes** salty. (rasanya) | She**'s tasting** the soup. (mencicipi) |
+| I **see** what you mean. (paham) | I**'m seeing** the doctor today. (bertemu) |
+
+## F. Common Mistakes
+
+### 1. Lupa be
+❌ She reading a book.
+✅ She is reading a book.
+
+### 2. Lupa -ing
+❌ They are play football.
+✅ They are playing football.
+
+### 3. State verb dengan -ing
+❌ I am understanding the lesson now.
+✅ I understand the lesson now.
+
+### 4. Ejaan
+❌ writeing, runing, siting
+✅ writing, running, sitting
 
 ## Ringkasan
 
-Tanyakan apakah kegiatan sedang berlangsung/bersifat sementara. Jika menjelaskan kebiasaan, gunakan present simple.
+- **am/is/are + V-ing** — kedua bagian wajib.
+- Untuk hal yang **sedang** atau **sementara** terjadi.
+- Penanda: now, at the moment, currently, this week.
+- State verbs (know, want, like) → tetap present simple.

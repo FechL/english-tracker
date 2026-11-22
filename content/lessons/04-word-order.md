@@ -1,63 +1,118 @@
 # Word Order
 
-Urutan dasar pernyataan bahasa Inggris adalah subject + verb + object/complement, lalu keterangan yang sesuai. Ini penting bagi penutur Indonesia karena bahasa Inggris lebih bergantung pada posisi kata untuk menunjukkan hubungan. Keterangan cara, tempat, dan waktu punya beberapa posisi yang mungkin; urutan place sebelum time adalah pilihan netral yang aman, bukan aturan tanpa pengecualian.
+Bahasa Inggris adalah bahasa dengan **urutan kata yang ketat**.
 
-> **Inti aturan:** Neutral statements usually follow subject + verb + object, then place and time. Manner commonly comes before place or after the object. Questions use a different order.
+Kalau di bahasa Indonesia "Kemarin saya beli buku" dan "Saya beli buku kemarin" sama-sama wajar, bahasa Inggris punya posisi default untuk setiap elemen.
 
-## A. Mengapa urutan kata penting
+> **Kunci:** Urutan dasar pernyataan: **Subject → Verb → Object → Manner → Place → Time**.
 
-Bahasa Inggris banyak memakai posisi untuk menunjukkan hubungan antarunsur. Dalam pernyataan netral, subject biasanya mendahului verb, lalu object atau complement mengikuti verb. Karena itu, We studied grammar lebih mudah dipahami daripada We grammar studied. Susunan ini tetap berlaku ketika subject atau object berupa frasa panjang: My younger brother studied English grammar.
+## A. Urutan dasar: S + V + O
 
-Keterangan waktu dan tempat dapat berpindah untuk penekanan, tetapi pemula sebaiknya memulai dari susunan yang paling jelas. We studied grammar at home last night menempatkan tempat sebelum waktu; Last night, we studied grammar at home juga wajar ketika waktu ingin ditekankan. Pergeseran keterangan tidak berarti object bebas berpindah ke depan verb.
+Subject hampir selalu **sebelum** verb, dan object **setelah** verb.
 
-> **We studied grammar at home last night.**
-> We = subject; studied = verb; grammar = object; at home = tempat; last night = waktu.
+:::breakdown
+Maya | S
+bought | V
+a book | O
+= Maya membeli sebuah buku.
+:::
 
-## B. Posisi adverb dan batas aturan sederhana
+❌ A book Maya bought.
+✅ Maya bought a book.
 
-Adverb cara sering berada setelah verb atau object: She spoke clearly; He checked the answer carefully. Adverb tertentu juga bisa diletakkan sebelum main verb: He carefully checked the answer. Sebaliknya, adverb frekuensi seperti often biasanya muncul sebelum main verb tetapi setelah be: She often studies; She is often late. Posisi ini berkaitan dengan jenis adverb, bukan satu aturan universal untuk semua keterangan.
+Jangan pisahkan verb dan object dengan adverb:
 
-Saat menulis pertanyaan, susunan dasar pernyataan berubah. Auxiliary mendahului subject: Did you study last night? Setelah did, main verb kembali ke bentuk dasar study. Jadi menguasai urutan kata juga berarti membedakan pernyataan, pertanyaan, dan klausa yang dimulai oleh keterangan.
+❌ She speaks very well English.
+✅ She speaks English very well.
 
-> **He carefully checked the answer.**
-> Carefully menerangkan checked. Bentuk He checked the answer carefully juga alami.
+## B. Urutan adverbial: Manner → Place → Time
 
-## C. Langkah praktis menyusun kalimat
+Jika ada beberapa keterangan di akhir kalimat, urutan umumnya **bagaimana → di mana → kapan**.
 
-Mulailah dengan memilih satu klausa inti: siapa atau apa subject-nya, apa verb-nya, dan apakah verb membutuhkan object atau complement. Setelah kalimat inti lengkap, tambahkan keterangan yang benar-benar membantu pembaca. Baca ulang untuk memastikan tiap frasa punya tempat yang masuk akal.
+:::breakdown
+She | S
+studied | V
+hard | manner
+at the library | place
+yesterday | time
+:::
 
-Jika kalimat terasa janggal, jangan langsung mengganti kata-katanya. Tandai setiap unsur dengan S, V, O, C, atau A. Kesalahan We grammar studied last night at home menjadi terlihat karena grammar berada sebelum studied. Perbaiki inti S+V+O lebih dulu, baru atur keterangan tempat dan waktu.
-
-- Bangun kerangka S+V lebih dahulu.
-- Tambahkan O atau C bila diperlukan oleh verb.
-- Letakkan keterangan secara jelas dan hindari meniru urutan bahasa Indonesia kata demi kata.
-
-## Pola dan penggunaannya
-
-Berikut rangkuman bentuk yang dapat kamu pakai ketika membuat kalimat sendiri.
-
-| Fungsi | Pola atau contoh | Kapan dipakai |
+| Elemen | Pertanyaan | Contoh |
 | --- | --- | --- |
-| Pernyataan | S + V + O + place + time | We studied grammar at home last night. |
-| Adverb cara | S + adverb + V + O | He carefully checked the answer. |
-| Pertanyaan | Auxiliary + S + base verb ...? | Did you study grammar last night? |
+| Manner | Bagaimana? | quietly, by bus, hard |
+| Place | Di mana? | at home, in Bandung |
+| Time | Kapan? | yesterday, at 7 p.m., last week |
 
-## Membedah dua contoh
+Dengan verb gerak (go, come, arrive), **place** biasanya lebih dulu dari manner:
 
-> **We studied grammar at home last night.**
-> We = subject; studied = verb; grammar = object; at home = place; last night = time.
+- I go **to school by bus** every day.
 
-> **He carefully checked the answer.**
-> Carefully dapat muncul sebelum checked. Dalam banyak konteks, He checked the answer carefully juga wajar.
+Keterangan waktu juga boleh di **awal** kalimat untuk penekanan:
 
-## Kesalahan umum
+- **Yesterday**, she studied at the library.
 
-**Perbaiki:** We grammar studied last night at home.
+## C. Posisi adverb frekuensi
 
-**Gunakan:** We studied grammar at home last night.
+Always, usually, often, sometimes, rarely, never punya posisi khusus.
 
-Object grammar tidak lazim diletakkan sebelum studied dalam pernyataan netral. Pindahkan object setelah verba, lalu tempat dan waktu.
+| Aturan | Contoh |
+| --- | --- |
+| **Sebelum** main verb | She **often** reads at night. |
+| **Setelah** be | She is **always** late. |
+| **Setelah** auxiliary pertama | I have **never** seen it. |
+
+❌ She reads often at night. *(kurang alami)*
+❌ She always is late.
+✅ She is always late.
+
+## D. Urutan adjective sebelum noun
+
+Jika memakai beberapa adjective, ikuti urutan umum ini:
+
+| Opini | Ukuran | Usia | Bentuk | Warna | Asal | Bahan | Tujuan | Noun |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| lovely | small | old | round | red | Italian | wooden | dining | table |
+
+- a **beautiful old Italian** car
+- a **big black leather** bag
+
+Dalam praktik, jarang lebih dari tiga adjective sekaligus.
+
+## E. Dua object: IO + DO
+
+Dengan give, send, show, tell, buy, ada dua urutan:
+
+| Urutan | Contoh |
+| --- | --- |
+| IO + DO | She gave **her friend a book**. |
+| DO + to/for + penerima | She gave **a book to her friend**. |
+
+Jika DO berupa pronoun (it, them), gunakan bentuk dengan **to/for**:
+
+❌ She gave me it.
+✅ She gave it to me.
+
+## F. Common Mistakes
+
+### 1. Urutan waktu di tengah
+❌ Maya yesterday bought a book.
+✅ Maya bought a book yesterday.
+
+### 2. Adverb memisahkan verb dan object
+❌ I like very much football.
+✅ I like football very much.
+
+### 3. Time sebelum place
+❌ We met last night at the café.
+✅ We met at the café last night.
+
+### 4. Adjective setelah noun
+❌ a car red
+✅ a red car
 
 ## Ringkasan
 
-Saat menulis, mulai dengan S + V. Tambahkan object/complement bila diminta verb. Baru tambahkan keterangan; ubah urutan hanya jika ingin penekanan tertentu.
+- Dasar: **S + V + O**, jangan dipisah.
+- Keterangan di akhir: **Manner → Place → Time**.
+- Adverb frekuensi: sebelum main verb, setelah be/auxiliary.
+- Adjective: opini → ukuran → usia → warna → asal → bahan → noun.
