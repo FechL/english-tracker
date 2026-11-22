@@ -6,16 +6,33 @@ import { renderLessonMarkdown } from './markdown.js';
 const root = document.querySelector('#app');
 const STORE = 'grammar-log-progress-v2';
 const themes = [
-  ['jellybeans', 'Jellybeans', '#151515', '#597bc5', '#d8ad4c'],
-  ['horizon', 'Horizon', '#1c1e26', '#e95678', '#fab795'],
-  ['everforest', 'Everforest', '#272e33', '#a7c080', '#dbbc7f'],
-  ['ayu', 'Ayu Dark', '#0b0e14', '#e6b450', '#ff8f40'],
-  ['dracula', 'Dracula', '#282a36', '#bd93f9', '#f1fa8c'],
-  ['nord', 'Nord', '#2e3440', '#88c0d0', '#ebcb8b'],
-  ['gruvbox', 'Gruvbox Dark', '#282828', '#83a598', '#fabd2f'],
-  ['solarized', 'Solarized Dark', '#002b36', '#268bd2', '#b58900'],
-  ['tokyo', 'Tokyo Night', '#1a1b26', '#7aa2f7', '#e0af68'],
-  ['catppuccin', 'Catppuccin Mocha', '#1e1e2e', '#89b4fa', '#f9e2af'],
+  ['jellybeans', 'Jellybeans', '#597bc5', '#71b9f8', '#d8ad4c'],
+  ['horizon', 'Horizon', '#e95678', '#25b0bc', '#fab795'],
+  ['everforest', 'Everforest', '#a7c080', '#7fbbb3', '#dbbc7f'],
+  ['ayu', 'Ayu Dark', '#e6b450', '#59c2ff', '#ff8f40'],
+  ['dracula', 'Dracula', '#bd93f9', '#8be9fd', '#f1fa8c'],
+  ['nord', 'Nord', '#88c0d0', '#8fbcbb', '#ebcb8b'],
+  ['gruvbox', 'Gruvbox Dark', '#83a598', '#8ec07c', '#fabd2f'],
+  ['solarized', 'Solarized Dark', '#268bd2', '#2aa198', '#b58900'],
+  ['tokyo', 'Tokyo Night', '#7aa2f7', '#7dcfff', '#e0af68'],
+  ['catppuccin', 'Catppuccin Mocha', '#89b4fa', '#89dceb', '#f9e2af'],
+  ['jellybeans-light', 'Jellybeans Light', '#4163a8', '#1c689f', '#94650d'],
+  ['solarized-light', 'Solarized Light', '#226aa5', '#167b75', '#8b6300'],
+  ['nord-light', 'Nord Light', '#4b7197', '#2b7677', '#825c17'],
+  ['catppuccin-latte', 'Catppuccin Latte', '#1e66f5', '#047b88', '#895900'],
+];
+const fonts = [
+  ['geist-mono', 'Geist Mono'],
+  ['inter', 'Inter'],
+  ['ibm-plex-mono', 'IBM Plex Mono'],
+  ['source-sans-3', 'Source Sans 3'],
+];
+const fontSizes = [
+  [90, 'Small'],
+  [100, 'Default'],
+  [110, 'Large'],
+  [120, 'Extra large'],
+  [130, 'Maximum'],
 ];
 const tabs = [
   ['overview', '00 / README.md'],
@@ -36,8 +53,10 @@ function loadProgress() {
       practiceBest: current && value.practiceBest && typeof value.practiceBest === 'object' ? value.practiceBest : {},
       lastLesson: getLesson(value.lastLesson) ? Number(value.lastLesson) : 1,
       theme: themes.some(item => item[0] === value.theme) ? value.theme : 'jellybeans',
+      font: fonts.some(item => item[0] === value.font) ? value.font : 'geist-mono',
+      fontSize: fontSizes.some(item => item[0] === value.fontSize) ? value.fontSize : 100,
     };
-  } catch { return { read: [], best: {}, attempts: {}, practiceBest: {}, lastLesson: 1, theme: 'jellybeans' }; }
+  } catch { return { read: [], best: {}, attempts: {}, practiceBest: {}, lastLesson: 1, theme: 'jellybeans', font: 'geist-mono', fontSize: 100 }; }
 }
 const saved = loadProgress();
 const state = {
@@ -53,10 +72,10 @@ const pad = id => String(id).padStart(2, '0');
 const mastered = id => Number(state.best[id] || 0) === 100;
 
 function persist() {
-  try { localStorage.setItem(STORE, JSON.stringify({ read: state.read, best: state.best, attempts: state.attempts, practiceBest: state.practiceBest, lastLesson: state.lastLesson, theme: state.theme })); }
+  try { localStorage.setItem(STORE, JSON.stringify({ read: state.read, best: state.best, attempts: state.attempts, practiceBest: state.practiceBest, lastLesson: state.lastLesson, theme: state.theme, font: state.font, fontSize: state.fontSize })); }
   catch { /* The site still works when storage is unavailable. */ }
 }
-function applyTheme() { document.documentElement.dataset.theme = state.theme; }
+function applyTheme() { document.documentElement.dataset.theme = state.theme; document.documentElement.dataset.font = state.font; document.documentElement.dataset.fontSize = String(state.fontSize); }
 function routeFromHash() {
   const [raw, rawId] = location.hash.slice(1).split('/');
   const page = raw === 'lesson' ? 'lessons' : tabs.some(tab => tab[0] === raw) ? raw : 'overview';
@@ -84,15 +103,15 @@ function panel(title, body, extra = '') { return `<section class="panel ${extra}
 
 function header() {
   const label = tabs.find(tab => tab[0] === state.page)?.[1] || 'README.md';
-  return `<header class="site-head"><div class="brand-row"><div class="brand"><span class="brand-mark">[ G ]</span> GRAMMAR<span class="brand-dot">.</span>LOG</div><a class="github-profile" href="https://github.com/FechL" target="_blank" rel="noopener noreferrer" aria-label="GitHub profile FechL">FechL</a></div><nav class="desktop-tabs" aria-label="Main navigation" role="tablist">${tabs.map(([id, name]) => `<button type="button" role="tab" aria-selected="${state.page === id}" class="tab ${state.page === id ? 'active' : ''} ${id === 'settings' ? 'end-tab' : ''}" data-nav="${id}">${name}</button>`).join('')}</nav><div class="mobile-current">${state.mobileMenu ? '<span>PAGE MENU</span>' : `<button type="button" class="text-button" data-action="menu">← Menu</button><span>${label}</span>`}</div></header>`;
+  return `<header class="site-head"><div class="brand-row"><div class="brand">GRAMMAR<span class="brand-dot">.</span>LOG</div><a class="github-profile" href="https://github.com/FechL" target="_blank" rel="noopener noreferrer" aria-label="GitHub profile FechL">FechL</a></div><nav class="desktop-tabs" aria-label="Main navigation" role="tablist">${tabs.map(([id, name]) => `<button type="button" role="tab" aria-selected="${state.page === id}" class="tab ${state.page === id ? 'active' : ''} ${id === 'settings' ? 'end-tab' : ''}" data-nav="${id}">${name}</button>`).join('')}</nav><div class="mobile-current">${state.mobileMenu ? '<span>PAGE MENU</span>' : `<button type="button" class="text-button" data-action="menu">← Menu</button><span>${label}</span>`}</div></header>`;
 }
 function mobileMenu() {
   return `<main class="content"><section class="panel mobile-menu-panel"><div class="panel-head"><h2>OPEN PAGE</h2><span class="small-muted">SELECT A WORKSPACE</span></div><div class="mobile-menu-list">${tabs.map(([id, name]) => `<button type="button" data-nav="${id}" class="mobile-menu-item"><span>${name}</span><span class="menu-indicator">${id === state.page ? 'CURRENT' : 'OPEN'}</span></button>`).join('')}</div></section></main>`;
 }
 function overview() {
   return `<div class="readme-layout"><aside class="readme-sidebar" aria-label="Informasi proyek">
-    ${panel('REPOSITORY', `<div class="readme-side-body"><span class="side-label">PUBLIC / GITHUB</span><strong>FechL / english-tracker</strong><a href="https://github.com/FechL/english-tracker" target="_blank" rel="noopener noreferrer">Lihat repository ↗</a></div>`)}
-    ${panel('CONTRIBUTOR', `<div class="readme-side-body"><span class="side-label">PROJECT OWNER</span><strong>FechL</strong><a href="https://github.com/FechL" target="_blank" rel="noopener noreferrer">Profil GitHub ↗</a></div>`)}
+    ${panel('REPOSITORY', `<div class="readme-side-body"><strong>FechL / english-tracker</strong><a href="https://github.com/FechL/english-tracker" target="_blank" rel="noopener noreferrer">Lihat repository ↗</a></div>`)}
+    ${panel('CONTRIBUTOR', `<div class="readme-side-body"><strong>FechL</strong><a href="https://github.com/FechL" target="_blank" rel="noopener noreferrer">Profil GitHub ↗</a></div>`)}
     ${panel('CREDIT / RUJUKAN', `<div class="readme-side-body readme-credit"><a href="https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference" target="_blank" rel="noopener noreferrer"><strong>British Council</strong><span>English grammar reference ↗</span></a><a href="https://learnenglish.britishcouncil.org/free-resources/grammar" target="_blank" rel="noopener noreferrer"><strong>British Council</strong><span>Grammar lessons ↗</span></a><a href="https://dictionary.cambridge.org/grammar/british-grammar/" target="_blank" rel="noopener noreferrer"><strong>Cambridge Dictionary</strong><span>English Grammar Today ↗</span></a><a href="https://owl.purdue.edu/owl/general_writing/mechanics/parts_of_speech_overview.html" target="_blank" rel="noopener noreferrer"><strong>Purdue OWL</strong><span>Parts of Speech Overview ↗</span></a></div>`)}
   </aside><section class="panel readme-panel"><div class="article-inner readme-content" data-readme>${readmeCache || '<p>Memuat README…</p>'}</div></section></div>`;
 }
@@ -136,8 +155,9 @@ function lessonSidebar() {
     const visible = term || state.expandedModule === module.id;
     const entries = term && !list.length ? lessons.filter(lesson => lesson.module === module.id) : list;
     return `<div class="sidebar-module"><button type="button" class="module-toggle ${visible ? 'open' : ''}" data-expand="${module.id}" aria-expanded="${visible}"><span>${pad(module.id)} / ${esc(module.name)}</span><span>${visible ? '−' : '+'}</span></button>${visible ? `<div class="lesson-links">${entries.map(lesson => `<button type="button" data-open-lesson="${lesson.id}" class="lesson-link ${state.lesson === lesson.id ? 'selected' : ''}" aria-current="${state.lesson === lesson.id ? 'page' : 'false'}"><span>${pad(lesson.id)} <span class="lesson-link-title">${esc(lesson.title)}</span></span><span class="link-state ${mastered(lesson.id) ? 'done' : state.read.includes(lesson.id) ? 'read' : ''}">${mastered(lesson.id) ? '✓' : state.read.includes(lesson.id) ? '•' : ''}</span></button>`).join('')}</div>` : ''}</div>`;
-  }).join('')}</div></aside>${lessonChatCard()}</div>`;
+  }).join('')}</div></aside></div>`;
 }
+// Ask Bot is archived: keep its component and API code for possible reuse.
 function lessonChatCard() {
   const lesson = getLesson(state.lesson);
   const messages = state.chatByLesson[lesson.id] || [];
@@ -180,7 +200,7 @@ function lessonsPage() {
   const prev = getLesson(l.id - 1), next = getLesson(l.id + 1);
   const article = articleCache.get(l.id) || '<p class="article-lead">Memuat artikel…</p>';
   return `<div class="lesson-layout">${lessonSidebar()}<div class="lesson-body">
-    <article class="panel lesson-article" lang="id" style="--lesson-title-color:var(--${['cyan', 'yellow', 'green', 'violet', 'accent'][(l.id - 1) % 5]})"><div class="article-inner" data-article-id="${l.id}">${article}</div></article>
+    <article class="panel lesson-article" lang="id"><div class="article-inner" data-article-id="${l.id}">${article}</div></article>
     ${quizMarkup(questionsFor(l), 'lesson', l.id)}
     <div class="lesson-footer"><button type="button" class="secondary" data-open-lesson="${prev?.id || l.id}" ${prev ? '' : 'disabled'}>Previous lesson</button><span>${pad(l.id)} / 40</span><button type="button" class="secondary" data-open-lesson="${next?.id || l.id}" ${next ? '' : 'disabled'}>Next lesson</button></div>
   </div></div>`;
@@ -199,7 +219,10 @@ function progressPage() {
   return `${panel('PRACTICE MODULE', `<div class="table-wrap"><table><thead><tr><th>MODULE</th><th>QUESTIONS</th><th>BEST SCORE</th></tr></thead><tbody>${practiceRows}</tbody></table></div>`)}${panel('LESSON LEDGER', `<div class="table-wrap"><table class="ledger"><thead><tr><th>LESSON</th><th>MODULE</th><th>STATUS</th><th>BEST QUIZ</th><th>ATTEMPTS</th></tr></thead><tbody>${lessonRows}</tbody></table></div>`)}`;
 }
 function settingsPage() {
-  return `${panel('COLOR THEME / 10 PALETTES', `<div class="settings-intro"><span class="eyebrow">99 / CONFIGURATION</span><h1>Set your workspace.</h1><p>Choose a terminal palette. Your preference is saved with your progress on this device.</p></div><div class="theme-grid">${themes.map(([id, name, bg, accent, yellow]) => `<button type="button" class="theme-choice ${state.theme === id ? 'selected' : ''}" data-theme="${id}" aria-pressed="${state.theme === id}"><span class="swatches"><i style="background:${bg}"></i><i style="background:${accent}"></i><i style="background:${yellow}"></i></span><span>${esc(name)}</span><span class="theme-state">${state.theme === id ? 'SELECTED ✓' : 'SELECT'}</span></button>`).join('')}</div>`)}${panel('LOCAL DATA', `<div class="settings-data"><div><strong>PROGRESS STORAGE</strong><p>Reading status, best quiz scores, attempts, and theme live in this browser’s local storage. They are not synced across devices.</p></div><button type="button" class="danger" data-action="reset">${state.resetArmed ? 'Confirm reset progress' : 'Reset progress'}</button></div>${state.resetArmed ? '<p class="reset-warning" role="alert">This clears all lesson and quiz progress on this device. Click again to confirm.</p>' : ''}`)}`;
+  const themeButtons = (items) => items.map(([id, name, accent, cyan, yellow]) => `<button type="button" class="theme-choice ${state.theme === id ? 'selected' : ''}" data-theme="${id}" aria-pressed="${state.theme === id}"><span class="swatches" aria-hidden="true"><i style="background:${accent}"></i><i style="background:${cyan}"></i><i style="background:${yellow}"></i></span><span>${esc(name)}</span><span class="theme-state" aria-hidden="true">${state.theme === id ? '✓' : ''}</span></button>`).join('');
+  const fontButtons = fonts.map(([id, name]) => `<button type="button" class="font-choice ${state.font === id ? 'selected' : ''}" data-font="${id}" aria-pressed="${state.font === id}"><span class="font-name">${esc(name)}</span><span class="font-sample" aria-hidden="true">Aa 0123</span><span class="theme-state" aria-hidden="true">${state.font === id ? '✓' : ''}</span></button>`).join('');
+  const sizeButtons = fontSizes.map(([size, name]) => `<button type="button" class="size-choice ${state.fontSize === size ? 'selected' : ''}" data-font-size="${size}" aria-pressed="${state.fontSize === size}"><span>${name}</span><span class="size-sample" aria-hidden="true">Aa · ${size}%</span><span class="theme-state" aria-hidden="true">${state.fontSize === size ? '✓' : ''}</span></button>`).join('');
+  return `<section class="panel configuration-panel"><h2>Color scheme</h2><p>Select a terminal palette. Your choice is saved in this browser.</p><h3 class="palette-group-title">Dark</h3><div class="theme-grid">${themeButtons(themes.slice(0, 10))}</div><h3 class="palette-group-title light-group">Light</h3><div class="theme-grid">${themeButtons(themes.slice(10))}</div></section><section class="panel configuration-panel"><h2>Font family</h2><p>Choose a font for the interface and reading content. Your choice is saved in this browser.</p><div class="font-grid">${fontButtons}</div></section><section class="panel configuration-panel"><h2>Font size</h2><p>Adjust the text size across the interface and articles. Your choice is saved in this browser.</p><div class="size-grid">${sizeButtons}</div></section><section class="panel configuration-panel"><h2>Local data</h2><p>Reading status, best quiz scores, attempts, theme, font, and text size are stored in this browser.</p><div class="settings-data"><button type="button" class="danger" data-action="reset">${state.resetArmed ? 'Confirm reset progress' : 'Reset progress'}</button></div>${state.resetArmed ? '<p class="reset-warning" role="alert">This clears all lesson and quiz progress on this device. Click again to confirm.</p>' : ''}</section>`;
 }
 function render() {
   applyTheme();
@@ -217,6 +240,8 @@ root.addEventListener('click', event => {
   if (button.dataset.openModule) { state.lesson = (Number(button.dataset.openModule) - 1) * 5 + 1; state.lastLesson = state.lesson; persist(); return navigate('lessons', state.lesson); }
   if (button.dataset.expand) { state.expandedModule = state.expandedModule === Number(button.dataset.expand) ? 0 : Number(button.dataset.expand); return render(); }
   if (button.dataset.theme) { state.theme = button.dataset.theme; persist(); return render(); }
+  if (button.dataset.font) { state.font = button.dataset.font; persist(); return render(); }
+  if (button.dataset.fontSize) { state.fontSize = Number(button.dataset.fontSize); persist(); return render(); }
   switch (button.dataset.action) {
     case 'menu': state.mobileMenu = true; render(); break;
     case 'toggle-index': state.mobileIndex = !state.mobileIndex; render(); break;
@@ -317,4 +342,4 @@ window.addEventListener('scroll', () => {
 }, { passive: true });
 routeFromHash();
 if (!location.hash && window.innerWidth <= 700) { state.mobileMenu = true; render(); }
-loadChatStatus();
+// loadChatStatus() returns when Ask Bot is restored to the lesson sidebar.
