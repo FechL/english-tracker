@@ -90,12 +90,11 @@ function mobileMenu() {
   return `<main class="content"><section class="panel mobile-menu-panel"><div class="panel-head"><h2>OPEN PAGE</h2><span class="small-muted">SELECT A WORKSPACE</span></div><div class="mobile-menu-list">${tabs.map(([id, name]) => `<button type="button" data-nav="${id}" class="mobile-menu-item"><span>${name}</span><span class="menu-indicator">${id === state.page ? 'CURRENT' : 'OPEN'}</span></button>`).join('')}</div></section></main>`;
 }
 function overview() {
-  const moduleCards = modules.map(module => {
-    const group = lessons.filter(lesson => lesson.module === module.id);
-    const done = group.filter(lesson => mastered(lesson.id)).length;
-    return `<button type="button" class="module-card" data-open-module="${module.id}"><span class="module-top"><span class="module-index">MODULE ${pad(module.id)}</span><span class="module-count">${done}/5 MASTERED</span></span><strong>${esc(module.name)}</strong><span class="module-summary">${esc(module.summary)}</span>${progressBar(done * 20, `${module.name} mastery`)}<span class="module-foot">LESSONS ${pad(group[0].id)}—${pad(group[4].id)}</span></button>`;
-  }).join('');
-  return `${panel('README.md', `<div class="article-inner readme-content" data-readme>${readmeCache || '<p>Memuat README…</p>'}</div>`, 'readme-panel')}${panel('CURRICULUM / 8 MODULES', `<div class="module-grid">${moduleCards}</div>`, 'curriculum-panel')}`;
+  return `<div class="readme-layout"><aside class="readme-sidebar" aria-label="Informasi proyek">
+    ${panel('REPOSITORY', `<div class="readme-side-body"><span class="side-label">PUBLIC / GITHUB</span><strong>FechL / english-tracker</strong><a href="https://github.com/FechL/english-tracker" target="_blank" rel="noopener noreferrer">Lihat repository ↗</a></div>`)}
+    ${panel('CONTRIBUTOR', `<div class="readme-side-body"><span class="side-label">PROJECT OWNER</span><strong>FechL</strong><a href="https://github.com/FechL" target="_blank" rel="noopener noreferrer">Profil GitHub ↗</a></div>`)}
+    ${panel('CREDIT / RUJUKAN', `<div class="readme-side-body readme-credit"><a href="https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference" target="_blank" rel="noopener noreferrer"><strong>British Council</strong><span>English grammar reference ↗</span></a><a href="https://learnenglish.britishcouncil.org/free-resources/grammar" target="_blank" rel="noopener noreferrer"><strong>British Council</strong><span>Grammar lessons ↗</span></a><a href="https://dictionary.cambridge.org/grammar/british-grammar/" target="_blank" rel="noopener noreferrer"><strong>Cambridge Dictionary</strong><span>English Grammar Today ↗</span></a><a href="https://owl.purdue.edu/owl/general_writing/mechanics/parts_of_speech_overview.html" target="_blank" rel="noopener noreferrer"><strong>Purdue OWL</strong><span>Parts of Speech Overview ↗</span></a></div>`)}
+  </aside><section class="panel readme-panel"><div class="article-inner readme-content" data-readme>${readmeCache || '<p>Memuat README…</p>'}</div></section></div>`;
 }
 let readmeCache = '';
 async function loadReadme() {
@@ -144,10 +143,10 @@ function lessonChatCard() {
   const messages = state.chatByLesson[lesson.id] || [];
   const pending = Boolean(state.chatPending[lesson.id]);
   const configured = state.chatConfigured === true;
-  const status = state.chatConfigured === null ? 'Memeriksa koneksi chat…' : configured ? '' : state.chatStatusError || 'Chat belum aktif. Isi GEMINI_API_KEY di server lalu muat ulang halaman.';
-  const bubbles = messages.map(entry => `<div class="chat-message ${entry.role === 'user' ? 'from-user' : 'from-assistant'}"><span>${entry.role === 'user' ? 'KAMU' : 'GEMINI'}</span><p>${esc(entry.text)}</p></div>`).join('');
-  const pendingBubble = pending ? `<div class="chat-message from-user"><span>KAMU</span><p>${esc(state.chatPendingMessage[lesson.id])}</p></div><p class="chat-loading" role="status">Gemini sedang menjawab…</p>` : '';
-  return `<section class="panel lesson-chat-card" aria-label="Tutor bahasa Inggris"><div class="panel-head"><h2>ASK GEMINI</h2><span class="small-muted">LESSON ${pad(lesson.id)}</span></div><div class="chat-context"><strong>${esc(lesson.title)}</strong><p>Hanya pertanyaan seputar bahasa Inggris. Jawaban memakai konteks lesson ini.</p></div><div class="chat-log" role="log" aria-label="Percakapan lesson ${pad(lesson.id)}" aria-live="polite">${bubbles || '<p class="chat-empty">Tanyakan bagian materi yang belum jelas.</p>'}${pendingBubble}</div>${status ? `<p class="chat-status" role="status">${esc(status)}</p>` : ''}${state.chatErrors[lesson.id] ? `<p class="chat-error" role="alert">${esc(state.chatErrors[lesson.id])}</p>` : ''}<form class="lesson-chat-form" data-chat-form data-lesson-id="${lesson.id}"><label for="lesson-chat-input">PERTANYAANMU</label><textarea id="lesson-chat-input" name="message" rows="3" maxlength="1500" placeholder="Contoh: Apa beda object dan complement?" ${configured && !pending ? '' : 'disabled'}>${esc(state.chatDrafts[lesson.id] || '')}</textarea><button type="submit" class="primary" ${configured && !pending ? '' : 'disabled'}>Kirim pertanyaan</button></form></section>`;
+  const status = state.chatConfigured === null ? 'Memeriksa koneksi chat…' : state.chatStatusError;
+  const bubbles = messages.map(entry => `<div class="chat-message ${entry.role === 'user' ? 'from-user' : 'from-assistant'}"><span>${entry.role === 'user' ? 'KAMU' : 'BOT'}</span><p>${esc(entry.text)}</p></div>`).join('');
+  const pendingBubble = pending ? `<div class="chat-message from-user"><span>KAMU</span><p>${esc(state.chatPendingMessage[lesson.id])}</p></div><p class="chat-loading" role="status">Bot sedang menjawab…</p>` : '';
+  return `<section class="panel lesson-chat-card" aria-label="Tutor bahasa Inggris"><div class="panel-head"><h2>ASK BOT</h2></div>${bubbles || pendingBubble ? `<div class="chat-log" role="log" aria-label="Percakapan lesson ${pad(lesson.id)}" aria-live="polite">${bubbles}${pendingBubble}</div>` : ''}${status ? `<p class="chat-status" role="status">${esc(status)}</p>` : ''}${state.chatErrors[lesson.id] ? `<p class="chat-error" role="alert">${esc(state.chatErrors[lesson.id])}</p>` : ''}<form class="lesson-chat-form" data-chat-form data-lesson-id="${lesson.id}"><label for="lesson-chat-input">PERTANYAANMU</label><textarea id="lesson-chat-input" name="message" rows="3" maxlength="1500" placeholder="Contoh: Apa beda object dan complement?" ${configured && !pending ? '' : 'disabled'}>${esc(state.chatDrafts[lesson.id] || '')}</textarea><button type="submit" class="primary" ${configured && !pending ? '' : 'disabled'}>Kirim pertanyaan</button></form></section>`;
 }
 const articleCache = new Map();
 async function loadArticle(lesson) {
@@ -304,7 +303,7 @@ async function loadChatStatus() {
     state.chatStatusError = state.chatConfigured ? '' : 'Chat belum aktif. Isi GEMINI_API_KEY di .env lalu jalankan ulang server.';
   } catch {
     state.chatConfigured = false;
-    state.chatStatusError = 'Chat memerlukan server Node dengan endpoint Gemini.';
+    state.chatStatusError = '';
   }
   if (state.page === 'lessons') render();
 }

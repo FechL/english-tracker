@@ -54,12 +54,11 @@ test('practice contains 20 questions per module and 40 across all modules', () =
   for (const module of modules) assert.equal(final.filter(question => getLesson(question.lessonId).module === module.id).length, 5);
 });
 
-test('README documents every module and lesson and renders reference links', async () => {
+test('README documents every module and lesson without the removed sections', async () => {
   const readme = await readFile(new URL('../README.md', import.meta.url), 'utf8');
   for (const module of modules) assert.ok(readme.includes(module.name), `Missing module ${module.id}`);
   for (const lesson of lessons) assert.ok(readme.includes(lesson.title), `Missing lesson ${lesson.id}`);
   const html = renderLessonMarkdown(readme);
   assert.match(html, /<h3 class="article-subheading">Module 08/);
-  assert.match(html, /<a href="https:\/\/learnenglish\.britishcouncil\.org\//);
-  assert.match(html, /<a href="https:\/\/dictionary\.cambridge\.org\//);
+  assert.doesNotMatch(readme, /^## (Penilaian dan penyimpanan|Menjalankan proyek|Kredit|Rujukan belajar)$/m);
 });
