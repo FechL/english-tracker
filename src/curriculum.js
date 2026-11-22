@@ -66,3 +66,7 @@ export const lessons = [
 
 export function getLesson(id) { return lessons.find(lesson => lesson.id === Number(id)); }
 export function getModule(id) { return modules.find(module => module.id === Number(id)); }
+export function lessonFileName(lesson) {
+  const slug = lesson.title.toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+  return `${String(lesson.id).padStart(2, '0')}-${slug}.md`;
+}

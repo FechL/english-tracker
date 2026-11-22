@@ -1,10 +1,12 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { lessons, modules, getLesson, getModule } from '../src/curriculum.js';
-import { lessonDetails, moduleSources, getLessonDetail } from '../src/lessonDetails.js';
-import { articleSections } from '../src/articles.js';
+import { readFile } from 'node:fs/promises';
+import { lessons, modules, getLesson, getModule, lessonFileName } from '../src/curriculum.js';
+import { questionsFor } from '../src/quiz.js';
+import { practiceQuestions, finalPracticeQuestions } from '../src/practice.js';
+import { renderLessonMarkdown } from '../src/markdown.js';
 
-test('curriculum has 8 ordered modules with 5 lessons each', () => {
+test('curriculum has eight ordered modules with five lessons each', () => {
   assert.equal(modules.length, 8);
   assert.equal(lessons.length, 40);
   assert.deepEqual(lessons.map(lesson => lesson.id), Array.from({ length: 40 }, (_, index) => index + 1));
@@ -14,44 +16,50 @@ test('curriculum has 8 ordered modules with 5 lessons each', () => {
   }
 });
 
-test('every lesson has reading material and an evaluable quiz', () => {
+test('every lesson has its own substantive Markdown article and five evaluable quiz questions', async () => {
   for (const lesson of lessons) {
     assert.equal(getLesson(lesson.id), lesson);
-    for (const key of ['title', 'objective', 'rule', 'good', 'second', 'bad', 'note', 'question', 'explanation']) {
-      assert.ok(lesson[key]?.trim(), `Lesson ${lesson.id} missing ${key}`);
+    const article = await readFile(new URL(`../content/lessons/${lessonFileName(lesson)}`, import.meta.url), 'utf8');
+    assert.ok(article.startsWith(`# ${lesson.title}\n`));
+    assert.ok(article.split(/\s+/).length >= 450, `Lesson ${lesson.id} article is too short`);
+    assert.ok((article.match(/^## /gm) || []).length >= 5, `Lesson ${lesson.id} needs sections`);
+    assert.doesNotMatch(article, /Rujukan Materi/i);
+    assert.match(renderLessonMarkdown(article), /<h2 class="article-heading">/);
+    const quiz = questionsFor(lesson);
+    assert.equal(quiz.length, 5);
+    for (const question of quiz) {
+      assert.ok(question.prompt.trim());
+      assert.ok(question.explanation.trim());
+      assert.ok(question.options.length >= 2);
+      assert.ok(question.answer >= 0 && question.answer < question.options.length);
     }
-    assert.notEqual(lesson.good, lesson.bad);
-    assert.equal(lesson.options.length, 3);
-    assert.ok(Number.isInteger(lesson.answer) && lesson.answer >= 0 && lesson.answer < lesson.options.length);
   }
 });
 
-test('every lesson has an Indonesian explanation, worked examples, and a correction', () => {
-  assert.equal(lessonDetails.length, 40);
-  for (const lesson of lessons) {
-    const detail = getLessonDetail(lesson.id);
-    assert.ok(detail, `Lesson ${lesson.id} has no detailed material`);
-    assert.ok(detail.intro.length > 250, `Lesson ${lesson.id} explanation is too short`);
-    assert.ok(detail.forms.length >= 3, `Lesson ${lesson.id} needs several patterns`);
-    assert.equal(detail.analysis.length, 2);
-    assert.ok(detail.fix && detail.why && detail.decision);
-    assert.notEqual(detail.fix, lesson.bad);
-    assert.ok(moduleSources[lesson.module].length >= 2);
-    for (const [, url] of moduleSources[lesson.module]) assert.match(url, /^https:\/\//);
+test('practice contains 20 questions per module and 40 across all modules', () => {
+  const quizPrompts = new Set(lessons.flatMap(questionsFor).map(question => question.prompt));
+  for (const module of modules) {
+    const questions = practiceQuestions(module.id);
+    assert.equal(questions.length, 20);
+    assert.equal(new Set(questions.map(question => question.prompt)).size, 20);
+    for (const question of questions) {
+      assert.equal(getLesson(question.lessonId).module, module.id);
+      assert.ok(!quizPrompts.has(question.prompt), `Practice repeats a quiz question: ${question.prompt}`);
+      assert.ok(question.answer >= 0 && question.answer < question.options.length);
+      assert.ok(question.explanation.trim());
+    }
   }
+  const final = finalPracticeQuestions();
+  assert.equal(final.length, 40);
+  for (const module of modules) assert.equal(final.filter(question => getLesson(question.lessonId).module === module.id).length, 5);
 });
 
-test('all 40 lessons have substantive article sections', () => {
-  assert.equal(Object.keys(articleSections).length, 40);
-  for (const lesson of lessons) {
-    const sections = articleSections[lesson.id];
-    assert.ok(sections?.length >= 3, `Lesson ${lesson.id} needs article sections`);
-    for (const section of sections) {
-      assert.ok(section.title && section.paragraphs.length >= 2);
-      assert.ok(section.examples.length || section.points.length);
-    }
-    const words = sections.flatMap(section => [...section.paragraphs, ...section.examples.flat(), ...section.points]).join(' ').split(/\s+/).length;
-    assert.ok(words >= 250, `Lesson ${lesson.id} article is too short (${words} words)`);
-  }
-  assert.ok(articleSections[2].length >= 8);
+test('README documents every module and lesson and renders reference links', async () => {
+  const readme = await readFile(new URL('../README.md', import.meta.url), 'utf8');
+  for (const module of modules) assert.ok(readme.includes(module.name), `Missing module ${module.id}`);
+  for (const lesson of lessons) assert.ok(readme.includes(lesson.title), `Missing lesson ${lesson.id}`);
+  const html = renderLessonMarkdown(readme);
+  assert.match(html, /<h3 class="article-subheading">Module 08/);
+  assert.match(html, /<a href="https:\/\/learnenglish\.britishcouncil\.org\//);
+  assert.match(html, /<a href="https:\/\/dictionary\.cambridge\.org\//);
 });
